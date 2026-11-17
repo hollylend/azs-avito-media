@@ -17,7 +17,7 @@
 <WorkTimeTo>20:00</WorkTimeTo>
 <MinimumOrderAmount>10000</MinimumOrderAmount>
 <Price>5000</Price>
-<FacadeWork><Option>Монтаж</Option><Option>Отделочные работы</Option></FacadeWork><FacadeType><Option>Вентилируемые</Option></FacadeType><FacadeMaterials><Option>Фасадные панели</Option></FacadeMaterials><TeamSize>5-20 человек</TeamSize>
+<FacadeWork><Option>Монтаж</Option><Option>Отделочные работы</Option></FacadeWork><FacadeType><Option>Вентилируемые</Option></FacadeType><FacadeMaterials><Option>Фасадные панели</Option></FacadeMaterials><TeamSize>5-20 человек</TeamSize><MaterialPurchase>Возможна</MaterialPurchase>
 <Images><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_13.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_16.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_17.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_11.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_12.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_20.jpg"/></Images>
 </Ad>
 <Ad>
@@ -77,7 +77,7 @@
 <WorkTimeTo>20:00</WorkTimeTo>
 <MinimumOrderAmount>10000</MinimumOrderAmount>
 <Price>5000</Price>
-<FacadeWork><Option>Монтаж</Option><Option>Отделочные работы</Option></FacadeWork><FacadeType><Option>Вентилируемые</Option></FacadeType><FacadeMaterials><Option>Фасадные панели</Option></FacadeMaterials><TeamSize>5-20 человек</TeamSize>
+<FacadeWork><Option>Монтаж</Option><Option>Отделочные работы</Option></FacadeWork><FacadeType><Option>Вентилируемые</Option></FacadeType><FacadeMaterials><Option>Фасадные панели</Option></FacadeMaterials><TeamSize>5-20 человек</TeamSize><MaterialPurchase>Возможна</MaterialPurchase>
 <Images><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_16.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_17.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_11.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_12.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_20.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_13.jpg"/></Images>
 </Ad>
 <Ad>
@@ -157,7 +157,7 @@
 <WorkTimeTo>20:00</WorkTimeTo>
 <MinimumOrderAmount>10000</MinimumOrderAmount>
 <Price>5000</Price>
-<FacadeWork><Option>Монтаж</Option><Option>Отделочные работы</Option></FacadeWork><FacadeType><Option>Вентилируемые</Option></FacadeType><FacadeMaterials><Option>Фасадные панели</Option></FacadeMaterials><TeamSize>5-20 человек</TeamSize>
+<FacadeWork><Option>Монтаж</Option><Option>Отделочные работы</Option></FacadeWork><FacadeType><Option>Вентилируемые</Option></FacadeType><FacadeMaterials><Option>Фасадные панели</Option></FacadeMaterials><TeamSize>5-20 человек</TeamSize><MaterialPurchase>Возможна</MaterialPurchase>
 <Images><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_17.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_11.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_12.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_20.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_13.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_16.jpg"/></Images>
 </Ad>
 <Ad>
@@ -237,7 +237,7 @@
 <WorkTimeTo>20:00</WorkTimeTo>
 <MinimumOrderAmount>10000</MinimumOrderAmount>
 <Price>5000</Price>
-<FacadeWork><Option>Монтаж</Option><Option>Отделочные работы</Option></FacadeWork><FacadeType><Option>Вентилируемые</Option></FacadeType><FacadeMaterials><Option>Фасадные панели</Option></FacadeMaterials><TeamSize>5-20 человек</TeamSize>
+<FacadeWork><Option>Монтаж</Option><Option>Отделочные работы</Option></FacadeWork><FacadeType><Option>Вентилируемые</Option></FacadeType><FacadeMaterials><Option>Фасадные панели</Option></FacadeMaterials><TeamSize>5-20 человек</TeamSize><MaterialPurchase>Возможна</MaterialPurchase>
 <Images><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_11.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_12.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_20.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_13.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_16.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_17.jpg"/></Images>
 </Ad>
 <Ad>
@@ -317,7 +317,7 @@
 <WorkTimeTo>20:00</WorkTimeTo>
 <MinimumOrderAmount>10000</MinimumOrderAmount>
 <Price>5000</Price>
-<FacadeWork><Option>Монтаж</Option><Option>Отделочные работы</Option></FacadeWork><FacadeType><Option>Вентилируемые</Option></FacadeType><FacadeMaterials><Option>Фасадные панели</Option></FacadeMaterials><TeamSize>5-20 человек</TeamSize>
+<FacadeWork><Option>Монтаж</Option><Option>Отделочные работы</Option></FacadeWork><FacadeType><Option>Вентилируемые</Option></FacadeType><FacadeMaterials><Option>Фасадные панели</Option></FacadeMaterials><TeamSize>5-20 человек</TeamSize><MaterialPurchase>Возможна</MaterialPurchase>
 <Images><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_12.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_20.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_13.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_16.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_17.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_11.jpg"/></Images>
 </Ad>
 <Ad>
