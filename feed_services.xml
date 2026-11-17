@@ -360,4 +360,644 @@
 <Objects><Option>Объекты сферы услуг</Option></Objects>
 <Images><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_06.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_08.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_19.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_09.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_05.jpg"/></Images>
 </Ad>
+<Ad>
+<Id>azs-slv</Id>
+<Category>Предложение услуг</Category>
+<ServiceType>Строительство</ServiceType>
+<ServiceSubtype>Коммерческое строительство</ServiceSubtype>
+<Title>Модернизация АЗС под ключ — Славянск-на-Кубани</Title>
+<Description><![CDATA[<p>Строительство и реконструкция автозаправочных станций и нефтебаз под ключ: ребрендинг, установка ТРК, протяжка технологического трубопровода, зачистка и калибровка резервуаров.</p><ul><li>проектирование с учётом норм безопасности</li><li>навесы, освещение, здания касс и магазинов</li><li>облицовка фасадов композитом</li><li>резервуарные парки и колодцы</li><li>мощение и благоустройство</li></ul><p>Работаем по Славянску-на-Кубани и району, выезжаем на объект. Опыт в сфере 10+ лет, гарантия, работа по договору. Ежедневно 09:00–20:00, минимальный заказ 10 000 ₽.</p><p>На фото — наши объекты: как было и как стало.</p><p>Напишите в сообщения — обсудим задачу и рассчитаем смету.</p>]]></Description>
+<Address>Краснодарский край, Славянск-на-Кубани, ул. Красная, 22</Address>
+<ContactMethod>По телефону и в сообщениях</ContactMethod>
+<WorkExperience>10 лет и больше</WorkExperience>
+<Guarantee>Есть</Guarantee>
+<WorkWithContract>Да</WorkWithContract>
+<WorkDays><Option>пн.</Option><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>сб.</Option><Option>вс.</Option></WorkDays>
+<WorkTimeFrom>09:00</WorkTimeFrom>
+<WorkTimeTo>20:00</WorkTimeTo>
+<MinimumOrderAmount>10000</MinimumOrderAmount>
+<Price>5000</Price>
+<Objects><Option>Объекты сферы услуг</Option><Option>Торговые объекты</Option></Objects><ConstructionTechnology><Option>Из металлокаркаса</Option><Option>Из сэндвич-панелей</Option></ConstructionTechnology><ContractorType><Option>Подрядчик под ключ</Option><Option>Генподрядчик</Option></ContractorType>
+<Images><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_06.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_07.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_09.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_10.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_14.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_01.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_02.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_03.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_04.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_05.jpg"/></Images>
+</Ad>
+<Ad>
+<Id>fas-slv</Id>
+<Category>Предложение услуг</Category>
+<ServiceType>Строительство</ServiceType>
+<ServiceSubtype>Фасадные работы</ServiceSubtype>
+<Title>Отделка фасадов АЗС — Славянск-на-Кубани</Title>
+<Description><![CDATA[<p>Облицовка зданий АЗС, касс, кафе и автомоек композитными панелями, в том числе с фактурой дерева.</p><ul><li>подсистема из оцинкованного профиля</li><li>навесной вентилируемый фасад</li><li>входные группы, витрины, примыкания</li></ul><p>Работаем по Славянску-на-Кубани и району, выезжаем на объект. Опыт в сфере 10+ лет, гарантия, работа по договору. Ежедневно 09:00–20:00, минимальный заказ 10 000 ₽.</p><p>На фото — наши объекты: как было и как стало.</p><p>Напишите в сообщения — обсудим задачу и рассчитаем смету.</p>]]></Description>
+<Address>Краснодарский край, Славянск-на-Кубани, ул. Красная, 22</Address>
+<ContactMethod>По телефону и в сообщениях</ContactMethod>
+<WorkExperience>10 лет и больше</WorkExperience>
+<Guarantee>Есть</Guarantee>
+<WorkWithContract>Да</WorkWithContract>
+<WorkDays><Option>пн.</Option><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>сб.</Option><Option>вс.</Option></WorkDays>
+<WorkTimeFrom>09:00</WorkTimeFrom>
+<WorkTimeTo>20:00</WorkTimeTo>
+<MinimumOrderAmount>10000</MinimumOrderAmount>
+<Price>5000</Price>
+<FacadeWork><Option>Монтаж</Option><Option>Отделочные работы</Option></FacadeWork><FacadeType><Option>Вентилируемые</Option></FacadeType><FacadeMaterials><Option>Фасадные панели</Option></FacadeMaterials><TeamSize>5-20 человек</TeamSize><MaterialPurchase>Возможна</MaterialPurchase>
+<Images><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_20.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_13.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_16.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_17.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_11.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_12.jpg"/></Images>
+</Ad>
+<Ad>
+<Id>rez-slv</Id>
+<Category>Предложение услуг</Category>
+<ServiceType>Строительство</ServiceType>
+<ServiceSubtype>Коммерческое строительство</ServiceSubtype>
+<Title>Монтаж технологических колодцев АЗС — Славянск-на-Кубани</Title>
+<Description><![CDATA[<p>Монтаж резервуарных парков для АЗС и нефтебаз.</p><ul><li>земляные работы и установка резервуаров</li><li>технологические колодцы и обвязка трубопроводов</li><li>дыхательная арматура, площадки обслуживания</li><li>зачистка и калибровка резервуаров</li></ul><p>Работаем по Славянску-на-Кубани и району, выезжаем на объект. Опыт в сфере 10+ лет, гарантия, работа по договору. Ежедневно 09:00–20:00, минимальный заказ 10 000 ₽.</p><p>На фото — наши объекты: как было и как стало.</p><p>Напишите в сообщения — обсудим задачу и рассчитаем смету.</p>]]></Description>
+<Address>Краснодарский край, Славянск-на-Кубани, ул. Красная, 22</Address>
+<ContactMethod>По телефону и в сообщениях</ContactMethod>
+<WorkExperience>10 лет и больше</WorkExperience>
+<Guarantee>Есть</Guarantee>
+<WorkWithContract>Да</WorkWithContract>
+<WorkDays><Option>пн.</Option><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>сб.</Option><Option>вс.</Option></WorkDays>
+<WorkTimeFrom>09:00</WorkTimeFrom>
+<WorkTimeTo>20:00</WorkTimeTo>
+<MinimumOrderAmount>10000</MinimumOrderAmount>
+<Price>5000</Price>
+<Objects><Option>Объекты сферы услуг</Option></Objects>
+<Images><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_15.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_18.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_10.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_14.jpg"/></Images>
+</Ad>
+<Ad>
+<Id>trk-slv</Id>
+<Category>Предложение услуг</Category>
+<ServiceType>Строительство</ServiceType>
+<ServiceSubtype>Коммерческое строительство</ServiceSubtype>
+<Title>Площадка АЗС под ключ — Славянск-на-Кубани</Title>
+<Description><![CDATA[<p>Обустройство площадки АЗС: островки ТРК, установка колонок, мощение под навесом, бордюры и отбойники.</p><ul><li>каркас и облицовка островков</li><li>подключение ТРК</li><li>укладка тротуарной плитки</li></ul><p>Работаем по Славянску-на-Кубани и району, выезжаем на объект. Опыт в сфере 10+ лет, гарантия, работа по договору. Ежедневно 09:00–20:00, минимальный заказ 10 000 ₽.</p><p>На фото — наши объекты: как было и как стало.</p><p>Напишите в сообщения — обсудим задачу и рассчитаем смету.</p>]]></Description>
+<Address>Краснодарский край, Славянск-на-Кубани, ул. Красная, 22</Address>
+<ContactMethod>По телефону и в сообщениях</ContactMethod>
+<WorkExperience>10 лет и больше</WorkExperience>
+<Guarantee>Есть</Guarantee>
+<WorkWithContract>Да</WorkWithContract>
+<WorkDays><Option>пн.</Option><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>сб.</Option><Option>вс.</Option></WorkDays>
+<WorkTimeFrom>09:00</WorkTimeFrom>
+<WorkTimeTo>20:00</WorkTimeTo>
+<MinimumOrderAmount>10000</MinimumOrderAmount>
+<Price>5000</Price>
+<Objects><Option>Объекты сферы услуг</Option></Objects>
+<Images><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_08.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_19.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_09.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_05.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_06.jpg"/></Images>
+</Ad>
+<Ad>
+<Id>azs-abn</Id>
+<Category>Предложение услуг</Category>
+<ServiceType>Строительство</ServiceType>
+<ServiceSubtype>Коммерческое строительство</ServiceSubtype>
+<Title>Строительство и ремонт АЗС в г. Абинск</Title>
+<Description><![CDATA[<p>Строительство и реконструкция автозаправочных станций и нефтебаз под ключ: ребрендинг, установка ТРК, протяжка технологического трубопровода, зачистка и калибровка резервуаров.</p><ul><li>проектирование с учётом норм безопасности</li><li>навесы, освещение, здания касс и магазинов</li><li>облицовка фасадов композитом</li><li>резервуарные парки и колодцы</li><li>мощение и благоустройство</li></ul><p>Работаем по Абинску и Абинскому району, выезжаем на объект. Опыт в сфере 10+ лет, гарантия, работа по договору. Ежедневно 09:00–20:00, минимальный заказ 10 000 ₽.</p><p>На фото — наши объекты: как было и как стало.</p><p>Напишите в сообщения — обсудим задачу и рассчитаем смету.</p>]]></Description>
+<Address>Краснодарский край, Абинск, ул. Интернациональная, 39</Address>
+<ContactMethod>По телефону и в сообщениях</ContactMethod>
+<WorkExperience>10 лет и больше</WorkExperience>
+<Guarantee>Есть</Guarantee>
+<WorkWithContract>Да</WorkWithContract>
+<WorkDays><Option>пн.</Option><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>сб.</Option><Option>вс.</Option></WorkDays>
+<WorkTimeFrom>09:00</WorkTimeFrom>
+<WorkTimeTo>20:00</WorkTimeTo>
+<MinimumOrderAmount>10000</MinimumOrderAmount>
+<Price>5000</Price>
+<Objects><Option>Объекты сферы услуг</Option><Option>Торговые объекты</Option></Objects><ConstructionTechnology><Option>Из металлокаркаса</Option><Option>Из сэндвич-панелей</Option></ConstructionTechnology><ContractorType><Option>Подрядчик под ключ</Option><Option>Генподрядчик</Option></ContractorType>
+<Images><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_07.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_09.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_10.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_14.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_01.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_02.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_03.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_04.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_05.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_06.jpg"/></Images>
+</Ad>
+<Ad>
+<Id>fas-abn</Id>
+<Category>Предложение услуг</Category>
+<ServiceType>Строительство</ServiceType>
+<ServiceSubtype>Фасадные работы</ServiceSubtype>
+<Title>Монтаж вентфасада на АЗС, Абинск</Title>
+<Description><![CDATA[<p>Облицовка зданий АЗС, касс, кафе и автомоек композитными панелями, в том числе с фактурой дерева.</p><ul><li>подсистема из оцинкованного профиля</li><li>навесной вентилируемый фасад</li><li>входные группы, витрины, примыкания</li></ul><p>Работаем по Абинску и Абинскому району, выезжаем на объект. Опыт в сфере 10+ лет, гарантия, работа по договору. Ежедневно 09:00–20:00, минимальный заказ 10 000 ₽.</p><p>На фото — наши объекты: как было и как стало.</p><p>Напишите в сообщения — обсудим задачу и рассчитаем смету.</p>]]></Description>
+<Address>Краснодарский край, Абинск, ул. Интернациональная, 39</Address>
+<ContactMethod>По телефону и в сообщениях</ContactMethod>
+<WorkExperience>10 лет и больше</WorkExperience>
+<Guarantee>Есть</Guarantee>
+<WorkWithContract>Да</WorkWithContract>
+<WorkDays><Option>пн.</Option><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>сб.</Option><Option>вс.</Option></WorkDays>
+<WorkTimeFrom>09:00</WorkTimeFrom>
+<WorkTimeTo>20:00</WorkTimeTo>
+<MinimumOrderAmount>10000</MinimumOrderAmount>
+<Price>5000</Price>
+<FacadeWork><Option>Монтаж</Option><Option>Отделочные работы</Option></FacadeWork><FacadeType><Option>Вентилируемые</Option></FacadeType><FacadeMaterials><Option>Фасадные панели</Option></FacadeMaterials><TeamSize>5-20 человек</TeamSize><MaterialPurchase>Возможна</MaterialPurchase>
+<Images><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_13.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_16.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_17.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_11.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_12.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_20.jpg"/></Images>
+</Ad>
+<Ad>
+<Id>rez-abn</Id>
+<Category>Предложение услуг</Category>
+<ServiceType>Строительство</ServiceType>
+<ServiceSubtype>Коммерческое строительство</ServiceSubtype>
+<Title>Резервуары и трубопроводы для АЗС, Абинск</Title>
+<Description><![CDATA[<p>Монтаж резервуарных парков для АЗС и нефтебаз.</p><ul><li>земляные работы и установка резервуаров</li><li>технологические колодцы и обвязка трубопроводов</li><li>дыхательная арматура, площадки обслуживания</li><li>зачистка и калибровка резервуаров</li></ul><p>Работаем по Абинску и Абинскому району, выезжаем на объект. Опыт в сфере 10+ лет, гарантия, работа по договору. Ежедневно 09:00–20:00, минимальный заказ 10 000 ₽.</p><p>На фото — наши объекты: как было и как стало.</p><p>Напишите в сообщения — обсудим задачу и рассчитаем смету.</p>]]></Description>
+<Address>Краснодарский край, Абинск, ул. Интернациональная, 39</Address>
+<ContactMethod>По телефону и в сообщениях</ContactMethod>
+<WorkExperience>10 лет и больше</WorkExperience>
+<Guarantee>Есть</Guarantee>
+<WorkWithContract>Да</WorkWithContract>
+<WorkDays><Option>пн.</Option><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>сб.</Option><Option>вс.</Option></WorkDays>
+<WorkTimeFrom>09:00</WorkTimeFrom>
+<WorkTimeTo>20:00</WorkTimeTo>
+<MinimumOrderAmount>10000</MinimumOrderAmount>
+<Price>5000</Price>
+<Objects><Option>Объекты сферы услуг</Option></Objects>
+<Images><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_18.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_10.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_14.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_15.jpg"/></Images>
+</Ad>
+<Ad>
+<Id>trk-abn</Id>
+<Category>Предложение услуг</Category>
+<ServiceType>Строительство</ServiceType>
+<ServiceSubtype>Коммерческое строительство</ServiceSubtype>
+<Title>Благоустройство территории АЗС, Абинск</Title>
+<Description><![CDATA[<p>Обустройство площадки АЗС: островки ТРК, установка колонок, мощение под навесом, бордюры и отбойники.</p><ul><li>каркас и облицовка островков</li><li>подключение ТРК</li><li>укладка тротуарной плитки</li></ul><p>Работаем по Абинску и Абинскому району, выезжаем на объект. Опыт в сфере 10+ лет, гарантия, работа по договору. Ежедневно 09:00–20:00, минимальный заказ 10 000 ₽.</p><p>На фото — наши объекты: как было и как стало.</p><p>Напишите в сообщения — обсудим задачу и рассчитаем смету.</p>]]></Description>
+<Address>Краснодарский край, Абинск, ул. Интернациональная, 39</Address>
+<ContactMethod>По телефону и в сообщениях</ContactMethod>
+<WorkExperience>10 лет и больше</WorkExperience>
+<Guarantee>Есть</Guarantee>
+<WorkWithContract>Да</WorkWithContract>
+<WorkDays><Option>пн.</Option><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>сб.</Option><Option>вс.</Option></WorkDays>
+<WorkTimeFrom>09:00</WorkTimeFrom>
+<WorkTimeTo>20:00</WorkTimeTo>
+<MinimumOrderAmount>10000</MinimumOrderAmount>
+<Price>5000</Price>
+<Objects><Option>Объекты сферы услуг</Option></Objects>
+<Images><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_19.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_09.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_05.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_06.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_08.jpg"/></Images>
+</Ad>
+<Ad>
+<Id>azs-krm</Id>
+<Category>Предложение услуг</Category>
+<ServiceType>Строительство</ServiceType>
+<ServiceSubtype>Коммерческое строительство</ServiceSubtype>
+<Title>АЗС под ключ: строительство и реконструкция — Крымск</Title>
+<Description><![CDATA[<p>Строительство и реконструкция автозаправочных станций и нефтебаз под ключ: ребрендинг, установка ТРК, протяжка технологического трубопровода, зачистка и калибровка резервуаров.</p><ul><li>проектирование с учётом норм безопасности</li><li>навесы, освещение, здания касс и магазинов</li><li>облицовка фасадов композитом</li><li>резервуарные парки и колодцы</li><li>мощение и благоустройство</li></ul><p>Работаем по Крымску и району, выезжаем на объект. Опыт в сфере 10+ лет, гарантия, работа по договору. Ежедневно 09:00–20:00, минимальный заказ 10 000 ₽.</p><p>На фото — наши объекты: как было и как стало.</p><p>Напишите в сообщения — обсудим задачу и рассчитаем смету.</p>]]></Description>
+<Address>Краснодарский край, Крымск, ул. Ленина, 216</Address>
+<ContactMethod>По телефону и в сообщениях</ContactMethod>
+<WorkExperience>10 лет и больше</WorkExperience>
+<Guarantee>Есть</Guarantee>
+<WorkWithContract>Да</WorkWithContract>
+<WorkDays><Option>пн.</Option><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>сб.</Option><Option>вс.</Option></WorkDays>
+<WorkTimeFrom>09:00</WorkTimeFrom>
+<WorkTimeTo>20:00</WorkTimeTo>
+<MinimumOrderAmount>10000</MinimumOrderAmount>
+<Price>5000</Price>
+<Objects><Option>Объекты сферы услуг</Option><Option>Торговые объекты</Option></Objects><ConstructionTechnology><Option>Из металлокаркаса</Option><Option>Из сэндвич-панелей</Option></ConstructionTechnology><ContractorType><Option>Подрядчик под ключ</Option><Option>Генподрядчик</Option></ContractorType>
+<Images><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_09.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_10.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_14.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_01.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_02.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_03.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_04.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_05.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_06.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_07.jpg"/></Images>
+</Ad>
+<Ad>
+<Id>fas-krm</Id>
+<Category>Предложение услуг</Category>
+<ServiceType>Строительство</ServiceType>
+<ServiceSubtype>Фасадные работы</ServiceSubtype>
+<Title>Облицовка АЗС композитными панелями — Крымск</Title>
+<Description><![CDATA[<p>Облицовка зданий АЗС, касс, кафе и автомоек композитными панелями, в том числе с фактурой дерева.</p><ul><li>подсистема из оцинкованного профиля</li><li>навесной вентилируемый фасад</li><li>входные группы, витрины, примыкания</li></ul><p>Работаем по Крымску и району, выезжаем на объект. Опыт в сфере 10+ лет, гарантия, работа по договору. Ежедневно 09:00–20:00, минимальный заказ 10 000 ₽.</p><p>На фото — наши объекты: как было и как стало.</p><p>Напишите в сообщения — обсудим задачу и рассчитаем смету.</p>]]></Description>
+<Address>Краснодарский край, Крымск, ул. Ленина, 216</Address>
+<ContactMethod>По телефону и в сообщениях</ContactMethod>
+<WorkExperience>10 лет и больше</WorkExperience>
+<Guarantee>Есть</Guarantee>
+<WorkWithContract>Да</WorkWithContract>
+<WorkDays><Option>пн.</Option><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>сб.</Option><Option>вс.</Option></WorkDays>
+<WorkTimeFrom>09:00</WorkTimeFrom>
+<WorkTimeTo>20:00</WorkTimeTo>
+<MinimumOrderAmount>10000</MinimumOrderAmount>
+<Price>5000</Price>
+<FacadeWork><Option>Монтаж</Option><Option>Отделочные работы</Option></FacadeWork><FacadeType><Option>Вентилируемые</Option></FacadeType><FacadeMaterials><Option>Фасадные панели</Option></FacadeMaterials><TeamSize>5-20 человек</TeamSize><MaterialPurchase>Возможна</MaterialPurchase>
+<Images><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_16.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_17.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_11.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_12.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_20.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_13.jpg"/></Images>
+</Ad>
+<Ad>
+<Id>rez-krm</Id>
+<Category>Предложение услуг</Category>
+<ServiceType>Строительство</ServiceType>
+<ServiceSubtype>Коммерческое строительство</ServiceSubtype>
+<Title>Установка резервуаров для АЗС — Крымск</Title>
+<Description><![CDATA[<p>Монтаж резервуарных парков для АЗС и нефтебаз.</p><ul><li>земляные работы и установка резервуаров</li><li>технологические колодцы и обвязка трубопроводов</li><li>дыхательная арматура, площадки обслуживания</li><li>зачистка и калибровка резервуаров</li></ul><p>Работаем по Крымску и району, выезжаем на объект. Опыт в сфере 10+ лет, гарантия, работа по договору. Ежедневно 09:00–20:00, минимальный заказ 10 000 ₽.</p><p>На фото — наши объекты: как было и как стало.</p><p>Напишите в сообщения — обсудим задачу и рассчитаем смету.</p>]]></Description>
+<Address>Краснодарский край, Крымск, ул. Ленина, 216</Address>
+<ContactMethod>По телефону и в сообщениях</ContactMethod>
+<WorkExperience>10 лет и больше</WorkExperience>
+<Guarantee>Есть</Guarantee>
+<WorkWithContract>Да</WorkWithContract>
+<WorkDays><Option>пн.</Option><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>сб.</Option><Option>вс.</Option></WorkDays>
+<WorkTimeFrom>09:00</WorkTimeFrom>
+<WorkTimeTo>20:00</WorkTimeTo>
+<MinimumOrderAmount>10000</MinimumOrderAmount>
+<Price>5000</Price>
+<Objects><Option>Объекты сферы услуг</Option></Objects>
+<Images><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_10.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_14.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_15.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_18.jpg"/></Images>
+</Ad>
+<Ad>
+<Id>trk-krm</Id>
+<Category>Предложение услуг</Category>
+<ServiceType>Строительство</ServiceType>
+<ServiceSubtype>Коммерческое строительство</ServiceSubtype>
+<Title>Монтаж островков ТРК — Крымск</Title>
+<Description><![CDATA[<p>Обустройство площадки АЗС: островки ТРК, установка колонок, мощение под навесом, бордюры и отбойники.</p><ul><li>каркас и облицовка островков</li><li>подключение ТРК</li><li>укладка тротуарной плитки</li></ul><p>Работаем по Крымску и району, выезжаем на объект. Опыт в сфере 10+ лет, гарантия, работа по договору. Ежедневно 09:00–20:00, минимальный заказ 10 000 ₽.</p><p>На фото — наши объекты: как было и как стало.</p><p>Напишите в сообщения — обсудим задачу и рассчитаем смету.</p>]]></Description>
+<Address>Краснодарский край, Крымск, ул. Ленина, 216</Address>
+<ContactMethod>По телефону и в сообщениях</ContactMethod>
+<WorkExperience>10 лет и больше</WorkExperience>
+<Guarantee>Есть</Guarantee>
+<WorkWithContract>Да</WorkWithContract>
+<WorkDays><Option>пн.</Option><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>сб.</Option><Option>вс.</Option></WorkDays>
+<WorkTimeFrom>09:00</WorkTimeFrom>
+<WorkTimeTo>20:00</WorkTimeTo>
+<MinimumOrderAmount>10000</MinimumOrderAmount>
+<Price>5000</Price>
+<Objects><Option>Объекты сферы услуг</Option></Objects>
+<Images><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_09.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_05.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_06.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_08.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_19.jpg"/></Images>
+</Ad>
+<Ad>
+<Id>azs-nvr</Id>
+<Category>Предложение услуг</Category>
+<ServiceType>Строительство</ServiceType>
+<ServiceSubtype>Коммерческое строительство</ServiceSubtype>
+<Title>Ремонт и реконструкция АЗС, Новороссийск</Title>
+<Description><![CDATA[<p>Строительство и реконструкция автозаправочных станций и нефтебаз под ключ: ребрендинг, установка ТРК, протяжка технологического трубопровода, зачистка и калибровка резервуаров.</p><ul><li>проектирование с учётом норм безопасности</li><li>навесы, освещение, здания касс и магазинов</li><li>облицовка фасадов композитом</li><li>резервуарные парки и колодцы</li><li>мощение и благоустройство</li></ul><p>Работаем по Новороссийску и побережью, выезжаем на объект. Опыт в сфере 10+ лет, гарантия, работа по договору. Ежедневно 09:00–20:00, минимальный заказ 10 000 ₽.</p><p>На фото — наши объекты: как было и как стало.</p><p>Напишите в сообщения — обсудим задачу и рассчитаем смету.</p>]]></Description>
+<Address>Краснодарский край, Новороссийск, ул. Советов, 18</Address>
+<ContactMethod>По телефону и в сообщениях</ContactMethod>
+<WorkExperience>10 лет и больше</WorkExperience>
+<Guarantee>Есть</Guarantee>
+<WorkWithContract>Да</WorkWithContract>
+<WorkDays><Option>пн.</Option><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>сб.</Option><Option>вс.</Option></WorkDays>
+<WorkTimeFrom>09:00</WorkTimeFrom>
+<WorkTimeTo>20:00</WorkTimeTo>
+<MinimumOrderAmount>10000</MinimumOrderAmount>
+<Price>5000</Price>
+<Objects><Option>Объекты сферы услуг</Option><Option>Торговые объекты</Option></Objects><ConstructionTechnology><Option>Из металлокаркаса</Option><Option>Из сэндвич-панелей</Option></ConstructionTechnology><ContractorType><Option>Подрядчик под ключ</Option><Option>Генподрядчик</Option></ContractorType>
+<Images><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_10.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_14.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_01.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_02.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_03.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_04.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_05.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_06.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_07.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_09.jpg"/></Images>
+</Ad>
+<Ad>
+<Id>fas-nvr</Id>
+<Category>Предложение услуг</Category>
+<ServiceType>Строительство</ServiceType>
+<ServiceSubtype>Фасадные работы</ServiceSubtype>
+<Title>Фасадные работы на АЗС, Новороссийск</Title>
+<Description><![CDATA[<p>Облицовка зданий АЗС, касс, кафе и автомоек композитными панелями, в том числе с фактурой дерева.</p><ul><li>подсистема из оцинкованного профиля</li><li>навесной вентилируемый фасад</li><li>входные группы, витрины, примыкания</li></ul><p>Работаем по Новороссийску и побережью, выезжаем на объект. Опыт в сфере 10+ лет, гарантия, работа по договору. Ежедневно 09:00–20:00, минимальный заказ 10 000 ₽.</p><p>На фото — наши объекты: как было и как стало.</p><p>Напишите в сообщения — обсудим задачу и рассчитаем смету.</p>]]></Description>
+<Address>Краснодарский край, Новороссийск, ул. Советов, 18</Address>
+<ContactMethod>По телефону и в сообщениях</ContactMethod>
+<WorkExperience>10 лет и больше</WorkExperience>
+<Guarantee>Есть</Guarantee>
+<WorkWithContract>Да</WorkWithContract>
+<WorkDays><Option>пн.</Option><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>сб.</Option><Option>вс.</Option></WorkDays>
+<WorkTimeFrom>09:00</WorkTimeFrom>
+<WorkTimeTo>20:00</WorkTimeTo>
+<MinimumOrderAmount>10000</MinimumOrderAmount>
+<Price>5000</Price>
+<FacadeWork><Option>Монтаж</Option><Option>Отделочные работы</Option></FacadeWork><FacadeType><Option>Вентилируемые</Option></FacadeType><FacadeMaterials><Option>Фасадные панели</Option></FacadeMaterials><TeamSize>5-20 человек</TeamSize><MaterialPurchase>Возможна</MaterialPurchase>
+<Images><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_17.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_11.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_12.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_20.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_13.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_16.jpg"/></Images>
+</Ad>
+<Ad>
+<Id>rez-nvr</Id>
+<Category>Предложение услуг</Category>
+<ServiceType>Строительство</ServiceType>
+<ServiceSubtype>Коммерческое строительство</ServiceSubtype>
+<Title>Монтаж и обвязка топливных резервуаров, Новороссийск</Title>
+<Description><![CDATA[<p>Монтаж резервуарных парков для АЗС и нефтебаз.</p><ul><li>земляные работы и установка резервуаров</li><li>технологические колодцы и обвязка трубопроводов</li><li>дыхательная арматура, площадки обслуживания</li><li>зачистка и калибровка резервуаров</li></ul><p>Работаем по Новороссийску и побережью, выезжаем на объект. Опыт в сфере 10+ лет, гарантия, работа по договору. Ежедневно 09:00–20:00, минимальный заказ 10 000 ₽.</p><p>На фото — наши объекты: как было и как стало.</p><p>Напишите в сообщения — обсудим задачу и рассчитаем смету.</p>]]></Description>
+<Address>Краснодарский край, Новороссийск, ул. Советов, 18</Address>
+<ContactMethod>По телефону и в сообщениях</ContactMethod>
+<WorkExperience>10 лет и больше</WorkExperience>
+<Guarantee>Есть</Guarantee>
+<WorkWithContract>Да</WorkWithContract>
+<WorkDays><Option>пн.</Option><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>сб.</Option><Option>вс.</Option></WorkDays>
+<WorkTimeFrom>09:00</WorkTimeFrom>
+<WorkTimeTo>20:00</WorkTimeTo>
+<MinimumOrderAmount>10000</MinimumOrderAmount>
+<Price>5000</Price>
+<Objects><Option>Объекты сферы услуг</Option></Objects>
+<Images><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_14.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_15.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_18.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_10.jpg"/></Images>
+</Ad>
+<Ad>
+<Id>trk-nvr</Id>
+<Category>Предложение услуг</Category>
+<ServiceType>Строительство</ServiceType>
+<ServiceSubtype>Коммерческое строительство</ServiceSubtype>
+<Title>Мощение площадки АЗС плиткой, Новороссийск</Title>
+<Description><![CDATA[<p>Обустройство площадки АЗС: островки ТРК, установка колонок, мощение под навесом, бордюры и отбойники.</p><ul><li>каркас и облицовка островков</li><li>подключение ТРК</li><li>укладка тротуарной плитки</li></ul><p>Работаем по Новороссийску и побережью, выезжаем на объект. Опыт в сфере 10+ лет, гарантия, работа по договору. Ежедневно 09:00–20:00, минимальный заказ 10 000 ₽.</p><p>На фото — наши объекты: как было и как стало.</p><p>Напишите в сообщения — обсудим задачу и рассчитаем смету.</p>]]></Description>
+<Address>Краснодарский край, Новороссийск, ул. Советов, 18</Address>
+<ContactMethod>По телефону и в сообщениях</ContactMethod>
+<WorkExperience>10 лет и больше</WorkExperience>
+<Guarantee>Есть</Guarantee>
+<WorkWithContract>Да</WorkWithContract>
+<WorkDays><Option>пн.</Option><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>сб.</Option><Option>вс.</Option></WorkDays>
+<WorkTimeFrom>09:00</WorkTimeFrom>
+<WorkTimeTo>20:00</WorkTimeTo>
+<MinimumOrderAmount>10000</MinimumOrderAmount>
+<Price>5000</Price>
+<Objects><Option>Объекты сферы услуг</Option></Objects>
+<Images><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_05.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_06.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_08.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_19.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_09.jpg"/></Images>
+</Ad>
+<Ad>
+<Id>azs-gel</Id>
+<Category>Предложение услуг</Category>
+<ServiceType>Строительство</ServiceType>
+<ServiceSubtype>Коммерческое строительство</ServiceSubtype>
+<Title>Строительство заправок под ключ — Геленджик</Title>
+<Description><![CDATA[<p>Строительство и реконструкция автозаправочных станций и нефтебаз под ключ: ребрендинг, установка ТРК, протяжка технологического трубопровода, зачистка и калибровка резервуаров.</p><ul><li>проектирование с учётом норм безопасности</li><li>навесы, освещение, здания касс и магазинов</li><li>облицовка фасадов композитом</li><li>резервуарные парки и колодцы</li><li>мощение и благоустройство</li></ul><p>Работаем по Геленджику и побережью, выезжаем на объект. Опыт в сфере 10+ лет, гарантия, работа по договору. Ежедневно 09:00–20:00, минимальный заказ 10 000 ₽.</p><p>На фото — наши объекты: как было и как стало.</p><p>Напишите в сообщения — обсудим задачу и рассчитаем смету.</p>]]></Description>
+<Address>Краснодарский край, Геленджик, ул. Революционная, 1</Address>
+<ContactMethod>По телефону и в сообщениях</ContactMethod>
+<WorkExperience>10 лет и больше</WorkExperience>
+<Guarantee>Есть</Guarantee>
+<WorkWithContract>Да</WorkWithContract>
+<WorkDays><Option>пн.</Option><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>сб.</Option><Option>вс.</Option></WorkDays>
+<WorkTimeFrom>09:00</WorkTimeFrom>
+<WorkTimeTo>20:00</WorkTimeTo>
+<MinimumOrderAmount>10000</MinimumOrderAmount>
+<Price>5000</Price>
+<Objects><Option>Объекты сферы услуг</Option><Option>Торговые объекты</Option></Objects><ConstructionTechnology><Option>Из металлокаркаса</Option><Option>Из сэндвич-панелей</Option></ConstructionTechnology><ContractorType><Option>Подрядчик под ключ</Option><Option>Генподрядчик</Option></ContractorType>
+<Images><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_14.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_01.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_02.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_03.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_04.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_05.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_06.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_07.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_09.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_10.jpg"/></Images>
+</Ad>
+<Ad>
+<Id>fas-gel</Id>
+<Category>Предложение услуг</Category>
+<ServiceType>Строительство</ServiceType>
+<ServiceSubtype>Фасадные работы</ServiceSubtype>
+<Title>Навесной фасад для АЗС и магазинов — Геленджик</Title>
+<Description><![CDATA[<p>Облицовка зданий АЗС, касс, кафе и автомоек композитными панелями, в том числе с фактурой дерева.</p><ul><li>подсистема из оцинкованного профиля</li><li>навесной вентилируемый фасад</li><li>входные группы, витрины, примыкания</li></ul><p>Работаем по Геленджику и побережью, выезжаем на объект. Опыт в сфере 10+ лет, гарантия, работа по договору. Ежедневно 09:00–20:00, минимальный заказ 10 000 ₽.</p><p>На фото — наши объекты: как было и как стало.</p><p>Напишите в сообщения — обсудим задачу и рассчитаем смету.</p>]]></Description>
+<Address>Краснодарский край, Геленджик, ул. Революционная, 1</Address>
+<ContactMethod>По телефону и в сообщениях</ContactMethod>
+<WorkExperience>10 лет и больше</WorkExperience>
+<Guarantee>Есть</Guarantee>
+<WorkWithContract>Да</WorkWithContract>
+<WorkDays><Option>пн.</Option><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>сб.</Option><Option>вс.</Option></WorkDays>
+<WorkTimeFrom>09:00</WorkTimeFrom>
+<WorkTimeTo>20:00</WorkTimeTo>
+<MinimumOrderAmount>10000</MinimumOrderAmount>
+<Price>5000</Price>
+<FacadeWork><Option>Монтаж</Option><Option>Отделочные работы</Option></FacadeWork><FacadeType><Option>Вентилируемые</Option></FacadeType><FacadeMaterials><Option>Фасадные панели</Option></FacadeMaterials><TeamSize>5-20 человек</TeamSize><MaterialPurchase>Возможна</MaterialPurchase>
+<Images><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_11.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_12.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_20.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_13.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_16.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_17.jpg"/></Images>
+</Ad>
+<Ad>
+<Id>rez-gel</Id>
+<Category>Предложение услуг</Category>
+<ServiceType>Строительство</ServiceType>
+<ServiceSubtype>Коммерческое строительство</ServiceSubtype>
+<Title>Резервуарный парк для АЗС и нефтебаз — Геленджик</Title>
+<Description><![CDATA[<p>Монтаж резервуарных парков для АЗС и нефтебаз.</p><ul><li>земляные работы и установка резервуаров</li><li>технологические колодцы и обвязка трубопроводов</li><li>дыхательная арматура, площадки обслуживания</li><li>зачистка и калибровка резервуаров</li></ul><p>Работаем по Геленджику и побережью, выезжаем на объект. Опыт в сфере 10+ лет, гарантия, работа по договору. Ежедневно 09:00–20:00, минимальный заказ 10 000 ₽.</p><p>На фото — наши объекты: как было и как стало.</p><p>Напишите в сообщения — обсудим задачу и рассчитаем смету.</p>]]></Description>
+<Address>Краснодарский край, Геленджик, ул. Революционная, 1</Address>
+<ContactMethod>По телефону и в сообщениях</ContactMethod>
+<WorkExperience>10 лет и больше</WorkExperience>
+<Guarantee>Есть</Guarantee>
+<WorkWithContract>Да</WorkWithContract>
+<WorkDays><Option>пн.</Option><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>сб.</Option><Option>вс.</Option></WorkDays>
+<WorkTimeFrom>09:00</WorkTimeFrom>
+<WorkTimeTo>20:00</WorkTimeTo>
+<MinimumOrderAmount>10000</MinimumOrderAmount>
+<Price>5000</Price>
+<Objects><Option>Объекты сферы услуг</Option></Objects>
+<Images><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_15.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_18.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_10.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_14.jpg"/></Images>
+</Ad>
+<Ad>
+<Id>trk-gel</Id>
+<Category>Предложение услуг</Category>
+<ServiceType>Строительство</ServiceType>
+<ServiceSubtype>Коммерческое строительство</ServiceSubtype>
+<Title>Островки ТРК и отбойники — Геленджик</Title>
+<Description><![CDATA[<p>Обустройство площадки АЗС: островки ТРК, установка колонок, мощение под навесом, бордюры и отбойники.</p><ul><li>каркас и облицовка островков</li><li>подключение ТРК</li><li>укладка тротуарной плитки</li></ul><p>Работаем по Геленджику и побережью, выезжаем на объект. Опыт в сфере 10+ лет, гарантия, работа по договору. Ежедневно 09:00–20:00, минимальный заказ 10 000 ₽.</p><p>На фото — наши объекты: как было и как стало.</p><p>Напишите в сообщения — обсудим задачу и рассчитаем смету.</p>]]></Description>
+<Address>Краснодарский край, Геленджик, ул. Революционная, 1</Address>
+<ContactMethod>По телефону и в сообщениях</ContactMethod>
+<WorkExperience>10 лет и больше</WorkExperience>
+<Guarantee>Есть</Guarantee>
+<WorkWithContract>Да</WorkWithContract>
+<WorkDays><Option>пн.</Option><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>сб.</Option><Option>вс.</Option></WorkDays>
+<WorkTimeFrom>09:00</WorkTimeFrom>
+<WorkTimeTo>20:00</WorkTimeTo>
+<MinimumOrderAmount>10000</MinimumOrderAmount>
+<Price>5000</Price>
+<Objects><Option>Объекты сферы услуг</Option></Objects>
+<Images><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_06.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_08.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_19.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_09.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_05.jpg"/></Images>
+</Ad>
+<Ad>
+<Id>azs-anp</Id>
+<Category>Предложение услуг</Category>
+<ServiceType>Строительство</ServiceType>
+<ServiceSubtype>Коммерческое строительство</ServiceSubtype>
+<Title>Реконструкция и ребрендинг АЗС — Анапа</Title>
+<Description><![CDATA[<p>Строительство и реконструкция автозаправочных станций и нефтебаз под ключ: ребрендинг, установка ТРК, протяжка технологического трубопровода, зачистка и калибровка резервуаров.</p><ul><li>проектирование с учётом норм безопасности</li><li>навесы, освещение, здания касс и магазинов</li><li>облицовка фасадов композитом</li><li>резервуарные парки и колодцы</li><li>мощение и благоустройство</li></ul><p>Работаем по Анапе и району, выезжаем на объект. Опыт в сфере 10+ лет, гарантия, работа по договору. Ежедневно 09:00–20:00, минимальный заказ 10 000 ₽.</p><p>На фото — наши объекты: как было и как стало.</p><p>Напишите в сообщения — обсудим задачу и рассчитаем смету.</p>]]></Description>
+<Address>Краснодарский край, Анапа, ул. Крымская, 99</Address>
+<ContactMethod>По телефону и в сообщениях</ContactMethod>
+<WorkExperience>10 лет и больше</WorkExperience>
+<Guarantee>Есть</Guarantee>
+<WorkWithContract>Да</WorkWithContract>
+<WorkDays><Option>пн.</Option><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>сб.</Option><Option>вс.</Option></WorkDays>
+<WorkTimeFrom>09:00</WorkTimeFrom>
+<WorkTimeTo>20:00</WorkTimeTo>
+<MinimumOrderAmount>10000</MinimumOrderAmount>
+<Price>5000</Price>
+<Objects><Option>Объекты сферы услуг</Option><Option>Торговые объекты</Option></Objects><ConstructionTechnology><Option>Из металлокаркаса</Option><Option>Из сэндвич-панелей</Option></ConstructionTechnology><ContractorType><Option>Подрядчик под ключ</Option><Option>Генподрядчик</Option></ContractorType>
+<Images><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_01.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_02.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_03.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_04.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_05.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_06.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_07.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_09.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_10.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_14.jpg"/></Images>
+</Ad>
+<Ad>
+<Id>fas-anp</Id>
+<Category>Предложение услуг</Category>
+<ServiceType>Строительство</ServiceType>
+<ServiceSubtype>Фасадные работы</ServiceSubtype>
+<Title>Облицовка касс и магазинов АЗС, Анапа</Title>
+<Description><![CDATA[<p>Облицовка зданий АЗС, касс, кафе и автомоек композитными панелями, в том числе с фактурой дерева.</p><ul><li>подсистема из оцинкованного профиля</li><li>навесной вентилируемый фасад</li><li>входные группы, витрины, примыкания</li></ul><p>Работаем по Анапе и району, выезжаем на объект. Опыт в сфере 10+ лет, гарантия, работа по договору. Ежедневно 09:00–20:00, минимальный заказ 10 000 ₽.</p><p>На фото — наши объекты: как было и как стало.</p><p>Напишите в сообщения — обсудим задачу и рассчитаем смету.</p>]]></Description>
+<Address>Краснодарский край, Анапа, ул. Крымская, 99</Address>
+<ContactMethod>По телефону и в сообщениях</ContactMethod>
+<WorkExperience>10 лет и больше</WorkExperience>
+<Guarantee>Есть</Guarantee>
+<WorkWithContract>Да</WorkWithContract>
+<WorkDays><Option>пн.</Option><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>сб.</Option><Option>вс.</Option></WorkDays>
+<WorkTimeFrom>09:00</WorkTimeFrom>
+<WorkTimeTo>20:00</WorkTimeTo>
+<MinimumOrderAmount>10000</MinimumOrderAmount>
+<Price>5000</Price>
+<FacadeWork><Option>Монтаж</Option><Option>Отделочные работы</Option></FacadeWork><FacadeType><Option>Вентилируемые</Option></FacadeType><FacadeMaterials><Option>Фасадные панели</Option></FacadeMaterials><TeamSize>5-20 человек</TeamSize><MaterialPurchase>Возможна</MaterialPurchase>
+<Images><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_12.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_20.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_13.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_16.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_17.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_11.jpg"/></Images>
+</Ad>
+<Ad>
+<Id>rez-anp</Id>
+<Category>Предложение услуг</Category>
+<ServiceType>Строительство</ServiceType>
+<ServiceSubtype>Коммерческое строительство</ServiceSubtype>
+<Title>Технологические колодцы и обвязка, Анапа</Title>
+<Description><![CDATA[<p>Монтаж резервуарных парков для АЗС и нефтебаз.</p><ul><li>земляные работы и установка резервуаров</li><li>технологические колодцы и обвязка трубопроводов</li><li>дыхательная арматура, площадки обслуживания</li><li>зачистка и калибровка резервуаров</li></ul><p>Работаем по Анапе и району, выезжаем на объект. Опыт в сфере 10+ лет, гарантия, работа по договору. Ежедневно 09:00–20:00, минимальный заказ 10 000 ₽.</p><p>На фото — наши объекты: как было и как стало.</p><p>Напишите в сообщения — обсудим задачу и рассчитаем смету.</p>]]></Description>
+<Address>Краснодарский край, Анапа, ул. Крымская, 99</Address>
+<ContactMethod>По телефону и в сообщениях</ContactMethod>
+<WorkExperience>10 лет и больше</WorkExperience>
+<Guarantee>Есть</Guarantee>
+<WorkWithContract>Да</WorkWithContract>
+<WorkDays><Option>пн.</Option><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>сб.</Option><Option>вс.</Option></WorkDays>
+<WorkTimeFrom>09:00</WorkTimeFrom>
+<WorkTimeTo>20:00</WorkTimeTo>
+<MinimumOrderAmount>10000</MinimumOrderAmount>
+<Price>5000</Price>
+<Objects><Option>Объекты сферы услуг</Option></Objects>
+<Images><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_18.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_10.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_14.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_15.jpg"/></Images>
+</Ad>
+<Ad>
+<Id>trk-anp</Id>
+<Category>Предложение услуг</Category>
+<ServiceType>Строительство</ServiceType>
+<ServiceSubtype>Коммерческое строительство</ServiceSubtype>
+<Title>Благоустройство АЗС под ключ, Анапа</Title>
+<Description><![CDATA[<p>Обустройство площадки АЗС: островки ТРК, установка колонок, мощение под навесом, бордюры и отбойники.</p><ul><li>каркас и облицовка островков</li><li>подключение ТРК</li><li>укладка тротуарной плитки</li></ul><p>Работаем по Анапе и району, выезжаем на объект. Опыт в сфере 10+ лет, гарантия, работа по договору. Ежедневно 09:00–20:00, минимальный заказ 10 000 ₽.</p><p>На фото — наши объекты: как было и как стало.</p><p>Напишите в сообщения — обсудим задачу и рассчитаем смету.</p>]]></Description>
+<Address>Краснодарский край, Анапа, ул. Крымская, 99</Address>
+<ContactMethod>По телефону и в сообщениях</ContactMethod>
+<WorkExperience>10 лет и больше</WorkExperience>
+<Guarantee>Есть</Guarantee>
+<WorkWithContract>Да</WorkWithContract>
+<WorkDays><Option>пн.</Option><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>сб.</Option><Option>вс.</Option></WorkDays>
+<WorkTimeFrom>09:00</WorkTimeFrom>
+<WorkTimeTo>20:00</WorkTimeTo>
+<MinimumOrderAmount>10000</MinimumOrderAmount>
+<Price>5000</Price>
+<Objects><Option>Объекты сферы услуг</Option></Objects>
+<Images><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_08.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_19.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_09.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_05.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_06.jpg"/></Images>
+</Ad>
+<Ad>
+<Id>azs-tmr</Id>
+<Category>Предложение услуг</Category>
+<ServiceType>Строительство</ServiceType>
+<ServiceSubtype>Коммерческое строительство</ServiceSubtype>
+<Title>Строим и обновляем АЗС — Темрюк</Title>
+<Description><![CDATA[<p>Строительство и реконструкция автозаправочных станций и нефтебаз под ключ: ребрендинг, установка ТРК, протяжка технологического трубопровода, зачистка и калибровка резервуаров.</p><ul><li>проектирование с учётом норм безопасности</li><li>навесы, освещение, здания касс и магазинов</li><li>облицовка фасадов композитом</li><li>резервуарные парки и колодцы</li><li>мощение и благоустройство</li></ul><p>Работаем по Темрюку и Таманскому полуострову, выезжаем на объект. Опыт в сфере 10+ лет, гарантия, работа по договору. Ежедневно 09:00–20:00, минимальный заказ 10 000 ₽.</p><p>На фото — наши объекты: как было и как стало.</p><p>Напишите в сообщения — обсудим задачу и рассчитаем смету.</p>]]></Description>
+<Address>Краснодарский край, Темрюк, ул. Ленина, 48</Address>
+<ContactMethod>По телефону и в сообщениях</ContactMethod>
+<WorkExperience>10 лет и больше</WorkExperience>
+<Guarantee>Есть</Guarantee>
+<WorkWithContract>Да</WorkWithContract>
+<WorkDays><Option>пн.</Option><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>сб.</Option><Option>вс.</Option></WorkDays>
+<WorkTimeFrom>09:00</WorkTimeFrom>
+<WorkTimeTo>20:00</WorkTimeTo>
+<MinimumOrderAmount>10000</MinimumOrderAmount>
+<Price>5000</Price>
+<Objects><Option>Объекты сферы услуг</Option><Option>Торговые объекты</Option></Objects><ConstructionTechnology><Option>Из металлокаркаса</Option><Option>Из сэндвич-панелей</Option></ConstructionTechnology><ContractorType><Option>Подрядчик под ключ</Option><Option>Генподрядчик</Option></ContractorType>
+<Images><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_02.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_03.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_04.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_05.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_06.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_07.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_09.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_10.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_14.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_01.jpg"/></Images>
+</Ad>
+<Ad>
+<Id>fas-tmr</Id>
+<Category>Предложение услуг</Category>
+<ServiceType>Строительство</ServiceType>
+<ServiceSubtype>Фасадные работы</ServiceSubtype>
+<Title>Композит под дерево для фасадов — Темрюк</Title>
+<Description><![CDATA[<p>Облицовка зданий АЗС, касс, кафе и автомоек композитными панелями, в том числе с фактурой дерева.</p><ul><li>подсистема из оцинкованного профиля</li><li>навесной вентилируемый фасад</li><li>входные группы, витрины, примыкания</li></ul><p>Работаем по Темрюку и Таманскому полуострову, выезжаем на объект. Опыт в сфере 10+ лет, гарантия, работа по договору. Ежедневно 09:00–20:00, минимальный заказ 10 000 ₽.</p><p>На фото — наши объекты: как было и как стало.</p><p>Напишите в сообщения — обсудим задачу и рассчитаем смету.</p>]]></Description>
+<Address>Краснодарский край, Темрюк, ул. Ленина, 48</Address>
+<ContactMethod>По телефону и в сообщениях</ContactMethod>
+<WorkExperience>10 лет и больше</WorkExperience>
+<Guarantee>Есть</Guarantee>
+<WorkWithContract>Да</WorkWithContract>
+<WorkDays><Option>пн.</Option><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>сб.</Option><Option>вс.</Option></WorkDays>
+<WorkTimeFrom>09:00</WorkTimeFrom>
+<WorkTimeTo>20:00</WorkTimeTo>
+<MinimumOrderAmount>10000</MinimumOrderAmount>
+<Price>5000</Price>
+<FacadeWork><Option>Монтаж</Option><Option>Отделочные работы</Option></FacadeWork><FacadeType><Option>Вентилируемые</Option></FacadeType><FacadeMaterials><Option>Фасадные панели</Option></FacadeMaterials><TeamSize>5-20 человек</TeamSize><MaterialPurchase>Возможна</MaterialPurchase>
+<Images><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_20.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_13.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_16.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_17.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_11.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_12.jpg"/></Images>
+</Ad>
+<Ad>
+<Id>rez-tmr</Id>
+<Category>Предложение услуг</Category>
+<ServiceType>Строительство</ServiceType>
+<ServiceSubtype>Коммерческое строительство</ServiceSubtype>
+<Title>Монтаж резервуаров и трубопроводов АЗС — Темрюк</Title>
+<Description><![CDATA[<p>Монтаж резервуарных парков для АЗС и нефтебаз.</p><ul><li>земляные работы и установка резервуаров</li><li>технологические колодцы и обвязка трубопроводов</li><li>дыхательная арматура, площадки обслуживания</li><li>зачистка и калибровка резервуаров</li></ul><p>Работаем по Темрюку и Таманскому полуострову, выезжаем на объект. Опыт в сфере 10+ лет, гарантия, работа по договору. Ежедневно 09:00–20:00, минимальный заказ 10 000 ₽.</p><p>На фото — наши объекты: как было и как стало.</p><p>Напишите в сообщения — обсудим задачу и рассчитаем смету.</p>]]></Description>
+<Address>Краснодарский край, Темрюк, ул. Ленина, 48</Address>
+<ContactMethod>По телефону и в сообщениях</ContactMethod>
+<WorkExperience>10 лет и больше</WorkExperience>
+<Guarantee>Есть</Guarantee>
+<WorkWithContract>Да</WorkWithContract>
+<WorkDays><Option>пн.</Option><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>сб.</Option><Option>вс.</Option></WorkDays>
+<WorkTimeFrom>09:00</WorkTimeFrom>
+<WorkTimeTo>20:00</WorkTimeTo>
+<MinimumOrderAmount>10000</MinimumOrderAmount>
+<Price>5000</Price>
+<Objects><Option>Объекты сферы услуг</Option></Objects>
+<Images><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_10.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_14.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_15.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_18.jpg"/></Images>
+</Ad>
+<Ad>
+<Id>trk-tmr</Id>
+<Category>Предложение услуг</Category>
+<ServiceType>Строительство</ServiceType>
+<ServiceSubtype>Коммерческое строительство</ServiceSubtype>
+<Title>Установка колонок и островков ТРК — Темрюк</Title>
+<Description><![CDATA[<p>Обустройство площадки АЗС: островки ТРК, установка колонок, мощение под навесом, бордюры и отбойники.</p><ul><li>каркас и облицовка островков</li><li>подключение ТРК</li><li>укладка тротуарной плитки</li></ul><p>Работаем по Темрюку и Таманскому полуострову, выезжаем на объект. Опыт в сфере 10+ лет, гарантия, работа по договору. Ежедневно 09:00–20:00, минимальный заказ 10 000 ₽.</p><p>На фото — наши объекты: как было и как стало.</p><p>Напишите в сообщения — обсудим задачу и рассчитаем смету.</p>]]></Description>
+<Address>Краснодарский край, Темрюк, ул. Ленина, 48</Address>
+<ContactMethod>По телефону и в сообщениях</ContactMethod>
+<WorkExperience>10 лет и больше</WorkExperience>
+<Guarantee>Есть</Guarantee>
+<WorkWithContract>Да</WorkWithContract>
+<WorkDays><Option>пн.</Option><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>сб.</Option><Option>вс.</Option></WorkDays>
+<WorkTimeFrom>09:00</WorkTimeFrom>
+<WorkTimeTo>20:00</WorkTimeTo>
+<MinimumOrderAmount>10000</MinimumOrderAmount>
+<Price>5000</Price>
+<Objects><Option>Объекты сферы услуг</Option></Objects>
+<Images><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_19.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_09.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_05.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_06.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_08.jpg"/></Images>
+</Ad>
+<Ad>
+<Id>azs-svr</Id>
+<Category>Предложение услуг</Category>
+<ServiceType>Строительство</ServiceType>
+<ServiceSubtype>Коммерческое строительство</ServiceSubtype>
+<Title>Капитальный ремонт АЗС, станица Северская</Title>
+<Description><![CDATA[<p>Строительство и реконструкция автозаправочных станций и нефтебаз под ключ: ребрендинг, установка ТРК, протяжка технологического трубопровода, зачистка и калибровка резервуаров.</p><ul><li>проектирование с учётом норм безопасности</li><li>навесы, освещение, здания касс и магазинов</li><li>облицовка фасадов композитом</li><li>резервуарные парки и колодцы</li><li>мощение и благоустройство</li></ul><p>Работаем по Северскому району и соседним станицам, выезжаем на объект. Опыт в сфере 10+ лет, гарантия, работа по договору. Ежедневно 09:00–20:00, минимальный заказ 10 000 ₽.</p><p>На фото — наши объекты: как было и как стало.</p><p>Напишите в сообщения — обсудим задачу и рассчитаем смету.</p>]]></Description>
+<Address>Краснодарский край, ст-ца Северская, ул. Ленина, 150</Address>
+<ContactMethod>По телефону и в сообщениях</ContactMethod>
+<WorkExperience>10 лет и больше</WorkExperience>
+<Guarantee>Есть</Guarantee>
+<WorkWithContract>Да</WorkWithContract>
+<WorkDays><Option>пн.</Option><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>сб.</Option><Option>вс.</Option></WorkDays>
+<WorkTimeFrom>09:00</WorkTimeFrom>
+<WorkTimeTo>20:00</WorkTimeTo>
+<MinimumOrderAmount>10000</MinimumOrderAmount>
+<Price>5000</Price>
+<Objects><Option>Объекты сферы услуг</Option><Option>Торговые объекты</Option></Objects><ConstructionTechnology><Option>Из металлокаркаса</Option><Option>Из сэндвич-панелей</Option></ConstructionTechnology><ContractorType><Option>Подрядчик под ключ</Option><Option>Генподрядчик</Option></ContractorType>
+<Images><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_03.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_04.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_05.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_06.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_07.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_09.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_10.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_14.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_01.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_02.jpg"/></Images>
+</Ad>
+<Ad>
+<Id>fas-svr</Id>
+<Category>Предложение услуг</Category>
+<ServiceType>Строительство</ServiceType>
+<ServiceSubtype>Фасадные работы</ServiceSubtype>
+<Title>Обновление фасадов АЗС, станица Северская</Title>
+<Description><![CDATA[<p>Облицовка зданий АЗС, касс, кафе и автомоек композитными панелями, в том числе с фактурой дерева.</p><ul><li>подсистема из оцинкованного профиля</li><li>навесной вентилируемый фасад</li><li>входные группы, витрины, примыкания</li></ul><p>Работаем по Северскому району и соседним станицам, выезжаем на объект. Опыт в сфере 10+ лет, гарантия, работа по договору. Ежедневно 09:00–20:00, минимальный заказ 10 000 ₽.</p><p>На фото — наши объекты: как было и как стало.</p><p>Напишите в сообщения — обсудим задачу и рассчитаем смету.</p>]]></Description>
+<Address>Краснодарский край, ст-ца Северская, ул. Ленина, 150</Address>
+<ContactMethod>По телефону и в сообщениях</ContactMethod>
+<WorkExperience>10 лет и больше</WorkExperience>
+<Guarantee>Есть</Guarantee>
+<WorkWithContract>Да</WorkWithContract>
+<WorkDays><Option>пн.</Option><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>сб.</Option><Option>вс.</Option></WorkDays>
+<WorkTimeFrom>09:00</WorkTimeFrom>
+<WorkTimeTo>20:00</WorkTimeTo>
+<MinimumOrderAmount>10000</MinimumOrderAmount>
+<Price>5000</Price>
+<FacadeWork><Option>Монтаж</Option><Option>Отделочные работы</Option></FacadeWork><FacadeType><Option>Вентилируемые</Option></FacadeType><FacadeMaterials><Option>Фасадные панели</Option></FacadeMaterials><TeamSize>5-20 человек</TeamSize><MaterialPurchase>Возможна</MaterialPurchase>
+<Images><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_13.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_16.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_17.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_11.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_12.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_20.jpg"/></Images>
+</Ad>
+<Ad>
+<Id>rez-svr</Id>
+<Category>Предложение услуг</Category>
+<ServiceType>Строительство</ServiceType>
+<ServiceSubtype>Коммерческое строительство</ServiceSubtype>
+<Title>Замена резервуаров на АЗС, станица Северская</Title>
+<Description><![CDATA[<p>Монтаж резервуарных парков для АЗС и нефтебаз.</p><ul><li>земляные работы и установка резервуаров</li><li>технологические колодцы и обвязка трубопроводов</li><li>дыхательная арматура, площадки обслуживания</li><li>зачистка и калибровка резервуаров</li></ul><p>Работаем по Северскому району и соседним станицам, выезжаем на объект. Опыт в сфере 10+ лет, гарантия, работа по договору. Ежедневно 09:00–20:00, минимальный заказ 10 000 ₽.</p><p>На фото — наши объекты: как было и как стало.</p><p>Напишите в сообщения — обсудим задачу и рассчитаем смету.</p>]]></Description>
+<Address>Краснодарский край, ст-ца Северская, ул. Ленина, 150</Address>
+<ContactMethod>По телефону и в сообщениях</ContactMethod>
+<WorkExperience>10 лет и больше</WorkExperience>
+<Guarantee>Есть</Guarantee>
+<WorkWithContract>Да</WorkWithContract>
+<WorkDays><Option>пн.</Option><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>сб.</Option><Option>вс.</Option></WorkDays>
+<WorkTimeFrom>09:00</WorkTimeFrom>
+<WorkTimeTo>20:00</WorkTimeTo>
+<MinimumOrderAmount>10000</MinimumOrderAmount>
+<Price>5000</Price>
+<Objects><Option>Объекты сферы услуг</Option></Objects>
+<Images><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_14.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_15.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_18.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_10.jpg"/></Images>
+</Ad>
+<Ad>
+<Id>trk-svr</Id>
+<Category>Предложение услуг</Category>
+<ServiceType>Строительство</ServiceType>
+<ServiceSubtype>Коммерческое строительство</ServiceSubtype>
+<Title>Укладка плитки на АЗС, станица Северская</Title>
+<Description><![CDATA[<p>Обустройство площадки АЗС: островки ТРК, установка колонок, мощение под навесом, бордюры и отбойники.</p><ul><li>каркас и облицовка островков</li><li>подключение ТРК</li><li>укладка тротуарной плитки</li></ul><p>Работаем по Северскому району и соседним станицам, выезжаем на объект. Опыт в сфере 10+ лет, гарантия, работа по договору. Ежедневно 09:00–20:00, минимальный заказ 10 000 ₽.</p><p>На фото — наши объекты: как было и как стало.</p><p>Напишите в сообщения — обсудим задачу и рассчитаем смету.</p>]]></Description>
+<Address>Краснодарский край, ст-ца Северская, ул. Ленина, 150</Address>
+<ContactMethod>По телефону и в сообщениях</ContactMethod>
+<WorkExperience>10 лет и больше</WorkExperience>
+<Guarantee>Есть</Guarantee>
+<WorkWithContract>Да</WorkWithContract>
+<WorkDays><Option>пн.</Option><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>сб.</Option><Option>вс.</Option></WorkDays>
+<WorkTimeFrom>09:00</WorkTimeFrom>
+<WorkTimeTo>20:00</WorkTimeTo>
+<MinimumOrderAmount>10000</MinimumOrderAmount>
+<Price>5000</Price>
+<Objects><Option>Объекты сферы услуг</Option></Objects>
+<Images><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_09.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_05.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_06.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_08.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_19.jpg"/></Images>
+</Ad>
 </Ads>

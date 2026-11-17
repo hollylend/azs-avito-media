@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 import random
 U='https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_{}.jpg'
 CITIES=[('stv','Ставрополь','Ставропольский край, Ставрополь, пр-т Карла Маркса, 7','Ставрополю и краю'),
