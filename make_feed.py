@@ -1,7 +1,7 @@
 import html
 U='https://raw.githubusercontent.com/hollylend/azs-avito-media/main/img/banner_{}.jpg'
 ADDR='Краснодарский край, Краснодар, ул. Будённого, 147'
-FOOT=('<p>Работаем по Краснодару и краю. Опыт в сфере 10+ лет, гарантия на работы.</p>'
+FOOT=('<p>Работаем по Краснодару и краю. Опыт в сфере 10+ лет, гарантия на работы, работаем по договору. Ежедневно 09:00–20:00, минимальный заказ 10 000 ₽.</p>'
       '<p>На фото — наши объекты: как было и как стало.</p><p>Напишите в сообщения — обсудим задачу и рассчитаем смету.</p>')
 ADS=[
  dict(id='azs-001',sub='Коммерческое строительство',title='Строительство и реконструкция АЗС под ключ',imgs=['01','02','03','04','05','06','07','09','10','14'],
@@ -21,7 +21,7 @@ out=['<?xml version="1.0" encoding="UTF-8"?>','<Ads formatVersion="3" target="Av
 for a in ADS:
     out+=['<Ad>',f'<Id>{a["id"]}</Id>','<Category>Предложение услуг</Category>','<ServiceType>Строительство</ServiceType>',f'<ServiceSubtype>{a["sub"]}</ServiceSubtype>',
       f'<Title>{a["title"]}</Title>',f'<Description><![CDATA[{a["desc"]}{FOOT}]]></Description>','<Price>5000</Price>',f'<Address>{ADDR}</Address>',
-      '<ContactMethod>По телефону и в сообщениях</ContactMethod>','<WorkExperience>7 лет</WorkExperience>','<Guarantee>Есть</Guarantee>','<TeamSize>5-20 человек</TeamSize>',a['extra'],
+      '<ContactMethod>По телефону и в сообщениях</ContactMethod>','<WorkExperience>10 лет и больше</WorkExperience>','<WorkWithContract>Да</WorkWithContract>','<WorkDays>'+''.join(f'<Option>{d}</Option>' for d in ['пн.','вт.','ср.','чт.','пт.','сб.','вс.'])+'</WorkDays>','<WorkTimeFrom>09:00</WorkTimeFrom>','<WorkTimeTo>20:00</WorkTimeTo>','<MinimumOrderAmount>10000</MinimumOrderAmount>','<Guarantee>Есть</Guarantee>',(a['extra']+('<TeamSize>5-20 человек</TeamSize>' if a['sub']=='Фасадные работы' else '')),
       '<Images>'+''.join(f'<Image url="{U.format(i)}"/>' for i in a['imgs'])+'</Images>','</Ad>']
 out.append('</Ads>')
 open('feed.xml','w').write('\n'.join(out)); print('ok', len(ADS))
