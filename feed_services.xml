@@ -307,7 +307,7 @@
 <ServiceSubtype>Сантехника</ServiceSubtype>
 <Specialty>Монтаж и ремонт систем водоснабжения, отопления, канализации</Specialty>
 <Title>Промывка батарей и отопления — Ростов-на-Дону</Title>
-<Description><![CDATA[<p>Промываем радиаторы и трубы отопления в Ростове-на-Дону: в квартирах, частных домах, офисах и нежилых помещениях.</p><p><b>Что делаем:</b></p><ul><li>гидропневматическая промывка батарей без демонтажа</li><li>химическая промывка от накипи, ржавчины и шлама</li><li>промывка стояков и разводки</li><li>проверка циркуляции и прогрева после работы</li></ul><p>Батареи снова прогреваются равномерно, отопление работает эффективнее — до 30%.</p><p><b>Почему мы:</b></p><ul><li>современное оборудование</li><li>чисто и быстро</li><li>опыт 5 лет</li><li>выезд в день обращения</li><li>работа по договору, гарантия на результат</li></ul><p>Работаем в Ростове-на-Дону и по Ростовской области. Также делаем монтаж и замену батарей, ставим краны и фильтры.</p><p>Напишите в сообщения или позвоните — проконсультируем бесплатно.</p>]]></Description>
+<Description><![CDATA[<p>Промывка системы отопления • Радиаторы • Трубы • Котлы 💧<br>Оказываем профессиональную промывку отопления в Ростове-на-Дону: в квартирах, домах, офисах и нежилых помещениях.</p><p><strong>Что делаем:</strong><br>— Промывка радиаторов и труб (химическая и гидропневматическая)<br>— Очистка от накипи, шлама, ржавчины<br>— Промывка котлов и теплообменников<br>— Повышаем эффективность обогрева до 30%</p><p><strong>Преимущества:</strong><br>✅ Современное оборудование<br>✅ Чисто, быстро, без демонтажа и с демонтажом<br>✅ Опыт от 5 лет<br>✅ Выезд в день обращения<br>✅ Гарантия на результат</p><p>📍 Работаем в Ростове-на-Дону и по Ростовской области<br>🚚 Выезд — бесплатный при заказе от 10 радиаторов</p><p>📞 Звоните или пишите — проконсультируем бесплатно!<br>🔧 Также выполняем: монтаж, замена батарей, установка кранов и фильтров.</p>]]></Description>
 <Address>Ростовская обл., Ростов-на-Дону</Address>
 <Latitude>47.2221</Latitude>
 <Longitude>39.7203</Longitude>
@@ -323,12 +323,10 @@
 <Guarantee>Есть</Guarantee>
 <WorkWithContract>Да</WorkWithContract>
 <MaterialPurchase>Возможна</MaterialPurchase>
-<WorkDays><Option>пн.</Option><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>сб.</Option><Option>вс.</Option></WorkDays>
-<WorkTimeFrom>08:00</WorkTimeFrom>
-<WorkTimeTo>21:00</WorkTimeTo>
-<ContactDays><Option>пн.</Option><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>сб.</Option><Option>вс.</Option></ContactDays>
-<ContactTimeFrom>08:00</ContactTimeFrom>
-<ContactTimeTo>22:00</ContactTimeTo>
+<WorkDays><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>вс.</Option></WorkDays>
+<ContactDays><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>вс.</Option></ContactDays>
+<ContactTimeFrom>08:30</ContactTimeFrom>
+<ContactTimeTo>23:59</ContactTimeTo>
 <Images><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/cover_rad_rnd.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/03_gidropnevmo_bimetall.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/07_voda_banki_na_polu.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/09_voda_konteinery_dnevnoi_svet.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/15_armatura_chugun_ruki.jpg"/></Images>
 </Ad>
 <Ad>
@@ -338,7 +336,7 @@
 <ServiceSubtype>Сантехника</ServiceSubtype>
 <Specialty>Установка, замена, ремонт сантехники и оборудования</Specialty>
 <Title>Чистка теплообменника котла — Ростов-на-Дону</Title>
-<Description><![CDATA[<p>Промываем газовые и электрические котлы, теплообменники и бойлеры в Ростове-на-Дону.</p><p><b>Что делаем:</b></p><ul><li>снятие и химическая промывка теплообменника</li><li>промывка вторичного теплообменника ГВС</li><li>очистка от накипи и шлама реагентом</li><li>сборка, запуск и проверка котла</li></ul><p>Котёл греет быстрее, меньше расходует газ и не шумит.</p><p><b>Почему мы:</b></p><ul><li>современное оборудование</li><li>чисто и быстро</li><li>опыт 5 лет</li><li>выезд в день обращения</li><li>работа по договору, гарантия на результат</li></ul><p>Работаем в Ростове-на-Дону и по Ростовской области. Также делаем монтаж и замену батарей, ставим краны и фильтры.</p><p>Напишите в сообщения или позвоните — проконсультируем бесплатно.</p>]]></Description>
+<Description><![CDATA[<p>Промывка котлов • Теплообменники • Бойлеры 🔥<br>Промываем газовые и электрические котлы в Ростове-на-Дону: в квартирах, частных домах и котельных.</p><p><strong>Что делаем:</strong><br>— Промывка первичного и вторичного теплообменника<br>— Очистка от накипи и шлама реагентом<br>— Промывка бойлеров косвенного нагрева<br>— Запуск и проверка котла после промывки — греет быстрее и тратит меньше газа</p><p><strong>Преимущества:</strong><br>✅ Современное оборудование<br>✅ Чисто, быстро, без демонтажа и с демонтажом<br>✅ Опыт от 5 лет<br>✅ Выезд в день обращения<br>✅ Гарантия на результат</p><p>📍 Работаем в Ростове-на-Дону и по Ростовской области<br>🚚 Выезд — бесплатный при заказе от 10 радиаторов</p><p>📞 Звоните или пишите — проконсультируем бесплатно!<br>🔧 Также выполняем: монтаж, замена батарей, установка кранов и фильтров.</p>]]></Description>
 <Address>Ростовская обл., Ростов-на-Дону</Address>
 <Latitude>47.2221</Latitude>
 <Longitude>39.7203</Longitude>
@@ -354,12 +352,10 @@
 <Guarantee>Есть</Guarantee>
 <WorkWithContract>Да</WorkWithContract>
 <MaterialPurchase>Возможна</MaterialPurchase>
-<WorkDays><Option>пн.</Option><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>сб.</Option><Option>вс.</Option></WorkDays>
-<WorkTimeFrom>08:00</WorkTimeFrom>
-<WorkTimeTo>21:00</WorkTimeTo>
-<ContactDays><Option>пн.</Option><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>сб.</Option><Option>вс.</Option></ContactDays>
-<ContactTimeFrom>08:00</ContactTimeFrom>
-<ContactTimeTo>22:00</ContactTimeTo>
+<WorkDays><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>вс.</Option></WorkDays>
+<ContactDays><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>вс.</Option></ContactDays>
+<ContactTimeFrom>08:30</ContactTimeFrom>
+<ContactTimeTo>23:59</ContactTimeTo>
 <Images><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/cover_kot_rnd.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/05_teploobmennik_verstak.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/06_teploobmennik_na_polu.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/08_voda_emkosti_kotelnaya.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/07_voda_banki_na_polu.jpg"/></Images>
 </Ad>
 <Ad>
@@ -369,7 +365,7 @@
 <ServiceSubtype>Сантехника</ServiceSubtype>
 <Specialty>Монтаж и ремонт систем водоснабжения, отопления, канализации</Specialty>
 <Title>Промывка контуров тёплого пола — Ростов-на-Дону</Title>
-<Description><![CDATA[<p>Промываем водяные тёплые полы в Ростове-на-Дону: каждый контур отдельно, через коллектор.</p><p><b>Что делаем:</b></p><ul><li>гидропневматическая промывка каждого контура</li><li>очистка коллектора и фильтров</li><li>удаление воздуха и шлама</li><li>балансировка контуров после промывки</li></ul><p>Пол снова прогревается по всей площади, без холодных зон.</p><p><b>Почему мы:</b></p><ul><li>современное оборудование</li><li>чисто и быстро</li><li>опыт 5 лет</li><li>выезд в день обращения</li><li>работа по договору, гарантия на результат</li></ul><p>Работаем в Ростове-на-Дону и по Ростовской области. Также делаем монтаж и замену батарей, ставим краны и фильтры.</p><p>Напишите в сообщения или позвоните — проконсультируем бесплатно.</p>]]></Description>
+<Description><![CDATA[<p>Промывка тёплого пола • Контуры • Коллекторы 💧<br>Промываем водяные тёплые полы в Ростове-на-Дону: в квартирах, домах, офисах и коммерческих помещениях.</p><p><strong>Что делаем:</strong><br>— Гидропневматическая промывка каждого контура отдельно<br>— Очистка коллектора, фильтров и расходомеров<br>— Удаление шлама и воздушных пробок<br>— Возвращаем равномерный прогрев пола без холодных зон</p><p><strong>Преимущества:</strong><br>✅ Современное оборудование<br>✅ Чисто, быстро, без демонтажа и с демонтажом<br>✅ Опыт от 5 лет<br>✅ Выезд в день обращения<br>✅ Гарантия на результат</p><p>📍 Работаем в Ростове-на-Дону и по Ростовской области<br>🚚 Выезд — бесплатный при заказе от 10 радиаторов</p><p>📞 Звоните или пишите — проконсультируем бесплатно!<br>🔧 Также выполняем: монтаж, замена батарей, установка кранов и фильтров.</p>]]></Description>
 <Address>Ростовская обл., Ростов-на-Дону</Address>
 <Latitude>47.2221</Latitude>
 <Longitude>39.7203</Longitude>
@@ -385,12 +381,10 @@
 <Guarantee>Есть</Guarantee>
 <WorkWithContract>Да</WorkWithContract>
 <MaterialPurchase>Возможна</MaterialPurchase>
-<WorkDays><Option>пн.</Option><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>сб.</Option><Option>вс.</Option></WorkDays>
-<WorkTimeFrom>08:00</WorkTimeFrom>
-<WorkTimeTo>21:00</WorkTimeTo>
-<ContactDays><Option>пн.</Option><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>сб.</Option><Option>вс.</Option></ContactDays>
-<ContactTimeFrom>08:00</ContactTimeFrom>
-<ContactTimeTo>22:00</ContactTimeTo>
+<WorkDays><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>вс.</Option></WorkDays>
+<ContactDays><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>вс.</Option></ContactDays>
+<ContactTimeFrom>08:30</ContactTimeFrom>
+<ContactTimeTo>23:59</ContactTimeTo>
 <Images><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/cover_pol_rnd.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/01_buster_kollektor_krasnyi.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/02_buster_kollektor_sinii.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/09_voda_konteinery_dnevnoi_svet.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/07_voda_banki_na_polu.jpg"/></Images>
 </Ad>
 <Ad>
@@ -400,7 +394,7 @@
 <ServiceSubtype>Сантехника</ServiceSubtype>
 <Specialty>Монтаж и ремонт систем водоснабжения, отопления, канализации</Specialty>
 <Title>Установка радиаторов отопления — Ростов-на-Дону</Title>
-<Description><![CDATA[<p>Меняем батареи и радиаторы отопления в Ростове-на-Дону: снимем старые, поставим новые.</p><p><b>Что делаем:</b></p><ul><li>демонтаж старых чугунных батарей</li><li>установка биметаллических и алюминиевых радиаторов</li><li>краны, фильтры и терморегуляторы</li><li>опрессовка и запуск системы</li></ul><p>Новые радиаторы, аккуратный монтаж, без протечек.</p><p><b>Почему мы:</b></p><ul><li>современное оборудование</li><li>чисто и быстро</li><li>опыт 5 лет</li><li>выезд в день обращения</li><li>работа по договору, гарантия на результат</li></ul><p>Работаем в Ростове-на-Дону и по Ростовской области. Также делаем монтаж и замену батарей, ставим краны и фильтры.</p><p>Напишите в сообщения или позвоните — проконсультируем бесплатно.</p>]]></Description>
+<Description><![CDATA[<p>Замена батарей • Радиаторы • Краны • Фильтры 🔧<br>Меняем батареи и радиаторы отопления в Ростове-на-Дону: в квартирах, домах, офисах и нежилых помещениях.</p><p><strong>Что делаем:</strong><br>— Демонтаж старых чугунных батарей<br>— Установка биметаллических и алюминиевых радиаторов<br>— Установка кранов, фильтров и терморегуляторов<br>— Опрессовка и запуск — без протечек</p><p><strong>Преимущества:</strong><br>✅ Современное оборудование<br>✅ Чисто, быстро, без демонтажа и с демонтажом<br>✅ Опыт от 5 лет<br>✅ Выезд в день обращения<br>✅ Гарантия на результат</p><p>📍 Работаем в Ростове-на-Дону и по Ростовской области<br>🚚 Выезд — бесплатный при заказе от 10 радиаторов</p><p>📞 Звоните или пишите — проконсультируем бесплатно!<br>🔧 Также выполняем: монтаж, замена батарей, установка кранов и фильтров.</p>]]></Description>
 <Address>Ростовская обл., Ростов-на-Дону</Address>
 <Latitude>47.2221</Latitude>
 <Longitude>39.7203</Longitude>
@@ -416,12 +410,10 @@
 <Guarantee>Есть</Guarantee>
 <WorkWithContract>Да</WorkWithContract>
 <MaterialPurchase>Возможна</MaterialPurchase>
-<WorkDays><Option>пн.</Option><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>сб.</Option><Option>вс.</Option></WorkDays>
-<WorkTimeFrom>08:00</WorkTimeFrom>
-<WorkTimeTo>21:00</WorkTimeTo>
-<ContactDays><Option>пн.</Option><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>сб.</Option><Option>вс.</Option></ContactDays>
-<ContactTimeFrom>08:00</ContactTimeFrom>
-<ContactTimeTo>22:00</ContactTimeTo>
+<WorkDays><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>вс.</Option></WorkDays>
+<ContactDays><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>вс.</Option></ContactDays>
+<ContactTimeFrom>08:30</ContactTimeFrom>
+<ContactTimeTo>23:59</ContactTimeTo>
 <Images><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/cover_zam_rnd.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/12_montazh_radiatora_komnata.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/15_armatura_chugun_ruki.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/03_gidropnevmo_bimetall.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/09_voda_konteinery_dnevnoi_svet.jpg"/></Images>
 </Ad>
 <Ad>
@@ -431,7 +423,7 @@
 <ServiceSubtype>Сантехника</ServiceSubtype>
 <Specialty>Монтаж и ремонт систем водоснабжения, отопления, канализации</Specialty>
 <Title>Промывка радиаторов отопления — Аксай</Title>
-<Description><![CDATA[<p>Промываем радиаторы и трубы отопления в Аксае: в квартирах, частных домах, офисах и нежилых помещениях.</p><p><b>Что делаем:</b></p><ul><li>гидропневматическая промывка батарей без демонтажа</li><li>химическая промывка от накипи, ржавчины и шлама</li><li>промывка стояков и разводки</li><li>проверка циркуляции и прогрева после работы</li></ul><p>Батареи снова прогреваются равномерно, отопление работает эффективнее — до 30%.</p><p><b>Почему мы:</b></p><ul><li>современное оборудование</li><li>чисто и быстро</li><li>опыт 5 лет</li><li>выезд в день обращения</li><li>работа по договору, гарантия на результат</li></ul><p>Работаем в Аксае и по Ростовской области. Также делаем монтаж и замену батарей, ставим краны и фильтры.</p><p>Напишите в сообщения или позвоните — проконсультируем бесплатно.</p>]]></Description>
+<Description><![CDATA[<p>Промывка системы отопления • Радиаторы • Трубы • Котлы 💧<br>Оказываем профессиональную промывку отопления в Аксае: в квартирах, домах, офисах и нежилых помещениях.</p><p><strong>Что делаем:</strong><br>— Промывка радиаторов и труб (химическая и гидропневматическая)<br>— Очистка от накипи, шлама, ржавчины<br>— Промывка котлов и теплообменников<br>— Повышаем эффективность обогрева до 30%</p><p><strong>Преимущества:</strong><br>✅ Современное оборудование<br>✅ Чисто, быстро, без демонтажа и с демонтажом<br>✅ Опыт от 5 лет<br>✅ Выезд в день обращения<br>✅ Гарантия на результат</p><p>📍 Работаем в Аксае и по Ростовской области<br>🚚 Выезд — бесплатный при заказе от 10 радиаторов</p><p>📞 Звоните или пишите — проконсультируем бесплатно!<br>🔧 Также выполняем: монтаж, замена батарей, установка кранов и фильтров.</p>]]></Description>
 <Address>Ростовская обл., Аксай</Address>
 <Latitude>47.2676</Latitude>
 <Longitude>39.8756</Longitude>
@@ -447,12 +439,10 @@
 <Guarantee>Есть</Guarantee>
 <WorkWithContract>Да</WorkWithContract>
 <MaterialPurchase>Возможна</MaterialPurchase>
-<WorkDays><Option>пн.</Option><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>сб.</Option><Option>вс.</Option></WorkDays>
-<WorkTimeFrom>08:00</WorkTimeFrom>
-<WorkTimeTo>21:00</WorkTimeTo>
-<ContactDays><Option>пн.</Option><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>сб.</Option><Option>вс.</Option></ContactDays>
-<ContactTimeFrom>08:00</ContactTimeFrom>
-<ContactTimeTo>22:00</ContactTimeTo>
+<WorkDays><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>вс.</Option></WorkDays>
+<ContactDays><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>вс.</Option></ContactDays>
+<ContactTimeFrom>08:30</ContactTimeFrom>
+<ContactTimeTo>23:59</ContactTimeTo>
 <Images><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/cover_rad_aks.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/07_voda_banki_na_polu.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/09_voda_konteinery_dnevnoi_svet.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/15_armatura_chugun_ruki.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/08_voda_emkosti_kotelnaya.jpg"/></Images>
 </Ad>
 <Ad>
@@ -462,7 +452,7 @@
 <ServiceSubtype>Сантехника</ServiceSubtype>
 <Specialty>Установка, замена, ремонт сантехники и оборудования</Specialty>
 <Title>Промывка котла от накипи — Аксай</Title>
-<Description><![CDATA[<p>Промываем газовые и электрические котлы, теплообменники и бойлеры в Аксае.</p><p><b>Что делаем:</b></p><ul><li>снятие и химическая промывка теплообменника</li><li>промывка вторичного теплообменника ГВС</li><li>очистка от накипи и шлама реагентом</li><li>сборка, запуск и проверка котла</li></ul><p>Котёл греет быстрее, меньше расходует газ и не шумит.</p><p><b>Почему мы:</b></p><ul><li>современное оборудование</li><li>чисто и быстро</li><li>опыт 5 лет</li><li>выезд в день обращения</li><li>работа по договору, гарантия на результат</li></ul><p>Работаем в Аксае и по Ростовской области. Также делаем монтаж и замену батарей, ставим краны и фильтры.</p><p>Напишите в сообщения или позвоните — проконсультируем бесплатно.</p>]]></Description>
+<Description><![CDATA[<p>Промывка котлов • Теплообменники • Бойлеры 🔥<br>Промываем газовые и электрические котлы в Аксае: в квартирах, частных домах и котельных.</p><p><strong>Что делаем:</strong><br>— Промывка первичного и вторичного теплообменника<br>— Очистка от накипи и шлама реагентом<br>— Промывка бойлеров косвенного нагрева<br>— Запуск и проверка котла после промывки — греет быстрее и тратит меньше газа</p><p><strong>Преимущества:</strong><br>✅ Современное оборудование<br>✅ Чисто, быстро, без демонтажа и с демонтажом<br>✅ Опыт от 5 лет<br>✅ Выезд в день обращения<br>✅ Гарантия на результат</p><p>📍 Работаем в Аксае и по Ростовской области<br>🚚 Выезд — бесплатный при заказе от 10 радиаторов</p><p>📞 Звоните или пишите — проконсультируем бесплатно!<br>🔧 Также выполняем: монтаж, замена батарей, установка кранов и фильтров.</p>]]></Description>
 <Address>Ростовская обл., Аксай</Address>
 <Latitude>47.2676</Latitude>
 <Longitude>39.8756</Longitude>
@@ -478,12 +468,10 @@
 <Guarantee>Есть</Guarantee>
 <WorkWithContract>Да</WorkWithContract>
 <MaterialPurchase>Возможна</MaterialPurchase>
-<WorkDays><Option>пн.</Option><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>сб.</Option><Option>вс.</Option></WorkDays>
-<WorkTimeFrom>08:00</WorkTimeFrom>
-<WorkTimeTo>21:00</WorkTimeTo>
-<ContactDays><Option>пн.</Option><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>сб.</Option><Option>вс.</Option></ContactDays>
-<ContactTimeFrom>08:00</ContactTimeFrom>
-<ContactTimeTo>22:00</ContactTimeTo>
+<WorkDays><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>вс.</Option></WorkDays>
+<ContactDays><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>вс.</Option></ContactDays>
+<ContactTimeFrom>08:30</ContactTimeFrom>
+<ContactTimeTo>23:59</ContactTimeTo>
 <Images><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/cover_kot_aks.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/06_teploobmennik_na_polu.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/08_voda_emkosti_kotelnaya.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/07_voda_banki_na_polu.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/15_armatura_chugun_ruki.jpg"/></Images>
 </Ad>
 <Ad>
@@ -493,7 +481,7 @@
 <ServiceSubtype>Сантехника</ServiceSubtype>
 <Specialty>Монтаж и ремонт систем водоснабжения, отопления, канализации</Specialty>
 <Title>Промывка коллектора тёплого пола — Аксай</Title>
-<Description><![CDATA[<p>Промываем водяные тёплые полы в Аксае: каждый контур отдельно, через коллектор.</p><p><b>Что делаем:</b></p><ul><li>гидропневматическая промывка каждого контура</li><li>очистка коллектора и фильтров</li><li>удаление воздуха и шлама</li><li>балансировка контуров после промывки</li></ul><p>Пол снова прогревается по всей площади, без холодных зон.</p><p><b>Почему мы:</b></p><ul><li>современное оборудование</li><li>чисто и быстро</li><li>опыт 5 лет</li><li>выезд в день обращения</li><li>работа по договору, гарантия на результат</li></ul><p>Работаем в Аксае и по Ростовской области. Также делаем монтаж и замену батарей, ставим краны и фильтры.</p><p>Напишите в сообщения или позвоните — проконсультируем бесплатно.</p>]]></Description>
+<Description><![CDATA[<p>Промывка тёплого пола • Контуры • Коллекторы 💧<br>Промываем водяные тёплые полы в Аксае: в квартирах, домах, офисах и коммерческих помещениях.</p><p><strong>Что делаем:</strong><br>— Гидропневматическая промывка каждого контура отдельно<br>— Очистка коллектора, фильтров и расходомеров<br>— Удаление шлама и воздушных пробок<br>— Возвращаем равномерный прогрев пола без холодных зон</p><p><strong>Преимущества:</strong><br>✅ Современное оборудование<br>✅ Чисто, быстро, без демонтажа и с демонтажом<br>✅ Опыт от 5 лет<br>✅ Выезд в день обращения<br>✅ Гарантия на результат</p><p>📍 Работаем в Аксае и по Ростовской области<br>🚚 Выезд — бесплатный при заказе от 10 радиаторов</p><p>📞 Звоните или пишите — проконсультируем бесплатно!<br>🔧 Также выполняем: монтаж, замена батарей, установка кранов и фильтров.</p>]]></Description>
 <Address>Ростовская обл., Аксай</Address>
 <Latitude>47.2676</Latitude>
 <Longitude>39.8756</Longitude>
@@ -509,12 +497,10 @@
 <Guarantee>Есть</Guarantee>
 <WorkWithContract>Да</WorkWithContract>
 <MaterialPurchase>Возможна</MaterialPurchase>
-<WorkDays><Option>пн.</Option><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>сб.</Option><Option>вс.</Option></WorkDays>
-<WorkTimeFrom>08:00</WorkTimeFrom>
-<WorkTimeTo>21:00</WorkTimeTo>
-<ContactDays><Option>пн.</Option><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>сб.</Option><Option>вс.</Option></ContactDays>
-<ContactTimeFrom>08:00</ContactTimeFrom>
-<ContactTimeTo>22:00</ContactTimeTo>
+<WorkDays><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>вс.</Option></WorkDays>
+<ContactDays><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>вс.</Option></ContactDays>
+<ContactTimeFrom>08:30</ContactTimeFrom>
+<ContactTimeTo>23:59</ContactTimeTo>
 <Images><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/cover_pol_aks.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/02_buster_kollektor_sinii.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/09_voda_konteinery_dnevnoi_svet.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/07_voda_banki_na_polu.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/08_voda_emkosti_kotelnaya.jpg"/></Images>
 </Ad>
 <Ad>
@@ -524,7 +510,7 @@
 <ServiceSubtype>Сантехника</ServiceSubtype>
 <Specialty>Монтаж и ремонт систем водоснабжения, отопления, канализации</Specialty>
 <Title>Замена батарей отопления — Аксай</Title>
-<Description><![CDATA[<p>Меняем батареи и радиаторы отопления в Аксае: снимем старые, поставим новые.</p><p><b>Что делаем:</b></p><ul><li>демонтаж старых чугунных батарей</li><li>установка биметаллических и алюминиевых радиаторов</li><li>краны, фильтры и терморегуляторы</li><li>опрессовка и запуск системы</li></ul><p>Новые радиаторы, аккуратный монтаж, без протечек.</p><p><b>Почему мы:</b></p><ul><li>современное оборудование</li><li>чисто и быстро</li><li>опыт 5 лет</li><li>выезд в день обращения</li><li>работа по договору, гарантия на результат</li></ul><p>Работаем в Аксае и по Ростовской области. Также делаем монтаж и замену батарей, ставим краны и фильтры.</p><p>Напишите в сообщения или позвоните — проконсультируем бесплатно.</p>]]></Description>
+<Description><![CDATA[<p>Замена батарей • Радиаторы • Краны • Фильтры 🔧<br>Меняем батареи и радиаторы отопления в Аксае: в квартирах, домах, офисах и нежилых помещениях.</p><p><strong>Что делаем:</strong><br>— Демонтаж старых чугунных батарей<br>— Установка биметаллических и алюминиевых радиаторов<br>— Установка кранов, фильтров и терморегуляторов<br>— Опрессовка и запуск — без протечек</p><p><strong>Преимущества:</strong><br>✅ Современное оборудование<br>✅ Чисто, быстро, без демонтажа и с демонтажом<br>✅ Опыт от 5 лет<br>✅ Выезд в день обращения<br>✅ Гарантия на результат</p><p>📍 Работаем в Аксае и по Ростовской области<br>🚚 Выезд — бесплатный при заказе от 10 радиаторов</p><p>📞 Звоните или пишите — проконсультируем бесплатно!<br>🔧 Также выполняем: монтаж, замена батарей, установка кранов и фильтров.</p>]]></Description>
 <Address>Ростовская обл., Аксай</Address>
 <Latitude>47.2676</Latitude>
 <Longitude>39.8756</Longitude>
@@ -540,12 +526,10 @@
 <Guarantee>Есть</Guarantee>
 <WorkWithContract>Да</WorkWithContract>
 <MaterialPurchase>Возможна</MaterialPurchase>
-<WorkDays><Option>пн.</Option><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>сб.</Option><Option>вс.</Option></WorkDays>
-<WorkTimeFrom>08:00</WorkTimeFrom>
-<WorkTimeTo>21:00</WorkTimeTo>
-<ContactDays><Option>пн.</Option><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>сб.</Option><Option>вс.</Option></ContactDays>
-<ContactTimeFrom>08:00</ContactTimeFrom>
-<ContactTimeTo>22:00</ContactTimeTo>
+<WorkDays><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>вс.</Option></WorkDays>
+<ContactDays><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>вс.</Option></ContactDays>
+<ContactTimeFrom>08:30</ContactTimeFrom>
+<ContactTimeTo>23:59</ContactTimeTo>
 <Images><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/cover_zam_aks.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/15_armatura_chugun_ruki.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/03_gidropnevmo_bimetall.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/09_voda_konteinery_dnevnoi_svet.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/07_voda_banki_na_polu.jpg"/></Images>
 </Ad>
 <Ad>
@@ -555,7 +539,7 @@
 <ServiceSubtype>Сантехника</ServiceSubtype>
 <Specialty>Монтаж и ремонт систем водоснабжения, отопления, канализации</Specialty>
 <Title>Промывка отопления в квартире — Новочеркасск</Title>
-<Description><![CDATA[<p>Промываем радиаторы и трубы отопления в Новочеркасске: в квартирах, частных домах, офисах и нежилых помещениях.</p><p><b>Что делаем:</b></p><ul><li>гидропневматическая промывка батарей без демонтажа</li><li>химическая промывка от накипи, ржавчины и шлама</li><li>промывка стояков и разводки</li><li>проверка циркуляции и прогрева после работы</li></ul><p>Батареи снова прогреваются равномерно, отопление работает эффективнее — до 30%.</p><p><b>Почему мы:</b></p><ul><li>современное оборудование</li><li>чисто и быстро</li><li>опыт 5 лет</li><li>выезд в день обращения</li><li>работа по договору, гарантия на результат</li></ul><p>Работаем в Новочеркасске и по Ростовской области. Также делаем монтаж и замену батарей, ставим краны и фильтры.</p><p>Напишите в сообщения или позвоните — проконсультируем бесплатно.</p>]]></Description>
+<Description><![CDATA[<p>Промывка системы отопления • Радиаторы • Трубы • Котлы 💧<br>Оказываем профессиональную промывку отопления в Новочеркасске: в квартирах, домах, офисах и нежилых помещениях.</p><p><strong>Что делаем:</strong><br>— Промывка радиаторов и труб (химическая и гидропневматическая)<br>— Очистка от накипи, шлама, ржавчины<br>— Промывка котлов и теплообменников<br>— Повышаем эффективность обогрева до 30%</p><p><strong>Преимущества:</strong><br>✅ Современное оборудование<br>✅ Чисто, быстро, без демонтажа и с демонтажом<br>✅ Опыт от 5 лет<br>✅ Выезд в день обращения<br>✅ Гарантия на результат</p><p>📍 Работаем в Новочеркасске и по Ростовской области<br>🚚 Выезд — бесплатный при заказе от 10 радиаторов</p><p>📞 Звоните или пишите — проконсультируем бесплатно!<br>🔧 Также выполняем: монтаж, замена батарей, установка кранов и фильтров.</p>]]></Description>
 <Address>Ростовская обл., Новочеркасск</Address>
 <Latitude>47.422</Latitude>
 <Longitude>40.0937</Longitude>
@@ -571,12 +555,10 @@
 <Guarantee>Есть</Guarantee>
 <WorkWithContract>Да</WorkWithContract>
 <MaterialPurchase>Возможна</MaterialPurchase>
-<WorkDays><Option>пн.</Option><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>сб.</Option><Option>вс.</Option></WorkDays>
-<WorkTimeFrom>08:00</WorkTimeFrom>
-<WorkTimeTo>21:00</WorkTimeTo>
-<ContactDays><Option>пн.</Option><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>сб.</Option><Option>вс.</Option></ContactDays>
-<ContactTimeFrom>08:00</ContactTimeFrom>
-<ContactTimeTo>22:00</ContactTimeTo>
+<WorkDays><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>вс.</Option></WorkDays>
+<ContactDays><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>вс.</Option></ContactDays>
+<ContactTimeFrom>08:30</ContactTimeFrom>
+<ContactTimeTo>23:59</ContactTimeTo>
 <Images><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/cover_rad_nch.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/09_voda_konteinery_dnevnoi_svet.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/15_armatura_chugun_ruki.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/08_voda_emkosti_kotelnaya.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/03_gidropnevmo_bimetall.jpg"/></Images>
 </Ad>
 <Ad>
@@ -586,7 +568,7 @@
 <ServiceSubtype>Сантехника</ServiceSubtype>
 <Specialty>Установка, замена, ремонт сантехники и оборудования</Specialty>
 <Title>Промывка теплообменника котла — Новочеркасск</Title>
-<Description><![CDATA[<p>Промываем газовые и электрические котлы, теплообменники и бойлеры в Новочеркасске.</p><p><b>Что делаем:</b></p><ul><li>снятие и химическая промывка теплообменника</li><li>промывка вторичного теплообменника ГВС</li><li>очистка от накипи и шлама реагентом</li><li>сборка, запуск и проверка котла</li></ul><p>Котёл греет быстрее, меньше расходует газ и не шумит.</p><p><b>Почему мы:</b></p><ul><li>современное оборудование</li><li>чисто и быстро</li><li>опыт 5 лет</li><li>выезд в день обращения</li><li>работа по договору, гарантия на результат</li></ul><p>Работаем в Новочеркасске и по Ростовской области. Также делаем монтаж и замену батарей, ставим краны и фильтры.</p><p>Напишите в сообщения или позвоните — проконсультируем бесплатно.</p>]]></Description>
+<Description><![CDATA[<p>Промывка котлов • Теплообменники • Бойлеры 🔥<br>Промываем газовые и электрические котлы в Новочеркасске: в квартирах, частных домах и котельных.</p><p><strong>Что делаем:</strong><br>— Промывка первичного и вторичного теплообменника<br>— Очистка от накипи и шлама реагентом<br>— Промывка бойлеров косвенного нагрева<br>— Запуск и проверка котла после промывки — греет быстрее и тратит меньше газа</p><p><strong>Преимущества:</strong><br>✅ Современное оборудование<br>✅ Чисто, быстро, без демонтажа и с демонтажом<br>✅ Опыт от 5 лет<br>✅ Выезд в день обращения<br>✅ Гарантия на результат</p><p>📍 Работаем в Новочеркасске и по Ростовской области<br>🚚 Выезд — бесплатный при заказе от 10 радиаторов</p><p>📞 Звоните или пишите — проконсультируем бесплатно!<br>🔧 Также выполняем: монтаж, замена батарей, установка кранов и фильтров.</p>]]></Description>
 <Address>Ростовская обл., Новочеркасск</Address>
 <Latitude>47.422</Latitude>
 <Longitude>40.0937</Longitude>
@@ -602,12 +584,10 @@
 <Guarantee>Есть</Guarantee>
 <WorkWithContract>Да</WorkWithContract>
 <MaterialPurchase>Возможна</MaterialPurchase>
-<WorkDays><Option>пн.</Option><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>сб.</Option><Option>вс.</Option></WorkDays>
-<WorkTimeFrom>08:00</WorkTimeFrom>
-<WorkTimeTo>21:00</WorkTimeTo>
-<ContactDays><Option>пн.</Option><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>сб.</Option><Option>вс.</Option></ContactDays>
-<ContactTimeFrom>08:00</ContactTimeFrom>
-<ContactTimeTo>22:00</ContactTimeTo>
+<WorkDays><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>вс.</Option></WorkDays>
+<ContactDays><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>вс.</Option></ContactDays>
+<ContactTimeFrom>08:30</ContactTimeFrom>
+<ContactTimeTo>23:59</ContactTimeTo>
 <Images><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/cover_kot_nch.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/08_voda_emkosti_kotelnaya.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/07_voda_banki_na_polu.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/15_armatura_chugun_ruki.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/05_teploobmennik_verstak.jpg"/></Images>
 </Ad>
 <Ad>
@@ -617,7 +597,7 @@
 <ServiceSubtype>Сантехника</ServiceSubtype>
 <Specialty>Монтаж и ремонт систем водоснабжения, отопления, канализации</Specialty>
 <Title>Промывка тёплого пола — Новочеркасск</Title>
-<Description><![CDATA[<p>Промываем водяные тёплые полы в Новочеркасске: каждый контур отдельно, через коллектор.</p><p><b>Что делаем:</b></p><ul><li>гидропневматическая промывка каждого контура</li><li>очистка коллектора и фильтров</li><li>удаление воздуха и шлама</li><li>балансировка контуров после промывки</li></ul><p>Пол снова прогревается по всей площади, без холодных зон.</p><p><b>Почему мы:</b></p><ul><li>современное оборудование</li><li>чисто и быстро</li><li>опыт 5 лет</li><li>выезд в день обращения</li><li>работа по договору, гарантия на результат</li></ul><p>Работаем в Новочеркасске и по Ростовской области. Также делаем монтаж и замену батарей, ставим краны и фильтры.</p><p>Напишите в сообщения или позвоните — проконсультируем бесплатно.</p>]]></Description>
+<Description><![CDATA[<p>Промывка тёплого пола • Контуры • Коллекторы 💧<br>Промываем водяные тёплые полы в Новочеркасске: в квартирах, домах, офисах и коммерческих помещениях.</p><p><strong>Что делаем:</strong><br>— Гидропневматическая промывка каждого контура отдельно<br>— Очистка коллектора, фильтров и расходомеров<br>— Удаление шлама и воздушных пробок<br>— Возвращаем равномерный прогрев пола без холодных зон</p><p><strong>Преимущества:</strong><br>✅ Современное оборудование<br>✅ Чисто, быстро, без демонтажа и с демонтажом<br>✅ Опыт от 5 лет<br>✅ Выезд в день обращения<br>✅ Гарантия на результат</p><p>📍 Работаем в Новочеркасске и по Ростовской области<br>🚚 Выезд — бесплатный при заказе от 10 радиаторов</p><p>📞 Звоните или пишите — проконсультируем бесплатно!<br>🔧 Также выполняем: монтаж, замена батарей, установка кранов и фильтров.</p>]]></Description>
 <Address>Ростовская обл., Новочеркасск</Address>
 <Latitude>47.422</Latitude>
 <Longitude>40.0937</Longitude>
@@ -633,12 +613,10 @@
 <Guarantee>Есть</Guarantee>
 <WorkWithContract>Да</WorkWithContract>
 <MaterialPurchase>Возможна</MaterialPurchase>
-<WorkDays><Option>пн.</Option><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>сб.</Option><Option>вс.</Option></WorkDays>
-<WorkTimeFrom>08:00</WorkTimeFrom>
-<WorkTimeTo>21:00</WorkTimeTo>
-<ContactDays><Option>пн.</Option><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>сб.</Option><Option>вс.</Option></ContactDays>
-<ContactTimeFrom>08:00</ContactTimeFrom>
-<ContactTimeTo>22:00</ContactTimeTo>
+<WorkDays><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>вс.</Option></WorkDays>
+<ContactDays><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>вс.</Option></ContactDays>
+<ContactTimeFrom>08:30</ContactTimeFrom>
+<ContactTimeTo>23:59</ContactTimeTo>
 <Images><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/cover_pol_nch.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/09_voda_konteinery_dnevnoi_svet.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/07_voda_banki_na_polu.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/08_voda_emkosti_kotelnaya.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/01_buster_kollektor_krasnyi.jpg"/></Images>
 </Ad>
 <Ad>
@@ -648,7 +626,7 @@
 <ServiceSubtype>Сантехника</ServiceSubtype>
 <Specialty>Монтаж и ремонт систем водоснабжения, отопления, канализации</Specialty>
 <Title>Замена радиаторов отопления — Новочеркасск</Title>
-<Description><![CDATA[<p>Меняем батареи и радиаторы отопления в Новочеркасске: снимем старые, поставим новые.</p><p><b>Что делаем:</b></p><ul><li>демонтаж старых чугунных батарей</li><li>установка биметаллических и алюминиевых радиаторов</li><li>краны, фильтры и терморегуляторы</li><li>опрессовка и запуск системы</li></ul><p>Новые радиаторы, аккуратный монтаж, без протечек.</p><p><b>Почему мы:</b></p><ul><li>современное оборудование</li><li>чисто и быстро</li><li>опыт 5 лет</li><li>выезд в день обращения</li><li>работа по договору, гарантия на результат</li></ul><p>Работаем в Новочеркасске и по Ростовской области. Также делаем монтаж и замену батарей, ставим краны и фильтры.</p><p>Напишите в сообщения или позвоните — проконсультируем бесплатно.</p>]]></Description>
+<Description><![CDATA[<p>Замена батарей • Радиаторы • Краны • Фильтры 🔧<br>Меняем батареи и радиаторы отопления в Новочеркасске: в квартирах, домах, офисах и нежилых помещениях.</p><p><strong>Что делаем:</strong><br>— Демонтаж старых чугунных батарей<br>— Установка биметаллических и алюминиевых радиаторов<br>— Установка кранов, фильтров и терморегуляторов<br>— Опрессовка и запуск — без протечек</p><p><strong>Преимущества:</strong><br>✅ Современное оборудование<br>✅ Чисто, быстро, без демонтажа и с демонтажом<br>✅ Опыт от 5 лет<br>✅ Выезд в день обращения<br>✅ Гарантия на результат</p><p>📍 Работаем в Новочеркасске и по Ростовской области<br>🚚 Выезд — бесплатный при заказе от 10 радиаторов</p><p>📞 Звоните или пишите — проконсультируем бесплатно!<br>🔧 Также выполняем: монтаж, замена батарей, установка кранов и фильтров.</p>]]></Description>
 <Address>Ростовская обл., Новочеркасск</Address>
 <Latitude>47.422</Latitude>
 <Longitude>40.0937</Longitude>
@@ -664,12 +642,10 @@
 <Guarantee>Есть</Guarantee>
 <WorkWithContract>Да</WorkWithContract>
 <MaterialPurchase>Возможна</MaterialPurchase>
-<WorkDays><Option>пн.</Option><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>сб.</Option><Option>вс.</Option></WorkDays>
-<WorkTimeFrom>08:00</WorkTimeFrom>
-<WorkTimeTo>21:00</WorkTimeTo>
-<ContactDays><Option>пн.</Option><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>сб.</Option><Option>вс.</Option></ContactDays>
-<ContactTimeFrom>08:00</ContactTimeFrom>
-<ContactTimeTo>22:00</ContactTimeTo>
+<WorkDays><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>вс.</Option></WorkDays>
+<ContactDays><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>вс.</Option></ContactDays>
+<ContactTimeFrom>08:30</ContactTimeFrom>
+<ContactTimeTo>23:59</ContactTimeTo>
 <Images><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/cover_zam_nch.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/03_gidropnevmo_bimetall.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/09_voda_konteinery_dnevnoi_svet.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/07_voda_banki_na_polu.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/12_montazh_radiatora_komnata.jpg"/></Images>
 </Ad>
 <Ad>
@@ -679,7 +655,7 @@
 <ServiceSubtype>Сантехника</ServiceSubtype>
 <Specialty>Монтаж и ремонт систем водоснабжения, отопления, канализации</Specialty>
 <Title>Промывка отопления и радиаторов — Батайск</Title>
-<Description><![CDATA[<p>Промываем радиаторы и трубы отопления в Батайске: в квартирах, частных домах, офисах и нежилых помещениях.</p><p><b>Что делаем:</b></p><ul><li>гидропневматическая промывка батарей без демонтажа</li><li>химическая промывка от накипи, ржавчины и шлама</li><li>промывка стояков и разводки</li><li>проверка циркуляции и прогрева после работы</li></ul><p>Батареи снова прогреваются равномерно, отопление работает эффективнее — до 30%.</p><p><b>Почему мы:</b></p><ul><li>современное оборудование</li><li>чисто и быстро</li><li>опыт 5 лет</li><li>выезд в день обращения</li><li>работа по договору, гарантия на результат</li></ul><p>Работаем в Батайске и по Ростовской области. Также делаем монтаж и замену батарей, ставим краны и фильтры.</p><p>Напишите в сообщения или позвоните — проконсультируем бесплатно.</p>]]></Description>
+<Description><![CDATA[<p>Промывка системы отопления • Радиаторы • Трубы • Котлы 💧<br>Оказываем профессиональную промывку отопления в Батайске: в квартирах, домах, офисах и нежилых помещениях.</p><p><strong>Что делаем:</strong><br>— Промывка радиаторов и труб (химическая и гидропневматическая)<br>— Очистка от накипи, шлама, ржавчины<br>— Промывка котлов и теплообменников<br>— Повышаем эффективность обогрева до 30%</p><p><strong>Преимущества:</strong><br>✅ Современное оборудование<br>✅ Чисто, быстро, без демонтажа и с демонтажом<br>✅ Опыт от 5 лет<br>✅ Выезд в день обращения<br>✅ Гарантия на результат</p><p>📍 Работаем в Батайске и по Ростовской области<br>🚚 Выезд — бесплатный при заказе от 10 радиаторов</p><p>📞 Звоните или пишите — проконсультируем бесплатно!<br>🔧 Также выполняем: монтаж, замена батарей, установка кранов и фильтров.</p>]]></Description>
 <Address>Ростовская обл., Батайск</Address>
 <Latitude>47.1397</Latitude>
 <Longitude>39.7518</Longitude>
@@ -695,12 +671,10 @@
 <Guarantee>Есть</Guarantee>
 <WorkWithContract>Да</WorkWithContract>
 <MaterialPurchase>Возможна</MaterialPurchase>
-<WorkDays><Option>пн.</Option><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>сб.</Option><Option>вс.</Option></WorkDays>
-<WorkTimeFrom>08:00</WorkTimeFrom>
-<WorkTimeTo>21:00</WorkTimeTo>
-<ContactDays><Option>пн.</Option><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>сб.</Option><Option>вс.</Option></ContactDays>
-<ContactTimeFrom>08:00</ContactTimeFrom>
-<ContactTimeTo>22:00</ContactTimeTo>
+<WorkDays><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>вс.</Option></WorkDays>
+<ContactDays><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>вс.</Option></ContactDays>
+<ContactTimeFrom>08:30</ContactTimeFrom>
+<ContactTimeTo>23:59</ContactTimeTo>
 <Images><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/cover_rad_bat.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/15_armatura_chugun_ruki.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/08_voda_emkosti_kotelnaya.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/03_gidropnevmo_bimetall.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/07_voda_banki_na_polu.jpg"/></Images>
 </Ad>
 <Ad>
@@ -710,7 +684,7 @@
 <ServiceSubtype>Сантехника</ServiceSubtype>
 <Specialty>Установка, замена, ремонт сантехники и оборудования</Specialty>
 <Title>Промывка газового котла — Батайск</Title>
-<Description><![CDATA[<p>Промываем газовые и электрические котлы, теплообменники и бойлеры в Батайске.</p><p><b>Что делаем:</b></p><ul><li>снятие и химическая промывка теплообменника</li><li>промывка вторичного теплообменника ГВС</li><li>очистка от накипи и шлама реагентом</li><li>сборка, запуск и проверка котла</li></ul><p>Котёл греет быстрее, меньше расходует газ и не шумит.</p><p><b>Почему мы:</b></p><ul><li>современное оборудование</li><li>чисто и быстро</li><li>опыт 5 лет</li><li>выезд в день обращения</li><li>работа по договору, гарантия на результат</li></ul><p>Работаем в Батайске и по Ростовской области. Также делаем монтаж и замену батарей, ставим краны и фильтры.</p><p>Напишите в сообщения или позвоните — проконсультируем бесплатно.</p>]]></Description>
+<Description><![CDATA[<p>Промывка котлов • Теплообменники • Бойлеры 🔥<br>Промываем газовые и электрические котлы в Батайске: в квартирах, частных домах и котельных.</p><p><strong>Что делаем:</strong><br>— Промывка первичного и вторичного теплообменника<br>— Очистка от накипи и шлама реагентом<br>— Промывка бойлеров косвенного нагрева<br>— Запуск и проверка котла после промывки — греет быстрее и тратит меньше газа</p><p><strong>Преимущества:</strong><br>✅ Современное оборудование<br>✅ Чисто, быстро, без демонтажа и с демонтажом<br>✅ Опыт от 5 лет<br>✅ Выезд в день обращения<br>✅ Гарантия на результат</p><p>📍 Работаем в Батайске и по Ростовской области<br>🚚 Выезд — бесплатный при заказе от 10 радиаторов</p><p>📞 Звоните или пишите — проконсультируем бесплатно!<br>🔧 Также выполняем: монтаж, замена батарей, установка кранов и фильтров.</p>]]></Description>
 <Address>Ростовская обл., Батайск</Address>
 <Latitude>47.1397</Latitude>
 <Longitude>39.7518</Longitude>
@@ -726,12 +700,10 @@
 <Guarantee>Есть</Guarantee>
 <WorkWithContract>Да</WorkWithContract>
 <MaterialPurchase>Возможна</MaterialPurchase>
-<WorkDays><Option>пн.</Option><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>сб.</Option><Option>вс.</Option></WorkDays>
-<WorkTimeFrom>08:00</WorkTimeFrom>
-<WorkTimeTo>21:00</WorkTimeTo>
-<ContactDays><Option>пн.</Option><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>сб.</Option><Option>вс.</Option></ContactDays>
-<ContactTimeFrom>08:00</ContactTimeFrom>
-<ContactTimeTo>22:00</ContactTimeTo>
+<WorkDays><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>вс.</Option></WorkDays>
+<ContactDays><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>вс.</Option></ContactDays>
+<ContactTimeFrom>08:30</ContactTimeFrom>
+<ContactTimeTo>23:59</ContactTimeTo>
 <Images><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/cover_kot_bat.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/07_voda_banki_na_polu.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/15_armatura_chugun_ruki.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/05_teploobmennik_verstak.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/06_teploobmennik_na_polu.jpg"/></Images>
 </Ad>
 <Ad>
@@ -741,7 +713,7 @@
 <ServiceSubtype>Сантехника</ServiceSubtype>
 <Specialty>Монтаж и ремонт систем водоснабжения, отопления, канализации</Specialty>
 <Title>Промывка водяного тёплого пола — Батайск</Title>
-<Description><![CDATA[<p>Промываем водяные тёплые полы в Батайске: каждый контур отдельно, через коллектор.</p><p><b>Что делаем:</b></p><ul><li>гидропневматическая промывка каждого контура</li><li>очистка коллектора и фильтров</li><li>удаление воздуха и шлама</li><li>балансировка контуров после промывки</li></ul><p>Пол снова прогревается по всей площади, без холодных зон.</p><p><b>Почему мы:</b></p><ul><li>современное оборудование</li><li>чисто и быстро</li><li>опыт 5 лет</li><li>выезд в день обращения</li><li>работа по договору, гарантия на результат</li></ul><p>Работаем в Батайске и по Ростовской области. Также делаем монтаж и замену батарей, ставим краны и фильтры.</p><p>Напишите в сообщения или позвоните — проконсультируем бесплатно.</p>]]></Description>
+<Description><![CDATA[<p>Промывка тёплого пола • Контуры • Коллекторы 💧<br>Промываем водяные тёплые полы в Батайске: в квартирах, домах, офисах и коммерческих помещениях.</p><p><strong>Что делаем:</strong><br>— Гидропневматическая промывка каждого контура отдельно<br>— Очистка коллектора, фильтров и расходомеров<br>— Удаление шлама и воздушных пробок<br>— Возвращаем равномерный прогрев пола без холодных зон</p><p><strong>Преимущества:</strong><br>✅ Современное оборудование<br>✅ Чисто, быстро, без демонтажа и с демонтажом<br>✅ Опыт от 5 лет<br>✅ Выезд в день обращения<br>✅ Гарантия на результат</p><p>📍 Работаем в Батайске и по Ростовской области<br>🚚 Выезд — бесплатный при заказе от 10 радиаторов</p><p>📞 Звоните или пишите — проконсультируем бесплатно!<br>🔧 Также выполняем: монтаж, замена батарей, установка кранов и фильтров.</p>]]></Description>
 <Address>Ростовская обл., Батайск</Address>
 <Latitude>47.1397</Latitude>
 <Longitude>39.7518</Longitude>
@@ -757,12 +729,10 @@
 <Guarantee>Есть</Guarantee>
 <WorkWithContract>Да</WorkWithContract>
 <MaterialPurchase>Возможна</MaterialPurchase>
-<WorkDays><Option>пн.</Option><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>сб.</Option><Option>вс.</Option></WorkDays>
-<WorkTimeFrom>08:00</WorkTimeFrom>
-<WorkTimeTo>21:00</WorkTimeTo>
-<ContactDays><Option>пн.</Option><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>сб.</Option><Option>вс.</Option></ContactDays>
-<ContactTimeFrom>08:00</ContactTimeFrom>
-<ContactTimeTo>22:00</ContactTimeTo>
+<WorkDays><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>вс.</Option></WorkDays>
+<ContactDays><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>вс.</Option></ContactDays>
+<ContactTimeFrom>08:30</ContactTimeFrom>
+<ContactTimeTo>23:59</ContactTimeTo>
 <Images><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/cover_pol_bat.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/07_voda_banki_na_polu.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/08_voda_emkosti_kotelnaya.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/01_buster_kollektor_krasnyi.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/02_buster_kollektor_sinii.jpg"/></Images>
 </Ad>
 <Ad>
@@ -772,7 +742,7 @@
 <ServiceSubtype>Сантехника</ServiceSubtype>
 <Specialty>Монтаж и ремонт систем водоснабжения, отопления, канализации</Specialty>
 <Title>Замена и установка батарей — Батайск</Title>
-<Description><![CDATA[<p>Меняем батареи и радиаторы отопления в Батайске: снимем старые, поставим новые.</p><p><b>Что делаем:</b></p><ul><li>демонтаж старых чугунных батарей</li><li>установка биметаллических и алюминиевых радиаторов</li><li>краны, фильтры и терморегуляторы</li><li>опрессовка и запуск системы</li></ul><p>Новые радиаторы, аккуратный монтаж, без протечек.</p><p><b>Почему мы:</b></p><ul><li>современное оборудование</li><li>чисто и быстро</li><li>опыт 5 лет</li><li>выезд в день обращения</li><li>работа по договору, гарантия на результат</li></ul><p>Работаем в Батайске и по Ростовской области. Также делаем монтаж и замену батарей, ставим краны и фильтры.</p><p>Напишите в сообщения или позвоните — проконсультируем бесплатно.</p>]]></Description>
+<Description><![CDATA[<p>Замена батарей • Радиаторы • Краны • Фильтры 🔧<br>Меняем батареи и радиаторы отопления в Батайске: в квартирах, домах, офисах и нежилых помещениях.</p><p><strong>Что делаем:</strong><br>— Демонтаж старых чугунных батарей<br>— Установка биметаллических и алюминиевых радиаторов<br>— Установка кранов, фильтров и терморегуляторов<br>— Опрессовка и запуск — без протечек</p><p><strong>Преимущества:</strong><br>✅ Современное оборудование<br>✅ Чисто, быстро, без демонтажа и с демонтажом<br>✅ Опыт от 5 лет<br>✅ Выезд в день обращения<br>✅ Гарантия на результат</p><p>📍 Работаем в Батайске и по Ростовской области<br>🚚 Выезд — бесплатный при заказе от 10 радиаторов</p><p>📞 Звоните или пишите — проконсультируем бесплатно!<br>🔧 Также выполняем: монтаж, замена батарей, установка кранов и фильтров.</p>]]></Description>
 <Address>Ростовская обл., Батайск</Address>
 <Latitude>47.1397</Latitude>
 <Longitude>39.7518</Longitude>
@@ -788,12 +758,10 @@
 <Guarantee>Есть</Guarantee>
 <WorkWithContract>Да</WorkWithContract>
 <MaterialPurchase>Возможна</MaterialPurchase>
-<WorkDays><Option>пн.</Option><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>сб.</Option><Option>вс.</Option></WorkDays>
-<WorkTimeFrom>08:00</WorkTimeFrom>
-<WorkTimeTo>21:00</WorkTimeTo>
-<ContactDays><Option>пн.</Option><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>сб.</Option><Option>вс.</Option></ContactDays>
-<ContactTimeFrom>08:00</ContactTimeFrom>
-<ContactTimeTo>22:00</ContactTimeTo>
+<WorkDays><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>вс.</Option></WorkDays>
+<ContactDays><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>вс.</Option></ContactDays>
+<ContactTimeFrom>08:30</ContactTimeFrom>
+<ContactTimeTo>23:59</ContactTimeTo>
 <Images><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/cover_zam_bat.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/09_voda_konteinery_dnevnoi_svet.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/07_voda_banki_na_polu.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/12_montazh_radiatora_komnata.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/15_armatura_chugun_ruki.jpg"/></Images>
 </Ad>
 <Ad>
@@ -803,7 +771,7 @@
 <ServiceSubtype>Сантехника</ServiceSubtype>
 <Specialty>Монтаж и ремонт систем водоснабжения, отопления, канализации</Specialty>
 <Title>Промывка батарей и отопления — Азов</Title>
-<Description><![CDATA[<p>Промываем радиаторы и трубы отопления в Азове: в квартирах, частных домах, офисах и нежилых помещениях.</p><p><b>Что делаем:</b></p><ul><li>гидропневматическая промывка батарей без демонтажа</li><li>химическая промывка от накипи, ржавчины и шлама</li><li>промывка стояков и разводки</li><li>проверка циркуляции и прогрева после работы</li></ul><p>Батареи снова прогреваются равномерно, отопление работает эффективнее — до 30%.</p><p><b>Почему мы:</b></p><ul><li>современное оборудование</li><li>чисто и быстро</li><li>опыт 5 лет</li><li>выезд в день обращения</li><li>работа по договору, гарантия на результат</li></ul><p>Работаем в Азове и по Ростовской области. Также делаем монтаж и замену батарей, ставим краны и фильтры.</p><p>Напишите в сообщения или позвоните — проконсультируем бесплатно.</p>]]></Description>
+<Description><![CDATA[<p>Промывка системы отопления • Радиаторы • Трубы • Котлы 💧<br>Оказываем профессиональную промывку отопления в Азове: в квартирах, домах, офисах и нежилых помещениях.</p><p><strong>Что делаем:</strong><br>— Промывка радиаторов и труб (химическая и гидропневматическая)<br>— Очистка от накипи, шлама, ржавчины<br>— Промывка котлов и теплообменников<br>— Повышаем эффективность обогрева до 30%</p><p><strong>Преимущества:</strong><br>✅ Современное оборудование<br>✅ Чисто, быстро, без демонтажа и с демонтажом<br>✅ Опыт от 5 лет<br>✅ Выезд в день обращения<br>✅ Гарантия на результат</p><p>📍 Работаем в Азове и по Ростовской области<br>🚚 Выезд — бесплатный при заказе от 10 радиаторов</p><p>📞 Звоните или пишите — проконсультируем бесплатно!<br>🔧 Также выполняем: монтаж, замена батарей, установка кранов и фильтров.</p>]]></Description>
 <Address>Ростовская обл., Азов</Address>
 <Latitude>47.1075</Latitude>
 <Longitude>39.4165</Longitude>
@@ -819,12 +787,10 @@
 <Guarantee>Есть</Guarantee>
 <WorkWithContract>Да</WorkWithContract>
 <MaterialPurchase>Возможна</MaterialPurchase>
-<WorkDays><Option>пн.</Option><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>сб.</Option><Option>вс.</Option></WorkDays>
-<WorkTimeFrom>08:00</WorkTimeFrom>
-<WorkTimeTo>21:00</WorkTimeTo>
-<ContactDays><Option>пн.</Option><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>сб.</Option><Option>вс.</Option></ContactDays>
-<ContactTimeFrom>08:00</ContactTimeFrom>
-<ContactTimeTo>22:00</ContactTimeTo>
+<WorkDays><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>вс.</Option></WorkDays>
+<ContactDays><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>вс.</Option></ContactDays>
+<ContactTimeFrom>08:30</ContactTimeFrom>
+<ContactTimeTo>23:59</ContactTimeTo>
 <Images><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/cover_rad_azv.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/08_voda_emkosti_kotelnaya.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/03_gidropnevmo_bimetall.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/07_voda_banki_na_polu.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/09_voda_konteinery_dnevnoi_svet.jpg"/></Images>
 </Ad>
 <Ad>
@@ -834,7 +800,7 @@
 <ServiceSubtype>Сантехника</ServiceSubtype>
 <Specialty>Установка, замена, ремонт сантехники и оборудования</Specialty>
 <Title>Чистка теплообменника котла — Азов</Title>
-<Description><![CDATA[<p>Промываем газовые и электрические котлы, теплообменники и бойлеры в Азове.</p><p><b>Что делаем:</b></p><ul><li>снятие и химическая промывка теплообменника</li><li>промывка вторичного теплообменника ГВС</li><li>очистка от накипи и шлама реагентом</li><li>сборка, запуск и проверка котла</li></ul><p>Котёл греет быстрее, меньше расходует газ и не шумит.</p><p><b>Почему мы:</b></p><ul><li>современное оборудование</li><li>чисто и быстро</li><li>опыт 5 лет</li><li>выезд в день обращения</li><li>работа по договору, гарантия на результат</li></ul><p>Работаем в Азове и по Ростовской области. Также делаем монтаж и замену батарей, ставим краны и фильтры.</p><p>Напишите в сообщения или позвоните — проконсультируем бесплатно.</p>]]></Description>
+<Description><![CDATA[<p>Промывка котлов • Теплообменники • Бойлеры 🔥<br>Промываем газовые и электрические котлы в Азове: в квартирах, частных домах и котельных.</p><p><strong>Что делаем:</strong><br>— Промывка первичного и вторичного теплообменника<br>— Очистка от накипи и шлама реагентом<br>— Промывка бойлеров косвенного нагрева<br>— Запуск и проверка котла после промывки — греет быстрее и тратит меньше газа</p><p><strong>Преимущества:</strong><br>✅ Современное оборудование<br>✅ Чисто, быстро, без демонтажа и с демонтажом<br>✅ Опыт от 5 лет<br>✅ Выезд в день обращения<br>✅ Гарантия на результат</p><p>📍 Работаем в Азове и по Ростовской области<br>🚚 Выезд — бесплатный при заказе от 10 радиаторов</p><p>📞 Звоните или пишите — проконсультируем бесплатно!<br>🔧 Также выполняем: монтаж, замена батарей, установка кранов и фильтров.</p>]]></Description>
 <Address>Ростовская обл., Азов</Address>
 <Latitude>47.1075</Latitude>
 <Longitude>39.4165</Longitude>
@@ -850,12 +816,10 @@
 <Guarantee>Есть</Guarantee>
 <WorkWithContract>Да</WorkWithContract>
 <MaterialPurchase>Возможна</MaterialPurchase>
-<WorkDays><Option>пн.</Option><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>сб.</Option><Option>вс.</Option></WorkDays>
-<WorkTimeFrom>08:00</WorkTimeFrom>
-<WorkTimeTo>21:00</WorkTimeTo>
-<ContactDays><Option>пн.</Option><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>сб.</Option><Option>вс.</Option></ContactDays>
-<ContactTimeFrom>08:00</ContactTimeFrom>
-<ContactTimeTo>22:00</ContactTimeTo>
+<WorkDays><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>вс.</Option></WorkDays>
+<ContactDays><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>вс.</Option></ContactDays>
+<ContactTimeFrom>08:30</ContactTimeFrom>
+<ContactTimeTo>23:59</ContactTimeTo>
 <Images><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/cover_kot_azv.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/15_armatura_chugun_ruki.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/05_teploobmennik_verstak.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/06_teploobmennik_na_polu.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/08_voda_emkosti_kotelnaya.jpg"/></Images>
 </Ad>
 <Ad>
@@ -865,7 +829,7 @@
 <ServiceSubtype>Сантехника</ServiceSubtype>
 <Specialty>Монтаж и ремонт систем водоснабжения, отопления, канализации</Specialty>
 <Title>Промывка контуров тёплого пола — Азов</Title>
-<Description><![CDATA[<p>Промываем водяные тёплые полы в Азове: каждый контур отдельно, через коллектор.</p><p><b>Что делаем:</b></p><ul><li>гидропневматическая промывка каждого контура</li><li>очистка коллектора и фильтров</li><li>удаление воздуха и шлама</li><li>балансировка контуров после промывки</li></ul><p>Пол снова прогревается по всей площади, без холодных зон.</p><p><b>Почему мы:</b></p><ul><li>современное оборудование</li><li>чисто и быстро</li><li>опыт 5 лет</li><li>выезд в день обращения</li><li>работа по договору, гарантия на результат</li></ul><p>Работаем в Азове и по Ростовской области. Также делаем монтаж и замену батарей, ставим краны и фильтры.</p><p>Напишите в сообщения или позвоните — проконсультируем бесплатно.</p>]]></Description>
+<Description><![CDATA[<p>Промывка тёплого пола • Контуры • Коллекторы 💧<br>Промываем водяные тёплые полы в Азове: в квартирах, домах, офисах и коммерческих помещениях.</p><p><strong>Что делаем:</strong><br>— Гидропневматическая промывка каждого контура отдельно<br>— Очистка коллектора, фильтров и расходомеров<br>— Удаление шлама и воздушных пробок<br>— Возвращаем равномерный прогрев пола без холодных зон</p><p><strong>Преимущества:</strong><br>✅ Современное оборудование<br>✅ Чисто, быстро, без демонтажа и с демонтажом<br>✅ Опыт от 5 лет<br>✅ Выезд в день обращения<br>✅ Гарантия на результат</p><p>📍 Работаем в Азове и по Ростовской области<br>🚚 Выезд — бесплатный при заказе от 10 радиаторов</p><p>📞 Звоните или пишите — проконсультируем бесплатно!<br>🔧 Также выполняем: монтаж, замена батарей, установка кранов и фильтров.</p>]]></Description>
 <Address>Ростовская обл., Азов</Address>
 <Latitude>47.1075</Latitude>
 <Longitude>39.4165</Longitude>
@@ -881,12 +845,10 @@
 <Guarantee>Есть</Guarantee>
 <WorkWithContract>Да</WorkWithContract>
 <MaterialPurchase>Возможна</MaterialPurchase>
-<WorkDays><Option>пн.</Option><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>сб.</Option><Option>вс.</Option></WorkDays>
-<WorkTimeFrom>08:00</WorkTimeFrom>
-<WorkTimeTo>21:00</WorkTimeTo>
-<ContactDays><Option>пн.</Option><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>сб.</Option><Option>вс.</Option></ContactDays>
-<ContactTimeFrom>08:00</ContactTimeFrom>
-<ContactTimeTo>22:00</ContactTimeTo>
+<WorkDays><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>вс.</Option></WorkDays>
+<ContactDays><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>вс.</Option></ContactDays>
+<ContactTimeFrom>08:30</ContactTimeFrom>
+<ContactTimeTo>23:59</ContactTimeTo>
 <Images><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/cover_pol_azv.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/08_voda_emkosti_kotelnaya.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/01_buster_kollektor_krasnyi.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/02_buster_kollektor_sinii.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/09_voda_konteinery_dnevnoi_svet.jpg"/></Images>
 </Ad>
 <Ad>
@@ -896,7 +858,7 @@
 <ServiceSubtype>Сантехника</ServiceSubtype>
 <Specialty>Монтаж и ремонт систем водоснабжения, отопления, канализации</Specialty>
 <Title>Установка радиаторов отопления — Азов</Title>
-<Description><![CDATA[<p>Меняем батареи и радиаторы отопления в Азове: снимем старые, поставим новые.</p><p><b>Что делаем:</b></p><ul><li>демонтаж старых чугунных батарей</li><li>установка биметаллических и алюминиевых радиаторов</li><li>краны, фильтры и терморегуляторы</li><li>опрессовка и запуск системы</li></ul><p>Новые радиаторы, аккуратный монтаж, без протечек.</p><p><b>Почему мы:</b></p><ul><li>современное оборудование</li><li>чисто и быстро</li><li>опыт 5 лет</li><li>выезд в день обращения</li><li>работа по договору, гарантия на результат</li></ul><p>Работаем в Азове и по Ростовской области. Также делаем монтаж и замену батарей, ставим краны и фильтры.</p><p>Напишите в сообщения или позвоните — проконсультируем бесплатно.</p>]]></Description>
+<Description><![CDATA[<p>Замена батарей • Радиаторы • Краны • Фильтры 🔧<br>Меняем батареи и радиаторы отопления в Азове: в квартирах, домах, офисах и нежилых помещениях.</p><p><strong>Что делаем:</strong><br>— Демонтаж старых чугунных батарей<br>— Установка биметаллических и алюминиевых радиаторов<br>— Установка кранов, фильтров и терморегуляторов<br>— Опрессовка и запуск — без протечек</p><p><strong>Преимущества:</strong><br>✅ Современное оборудование<br>✅ Чисто, быстро, без демонтажа и с демонтажом<br>✅ Опыт от 5 лет<br>✅ Выезд в день обращения<br>✅ Гарантия на результат</p><p>📍 Работаем в Азове и по Ростовской области<br>🚚 Выезд — бесплатный при заказе от 10 радиаторов</p><p>📞 Звоните или пишите — проконсультируем бесплатно!<br>🔧 Также выполняем: монтаж, замена батарей, установка кранов и фильтров.</p>]]></Description>
 <Address>Ростовская обл., Азов</Address>
 <Latitude>47.1075</Latitude>
 <Longitude>39.4165</Longitude>
@@ -912,12 +874,10 @@
 <Guarantee>Есть</Guarantee>
 <WorkWithContract>Да</WorkWithContract>
 <MaterialPurchase>Возможна</MaterialPurchase>
-<WorkDays><Option>пн.</Option><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>сб.</Option><Option>вс.</Option></WorkDays>
-<WorkTimeFrom>08:00</WorkTimeFrom>
-<WorkTimeTo>21:00</WorkTimeTo>
-<ContactDays><Option>пн.</Option><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>сб.</Option><Option>вс.</Option></ContactDays>
-<ContactTimeFrom>08:00</ContactTimeFrom>
-<ContactTimeTo>22:00</ContactTimeTo>
+<WorkDays><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>вс.</Option></WorkDays>
+<ContactDays><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>вс.</Option></ContactDays>
+<ContactTimeFrom>08:30</ContactTimeFrom>
+<ContactTimeTo>23:59</ContactTimeTo>
 <Images><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/cover_zam_azv.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/07_voda_banki_na_polu.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/12_montazh_radiatora_komnata.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/15_armatura_chugun_ruki.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/03_gidropnevmo_bimetall.jpg"/></Images>
 </Ad>
 <Ad>
@@ -927,7 +887,7 @@
 <ServiceSubtype>Сантехника</ServiceSubtype>
 <Specialty>Монтаж и ремонт систем водоснабжения, отопления, канализации</Specialty>
 <Title>Промывка радиаторов отопления — Таганрог</Title>
-<Description><![CDATA[<p>Промываем радиаторы и трубы отопления в Таганроге: в квартирах, частных домах, офисах и нежилых помещениях.</p><p><b>Что делаем:</b></p><ul><li>гидропневматическая промывка батарей без демонтажа</li><li>химическая промывка от накипи, ржавчины и шлама</li><li>промывка стояков и разводки</li><li>проверка циркуляции и прогрева после работы</li></ul><p>Батареи снова прогреваются равномерно, отопление работает эффективнее — до 30%.</p><p><b>Почему мы:</b></p><ul><li>современное оборудование</li><li>чисто и быстро</li><li>опыт 5 лет</li><li>выезд в день обращения</li><li>работа по договору, гарантия на результат</li></ul><p>Работаем в Таганроге и по Ростовской области. Также делаем монтаж и замену батарей, ставим краны и фильтры.</p><p>Напишите в сообщения или позвоните — проконсультируем бесплатно.</p>]]></Description>
+<Description><![CDATA[<p>Промывка системы отопления • Радиаторы • Трубы • Котлы 💧<br>Оказываем профессиональную промывку отопления в Таганроге: в квартирах, домах, офисах и нежилых помещениях.</p><p><strong>Что делаем:</strong><br>— Промывка радиаторов и труб (химическая и гидропневматическая)<br>— Очистка от накипи, шлама, ржавчины<br>— Промывка котлов и теплообменников<br>— Повышаем эффективность обогрева до 30%</p><p><strong>Преимущества:</strong><br>✅ Современное оборудование<br>✅ Чисто, быстро, без демонтажа и с демонтажом<br>✅ Опыт от 5 лет<br>✅ Выезд в день обращения<br>✅ Гарантия на результат</p><p>📍 Работаем в Таганроге и по Ростовской области<br>🚚 Выезд — бесплатный при заказе от 10 радиаторов</p><p>📞 Звоните или пишите — проконсультируем бесплатно!<br>🔧 Также выполняем: монтаж, замена батарей, установка кранов и фильтров.</p>]]></Description>
 <Address>Ростовская обл., Таганрог</Address>
 <Latitude>47.2096</Latitude>
 <Longitude>38.9352</Longitude>
@@ -943,12 +903,10 @@
 <Guarantee>Есть</Guarantee>
 <WorkWithContract>Да</WorkWithContract>
 <MaterialPurchase>Возможна</MaterialPurchase>
-<WorkDays><Option>пн.</Option><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>сб.</Option><Option>вс.</Option></WorkDays>
-<WorkTimeFrom>08:00</WorkTimeFrom>
-<WorkTimeTo>21:00</WorkTimeTo>
-<ContactDays><Option>пн.</Option><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>сб.</Option><Option>вс.</Option></ContactDays>
-<ContactTimeFrom>08:00</ContactTimeFrom>
-<ContactTimeTo>22:00</ContactTimeTo>
+<WorkDays><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>вс.</Option></WorkDays>
+<ContactDays><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>вс.</Option></ContactDays>
+<ContactTimeFrom>08:30</ContactTimeFrom>
+<ContactTimeTo>23:59</ContactTimeTo>
 <Images><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/cover_rad_tag.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/03_gidropnevmo_bimetall.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/07_voda_banki_na_polu.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/09_voda_konteinery_dnevnoi_svet.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/15_armatura_chugun_ruki.jpg"/></Images>
 </Ad>
 <Ad>
@@ -958,7 +916,7 @@
 <ServiceSubtype>Сантехника</ServiceSubtype>
 <Specialty>Установка, замена, ремонт сантехники и оборудования</Specialty>
 <Title>Промывка котла от накипи — Таганрог</Title>
-<Description><![CDATA[<p>Промываем газовые и электрические котлы, теплообменники и бойлеры в Таганроге.</p><p><b>Что делаем:</b></p><ul><li>снятие и химическая промывка теплообменника</li><li>промывка вторичного теплообменника ГВС</li><li>очистка от накипи и шлама реагентом</li><li>сборка, запуск и проверка котла</li></ul><p>Котёл греет быстрее, меньше расходует газ и не шумит.</p><p><b>Почему мы:</b></p><ul><li>современное оборудование</li><li>чисто и быстро</li><li>опыт 5 лет</li><li>выезд в день обращения</li><li>работа по договору, гарантия на результат</li></ul><p>Работаем в Таганроге и по Ростовской области. Также делаем монтаж и замену батарей, ставим краны и фильтры.</p><p>Напишите в сообщения или позвоните — проконсультируем бесплатно.</p>]]></Description>
+<Description><![CDATA[<p>Промывка котлов • Теплообменники • Бойлеры 🔥<br>Промываем газовые и электрические котлы в Таганроге: в квартирах, частных домах и котельных.</p><p><strong>Что делаем:</strong><br>— Промывка первичного и вторичного теплообменника<br>— Очистка от накипи и шлама реагентом<br>— Промывка бойлеров косвенного нагрева<br>— Запуск и проверка котла после промывки — греет быстрее и тратит меньше газа</p><p><strong>Преимущества:</strong><br>✅ Современное оборудование<br>✅ Чисто, быстро, без демонтажа и с демонтажом<br>✅ Опыт от 5 лет<br>✅ Выезд в день обращения<br>✅ Гарантия на результат</p><p>📍 Работаем в Таганроге и по Ростовской области<br>🚚 Выезд — бесплатный при заказе от 10 радиаторов</p><p>📞 Звоните или пишите — проконсультируем бесплатно!<br>🔧 Также выполняем: монтаж, замена батарей, установка кранов и фильтров.</p>]]></Description>
 <Address>Ростовская обл., Таганрог</Address>
 <Latitude>47.2096</Latitude>
 <Longitude>38.9352</Longitude>
@@ -974,12 +932,10 @@
 <Guarantee>Есть</Guarantee>
 <WorkWithContract>Да</WorkWithContract>
 <MaterialPurchase>Возможна</MaterialPurchase>
-<WorkDays><Option>пн.</Option><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>сб.</Option><Option>вс.</Option></WorkDays>
-<WorkTimeFrom>08:00</WorkTimeFrom>
-<WorkTimeTo>21:00</WorkTimeTo>
-<ContactDays><Option>пн.</Option><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>сб.</Option><Option>вс.</Option></ContactDays>
-<ContactTimeFrom>08:00</ContactTimeFrom>
-<ContactTimeTo>22:00</ContactTimeTo>
+<WorkDays><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>вс.</Option></WorkDays>
+<ContactDays><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>вс.</Option></ContactDays>
+<ContactTimeFrom>08:30</ContactTimeFrom>
+<ContactTimeTo>23:59</ContactTimeTo>
 <Images><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/cover_kot_tag.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/05_teploobmennik_verstak.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/06_teploobmennik_na_polu.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/08_voda_emkosti_kotelnaya.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/07_voda_banki_na_polu.jpg"/></Images>
 </Ad>
 <Ad>
@@ -989,7 +945,7 @@
 <ServiceSubtype>Сантехника</ServiceSubtype>
 <Specialty>Монтаж и ремонт систем водоснабжения, отопления, канализации</Specialty>
 <Title>Промывка коллектора тёплого пола — Таганрог</Title>
-<Description><![CDATA[<p>Промываем водяные тёплые полы в Таганроге: каждый контур отдельно, через коллектор.</p><p><b>Что делаем:</b></p><ul><li>гидропневматическая промывка каждого контура</li><li>очистка коллектора и фильтров</li><li>удаление воздуха и шлама</li><li>балансировка контуров после промывки</li></ul><p>Пол снова прогревается по всей площади, без холодных зон.</p><p><b>Почему мы:</b></p><ul><li>современное оборудование</li><li>чисто и быстро</li><li>опыт 5 лет</li><li>выезд в день обращения</li><li>работа по договору, гарантия на результат</li></ul><p>Работаем в Таганроге и по Ростовской области. Также делаем монтаж и замену батарей, ставим краны и фильтры.</p><p>Напишите в сообщения или позвоните — проконсультируем бесплатно.</p>]]></Description>
+<Description><![CDATA[<p>Промывка тёплого пола • Контуры • Коллекторы 💧<br>Промываем водяные тёплые полы в Таганроге: в квартирах, домах, офисах и коммерческих помещениях.</p><p><strong>Что делаем:</strong><br>— Гидропневматическая промывка каждого контура отдельно<br>— Очистка коллектора, фильтров и расходомеров<br>— Удаление шлама и воздушных пробок<br>— Возвращаем равномерный прогрев пола без холодных зон</p><p><strong>Преимущества:</strong><br>✅ Современное оборудование<br>✅ Чисто, быстро, без демонтажа и с демонтажом<br>✅ Опыт от 5 лет<br>✅ Выезд в день обращения<br>✅ Гарантия на результат</p><p>📍 Работаем в Таганроге и по Ростовской области<br>🚚 Выезд — бесплатный при заказе от 10 радиаторов</p><p>📞 Звоните или пишите — проконсультируем бесплатно!<br>🔧 Также выполняем: монтаж, замена батарей, установка кранов и фильтров.</p>]]></Description>
 <Address>Ростовская обл., Таганрог</Address>
 <Latitude>47.2096</Latitude>
 <Longitude>38.9352</Longitude>
@@ -1005,12 +961,10 @@
 <Guarantee>Есть</Guarantee>
 <WorkWithContract>Да</WorkWithContract>
 <MaterialPurchase>Возможна</MaterialPurchase>
-<WorkDays><Option>пн.</Option><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>сб.</Option><Option>вс.</Option></WorkDays>
-<WorkTimeFrom>08:00</WorkTimeFrom>
-<WorkTimeTo>21:00</WorkTimeTo>
-<ContactDays><Option>пн.</Option><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>сб.</Option><Option>вс.</Option></ContactDays>
-<ContactTimeFrom>08:00</ContactTimeFrom>
-<ContactTimeTo>22:00</ContactTimeTo>
+<WorkDays><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>вс.</Option></WorkDays>
+<ContactDays><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>вс.</Option></ContactDays>
+<ContactTimeFrom>08:30</ContactTimeFrom>
+<ContactTimeTo>23:59</ContactTimeTo>
 <Images><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/cover_pol_tag.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/01_buster_kollektor_krasnyi.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/02_buster_kollektor_sinii.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/09_voda_konteinery_dnevnoi_svet.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/07_voda_banki_na_polu.jpg"/></Images>
 </Ad>
 <Ad>
@@ -1020,7 +974,7 @@
 <ServiceSubtype>Сантехника</ServiceSubtype>
 <Specialty>Монтаж и ремонт систем водоснабжения, отопления, канализации</Specialty>
 <Title>Замена батарей отопления — Таганрог</Title>
-<Description><![CDATA[<p>Меняем батареи и радиаторы отопления в Таганроге: снимем старые, поставим новые.</p><p><b>Что делаем:</b></p><ul><li>демонтаж старых чугунных батарей</li><li>установка биметаллических и алюминиевых радиаторов</li><li>краны, фильтры и терморегуляторы</li><li>опрессовка и запуск системы</li></ul><p>Новые радиаторы, аккуратный монтаж, без протечек.</p><p><b>Почему мы:</b></p><ul><li>современное оборудование</li><li>чисто и быстро</li><li>опыт 5 лет</li><li>выезд в день обращения</li><li>работа по договору, гарантия на результат</li></ul><p>Работаем в Таганроге и по Ростовской области. Также делаем монтаж и замену батарей, ставим краны и фильтры.</p><p>Напишите в сообщения или позвоните — проконсультируем бесплатно.</p>]]></Description>
+<Description><![CDATA[<p>Замена батарей • Радиаторы • Краны • Фильтры 🔧<br>Меняем батареи и радиаторы отопления в Таганроге: в квартирах, домах, офисах и нежилых помещениях.</p><p><strong>Что делаем:</strong><br>— Демонтаж старых чугунных батарей<br>— Установка биметаллических и алюминиевых радиаторов<br>— Установка кранов, фильтров и терморегуляторов<br>— Опрессовка и запуск — без протечек</p><p><strong>Преимущества:</strong><br>✅ Современное оборудование<br>✅ Чисто, быстро, без демонтажа и с демонтажом<br>✅ Опыт от 5 лет<br>✅ Выезд в день обращения<br>✅ Гарантия на результат</p><p>📍 Работаем в Таганроге и по Ростовской области<br>🚚 Выезд — бесплатный при заказе от 10 радиаторов</p><p>📞 Звоните или пишите — проконсультируем бесплатно!<br>🔧 Также выполняем: монтаж, замена батарей, установка кранов и фильтров.</p>]]></Description>
 <Address>Ростовская обл., Таганрог</Address>
 <Latitude>47.2096</Latitude>
 <Longitude>38.9352</Longitude>
@@ -1036,12 +990,10 @@
 <Guarantee>Есть</Guarantee>
 <WorkWithContract>Да</WorkWithContract>
 <MaterialPurchase>Возможна</MaterialPurchase>
-<WorkDays><Option>пн.</Option><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>сб.</Option><Option>вс.</Option></WorkDays>
-<WorkTimeFrom>08:00</WorkTimeFrom>
-<WorkTimeTo>21:00</WorkTimeTo>
-<ContactDays><Option>пн.</Option><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>сб.</Option><Option>вс.</Option></ContactDays>
-<ContactTimeFrom>08:00</ContactTimeFrom>
-<ContactTimeTo>22:00</ContactTimeTo>
+<WorkDays><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>вс.</Option></WorkDays>
+<ContactDays><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>вс.</Option></ContactDays>
+<ContactTimeFrom>08:30</ContactTimeFrom>
+<ContactTimeTo>23:59</ContactTimeTo>
 <Images><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/cover_zam_tag.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/12_montazh_radiatora_komnata.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/15_armatura_chugun_ruki.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/03_gidropnevmo_bimetall.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/09_voda_konteinery_dnevnoi_svet.jpg"/></Images>
 </Ad>
 <Ad>
@@ -1051,7 +1003,7 @@
 <ServiceSubtype>Сантехника</ServiceSubtype>
 <Specialty>Монтаж и ремонт систем водоснабжения, отопления, канализации</Specialty>
 <Title>Промывка отопления в квартире — Шахты</Title>
-<Description><![CDATA[<p>Промываем радиаторы и трубы отопления в Шахтах: в квартирах, частных домах, офисах и нежилых помещениях.</p><p><b>Что делаем:</b></p><ul><li>гидропневматическая промывка батарей без демонтажа</li><li>химическая промывка от накипи, ржавчины и шлама</li><li>промывка стояков и разводки</li><li>проверка циркуляции и прогрева после работы</li></ul><p>Батареи снова прогреваются равномерно, отопление работает эффективнее — до 30%.</p><p><b>Почему мы:</b></p><ul><li>современное оборудование</li><li>чисто и быстро</li><li>опыт 5 лет</li><li>выезд в день обращения</li><li>работа по договору, гарантия на результат</li></ul><p>Работаем в Шахтах и по Ростовской области. Также делаем монтаж и замену батарей, ставим краны и фильтры.</p><p>Напишите в сообщения или позвоните — проконсультируем бесплатно.</p>]]></Description>
+<Description><![CDATA[<p>Промывка системы отопления • Радиаторы • Трубы • Котлы 💧<br>Оказываем профессиональную промывку отопления в Шахтах: в квартирах, домах, офисах и нежилых помещениях.</p><p><strong>Что делаем:</strong><br>— Промывка радиаторов и труб (химическая и гидропневматическая)<br>— Очистка от накипи, шлама, ржавчины<br>— Промывка котлов и теплообменников<br>— Повышаем эффективность обогрева до 30%</p><p><strong>Преимущества:</strong><br>✅ Современное оборудование<br>✅ Чисто, быстро, без демонтажа и с демонтажом<br>✅ Опыт от 5 лет<br>✅ Выезд в день обращения<br>✅ Гарантия на результат</p><p>📍 Работаем в Шахтах и по Ростовской области<br>🚚 Выезд — бесплатный при заказе от 10 радиаторов</p><p>📞 Звоните или пишите — проконсультируем бесплатно!<br>🔧 Также выполняем: монтаж, замена батарей, установка кранов и фильтров.</p>]]></Description>
 <Address>Ростовская обл., Шахты</Address>
 <Latitude>47.7085</Latitude>
 <Longitude>40.216</Longitude>
@@ -1067,12 +1019,10 @@
 <Guarantee>Есть</Guarantee>
 <WorkWithContract>Да</WorkWithContract>
 <MaterialPurchase>Возможна</MaterialPurchase>
-<WorkDays><Option>пн.</Option><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>сб.</Option><Option>вс.</Option></WorkDays>
-<WorkTimeFrom>08:00</WorkTimeFrom>
-<WorkTimeTo>21:00</WorkTimeTo>
-<ContactDays><Option>пн.</Option><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>сб.</Option><Option>вс.</Option></ContactDays>
-<ContactTimeFrom>08:00</ContactTimeFrom>
-<ContactTimeTo>22:00</ContactTimeTo>
+<WorkDays><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>вс.</Option></WorkDays>
+<ContactDays><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>вс.</Option></ContactDays>
+<ContactTimeFrom>08:30</ContactTimeFrom>
+<ContactTimeTo>23:59</ContactTimeTo>
 <Images><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/cover_rad_sht.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/07_voda_banki_na_polu.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/09_voda_konteinery_dnevnoi_svet.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/15_armatura_chugun_ruki.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/08_voda_emkosti_kotelnaya.jpg"/></Images>
 </Ad>
 <Ad>
@@ -1082,7 +1032,7 @@
 <ServiceSubtype>Сантехника</ServiceSubtype>
 <Specialty>Установка, замена, ремонт сантехники и оборудования</Specialty>
 <Title>Промывка теплообменника котла — Шахты</Title>
-<Description><![CDATA[<p>Промываем газовые и электрические котлы, теплообменники и бойлеры в Шахтах.</p><p><b>Что делаем:</b></p><ul><li>снятие и химическая промывка теплообменника</li><li>промывка вторичного теплообменника ГВС</li><li>очистка от накипи и шлама реагентом</li><li>сборка, запуск и проверка котла</li></ul><p>Котёл греет быстрее, меньше расходует газ и не шумит.</p><p><b>Почему мы:</b></p><ul><li>современное оборудование</li><li>чисто и быстро</li><li>опыт 5 лет</li><li>выезд в день обращения</li><li>работа по договору, гарантия на результат</li></ul><p>Работаем в Шахтах и по Ростовской области. Также делаем монтаж и замену батарей, ставим краны и фильтры.</p><p>Напишите в сообщения или позвоните — проконсультируем бесплатно.</p>]]></Description>
+<Description><![CDATA[<p>Промывка котлов • Теплообменники • Бойлеры 🔥<br>Промываем газовые и электрические котлы в Шахтах: в квартирах, частных домах и котельных.</p><p><strong>Что делаем:</strong><br>— Промывка первичного и вторичного теплообменника<br>— Очистка от накипи и шлама реагентом<br>— Промывка бойлеров косвенного нагрева<br>— Запуск и проверка котла после промывки — греет быстрее и тратит меньше газа</p><p><strong>Преимущества:</strong><br>✅ Современное оборудование<br>✅ Чисто, быстро, без демонтажа и с демонтажом<br>✅ Опыт от 5 лет<br>✅ Выезд в день обращения<br>✅ Гарантия на результат</p><p>📍 Работаем в Шахтах и по Ростовской области<br>🚚 Выезд — бесплатный при заказе от 10 радиаторов</p><p>📞 Звоните или пишите — проконсультируем бесплатно!<br>🔧 Также выполняем: монтаж, замена батарей, установка кранов и фильтров.</p>]]></Description>
 <Address>Ростовская обл., Шахты</Address>
 <Latitude>47.7085</Latitude>
 <Longitude>40.216</Longitude>
@@ -1098,12 +1048,10 @@
 <Guarantee>Есть</Guarantee>
 <WorkWithContract>Да</WorkWithContract>
 <MaterialPurchase>Возможна</MaterialPurchase>
-<WorkDays><Option>пн.</Option><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>сб.</Option><Option>вс.</Option></WorkDays>
-<WorkTimeFrom>08:00</WorkTimeFrom>
-<WorkTimeTo>21:00</WorkTimeTo>
-<ContactDays><Option>пн.</Option><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>сб.</Option><Option>вс.</Option></ContactDays>
-<ContactTimeFrom>08:00</ContactTimeFrom>
-<ContactTimeTo>22:00</ContactTimeTo>
+<WorkDays><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>вс.</Option></WorkDays>
+<ContactDays><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>вс.</Option></ContactDays>
+<ContactTimeFrom>08:30</ContactTimeFrom>
+<ContactTimeTo>23:59</ContactTimeTo>
 <Images><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/cover_kot_sht.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/06_teploobmennik_na_polu.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/08_voda_emkosti_kotelnaya.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/07_voda_banki_na_polu.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/15_armatura_chugun_ruki.jpg"/></Images>
 </Ad>
 <Ad>
@@ -1113,7 +1061,7 @@
 <ServiceSubtype>Сантехника</ServiceSubtype>
 <Specialty>Монтаж и ремонт систем водоснабжения, отопления, канализации</Specialty>
 <Title>Промывка тёплого пола — Шахты</Title>
-<Description><![CDATA[<p>Промываем водяные тёплые полы в Шахтах: каждый контур отдельно, через коллектор.</p><p><b>Что делаем:</b></p><ul><li>гидропневматическая промывка каждого контура</li><li>очистка коллектора и фильтров</li><li>удаление воздуха и шлама</li><li>балансировка контуров после промывки</li></ul><p>Пол снова прогревается по всей площади, без холодных зон.</p><p><b>Почему мы:</b></p><ul><li>современное оборудование</li><li>чисто и быстро</li><li>опыт 5 лет</li><li>выезд в день обращения</li><li>работа по договору, гарантия на результат</li></ul><p>Работаем в Шахтах и по Ростовской области. Также делаем монтаж и замену батарей, ставим краны и фильтры.</p><p>Напишите в сообщения или позвоните — проконсультируем бесплатно.</p>]]></Description>
+<Description><![CDATA[<p>Промывка тёплого пола • Контуры • Коллекторы 💧<br>Промываем водяные тёплые полы в Шахтах: в квартирах, домах, офисах и коммерческих помещениях.</p><p><strong>Что делаем:</strong><br>— Гидропневматическая промывка каждого контура отдельно<br>— Очистка коллектора, фильтров и расходомеров<br>— Удаление шлама и воздушных пробок<br>— Возвращаем равномерный прогрев пола без холодных зон</p><p><strong>Преимущества:</strong><br>✅ Современное оборудование<br>✅ Чисто, быстро, без демонтажа и с демонтажом<br>✅ Опыт от 5 лет<br>✅ Выезд в день обращения<br>✅ Гарантия на результат</p><p>📍 Работаем в Шахтах и по Ростовской области<br>🚚 Выезд — бесплатный при заказе от 10 радиаторов</p><p>📞 Звоните или пишите — проконсультируем бесплатно!<br>🔧 Также выполняем: монтаж, замена батарей, установка кранов и фильтров.</p>]]></Description>
 <Address>Ростовская обл., Шахты</Address>
 <Latitude>47.7085</Latitude>
 <Longitude>40.216</Longitude>
@@ -1129,12 +1077,10 @@
 <Guarantee>Есть</Guarantee>
 <WorkWithContract>Да</WorkWithContract>
 <MaterialPurchase>Возможна</MaterialPurchase>
-<WorkDays><Option>пн.</Option><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>сб.</Option><Option>вс.</Option></WorkDays>
-<WorkTimeFrom>08:00</WorkTimeFrom>
-<WorkTimeTo>21:00</WorkTimeTo>
-<ContactDays><Option>пн.</Option><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>сб.</Option><Option>вс.</Option></ContactDays>
-<ContactTimeFrom>08:00</ContactTimeFrom>
-<ContactTimeTo>22:00</ContactTimeTo>
+<WorkDays><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>вс.</Option></WorkDays>
+<ContactDays><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>вс.</Option></ContactDays>
+<ContactTimeFrom>08:30</ContactTimeFrom>
+<ContactTimeTo>23:59</ContactTimeTo>
 <Images><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/cover_pol_sht.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/02_buster_kollektor_sinii.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/09_voda_konteinery_dnevnoi_svet.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/07_voda_banki_na_polu.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/08_voda_emkosti_kotelnaya.jpg"/></Images>
 </Ad>
 <Ad>
@@ -1144,7 +1090,7 @@
 <ServiceSubtype>Сантехника</ServiceSubtype>
 <Specialty>Монтаж и ремонт систем водоснабжения, отопления, канализации</Specialty>
 <Title>Замена радиаторов отопления — Шахты</Title>
-<Description><![CDATA[<p>Меняем батареи и радиаторы отопления в Шахтах: снимем старые, поставим новые.</p><p><b>Что делаем:</b></p><ul><li>демонтаж старых чугунных батарей</li><li>установка биметаллических и алюминиевых радиаторов</li><li>краны, фильтры и терморегуляторы</li><li>опрессовка и запуск системы</li></ul><p>Новые радиаторы, аккуратный монтаж, без протечек.</p><p><b>Почему мы:</b></p><ul><li>современное оборудование</li><li>чисто и быстро</li><li>опыт 5 лет</li><li>выезд в день обращения</li><li>работа по договору, гарантия на результат</li></ul><p>Работаем в Шахтах и по Ростовской области. Также делаем монтаж и замену батарей, ставим краны и фильтры.</p><p>Напишите в сообщения или позвоните — проконсультируем бесплатно.</p>]]></Description>
+<Description><![CDATA[<p>Замена батарей • Радиаторы • Краны • Фильтры 🔧<br>Меняем батареи и радиаторы отопления в Шахтах: в квартирах, домах, офисах и нежилых помещениях.</p><p><strong>Что делаем:</strong><br>— Демонтаж старых чугунных батарей<br>— Установка биметаллических и алюминиевых радиаторов<br>— Установка кранов, фильтров и терморегуляторов<br>— Опрессовка и запуск — без протечек</p><p><strong>Преимущества:</strong><br>✅ Современное оборудование<br>✅ Чисто, быстро, без демонтажа и с демонтажом<br>✅ Опыт от 5 лет<br>✅ Выезд в день обращения<br>✅ Гарантия на результат</p><p>📍 Работаем в Шахтах и по Ростовской области<br>🚚 Выезд — бесплатный при заказе от 10 радиаторов</p><p>📞 Звоните или пишите — проконсультируем бесплатно!<br>🔧 Также выполняем: монтаж, замена батарей, установка кранов и фильтров.</p>]]></Description>
 <Address>Ростовская обл., Шахты</Address>
 <Latitude>47.7085</Latitude>
 <Longitude>40.216</Longitude>
@@ -1160,12 +1106,10 @@
 <Guarantee>Есть</Guarantee>
 <WorkWithContract>Да</WorkWithContract>
 <MaterialPurchase>Возможна</MaterialPurchase>
-<WorkDays><Option>пн.</Option><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>сб.</Option><Option>вс.</Option></WorkDays>
-<WorkTimeFrom>08:00</WorkTimeFrom>
-<WorkTimeTo>21:00</WorkTimeTo>
-<ContactDays><Option>пн.</Option><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>сб.</Option><Option>вс.</Option></ContactDays>
-<ContactTimeFrom>08:00</ContactTimeFrom>
-<ContactTimeTo>22:00</ContactTimeTo>
+<WorkDays><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>вс.</Option></WorkDays>
+<ContactDays><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>вс.</Option></ContactDays>
+<ContactTimeFrom>08:30</ContactTimeFrom>
+<ContactTimeTo>23:59</ContactTimeTo>
 <Images><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/cover_zam_sht.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/15_armatura_chugun_ruki.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/03_gidropnevmo_bimetall.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/09_voda_konteinery_dnevnoi_svet.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/07_voda_banki_na_polu.jpg"/></Images>
 </Ad>
 <Ad>
@@ -1175,7 +1119,7 @@
 <ServiceSubtype>Сантехника</ServiceSubtype>
 <Specialty>Монтаж и ремонт систем водоснабжения, отопления, канализации</Specialty>
 <Title>Промывка отопления и радиаторов — Новошахтинск</Title>
-<Description><![CDATA[<p>Промываем радиаторы и трубы отопления в Новошахтинске: в квартирах, частных домах, офисах и нежилых помещениях.</p><p><b>Что делаем:</b></p><ul><li>гидропневматическая промывка батарей без демонтажа</li><li>химическая промывка от накипи, ржавчины и шлама</li><li>промывка стояков и разводки</li><li>проверка циркуляции и прогрева после работы</li></ul><p>Батареи снова прогреваются равномерно, отопление работает эффективнее — до 30%.</p><p><b>Почему мы:</b></p><ul><li>современное оборудование</li><li>чисто и быстро</li><li>опыт 5 лет</li><li>выезд в день обращения</li><li>работа по договору, гарантия на результат</li></ul><p>Работаем в Новошахтинске и по Ростовской области. Также делаем монтаж и замену батарей, ставим краны и фильтры.</p><p>Напишите в сообщения или позвоните — проконсультируем бесплатно.</p>]]></Description>
+<Description><![CDATA[<p>Промывка системы отопления • Радиаторы • Трубы • Котлы 💧<br>Оказываем профессиональную промывку отопления в Новошахтинске: в квартирах, домах, офисах и нежилых помещениях.</p><p><strong>Что делаем:</strong><br>— Промывка радиаторов и труб (химическая и гидропневматическая)<br>— Очистка от накипи, шлама, ржавчины<br>— Промывка котлов и теплообменников<br>— Повышаем эффективность обогрева до 30%</p><p><strong>Преимущества:</strong><br>✅ Современное оборудование<br>✅ Чисто, быстро, без демонтажа и с демонтажом<br>✅ Опыт от 5 лет<br>✅ Выезд в день обращения<br>✅ Гарантия на результат</p><p>📍 Работаем в Новошахтинске и по Ростовской области<br>🚚 Выезд — бесплатный при заказе от 10 радиаторов</p><p>📞 Звоните или пишите — проконсультируем бесплатно!<br>🔧 Также выполняем: монтаж, замена батарей, установка кранов и фильтров.</p>]]></Description>
 <Address>Ростовская обл., Новошахтинск</Address>
 <Latitude>47.7576</Latitude>
 <Longitude>39.9339</Longitude>
@@ -1191,12 +1135,10 @@
 <Guarantee>Есть</Guarantee>
 <WorkWithContract>Да</WorkWithContract>
 <MaterialPurchase>Возможна</MaterialPurchase>
-<WorkDays><Option>пн.</Option><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>сб.</Option><Option>вс.</Option></WorkDays>
-<WorkTimeFrom>08:00</WorkTimeFrom>
-<WorkTimeTo>21:00</WorkTimeTo>
-<ContactDays><Option>пн.</Option><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>сб.</Option><Option>вс.</Option></ContactDays>
-<ContactTimeFrom>08:00</ContactTimeFrom>
-<ContactTimeTo>22:00</ContactTimeTo>
+<WorkDays><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>вс.</Option></WorkDays>
+<ContactDays><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>вс.</Option></ContactDays>
+<ContactTimeFrom>08:30</ContactTimeFrom>
+<ContactTimeTo>23:59</ContactTimeTo>
 <Images><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/cover_rad_nsh.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/09_voda_konteinery_dnevnoi_svet.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/15_armatura_chugun_ruki.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/08_voda_emkosti_kotelnaya.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/03_gidropnevmo_bimetall.jpg"/></Images>
 </Ad>
 <Ad>
@@ -1206,7 +1148,7 @@
 <ServiceSubtype>Сантехника</ServiceSubtype>
 <Specialty>Установка, замена, ремонт сантехники и оборудования</Specialty>
 <Title>Промывка газового котла — Новошахтинск</Title>
-<Description><![CDATA[<p>Промываем газовые и электрические котлы, теплообменники и бойлеры в Новошахтинске.</p><p><b>Что делаем:</b></p><ul><li>снятие и химическая промывка теплообменника</li><li>промывка вторичного теплообменника ГВС</li><li>очистка от накипи и шлама реагентом</li><li>сборка, запуск и проверка котла</li></ul><p>Котёл греет быстрее, меньше расходует газ и не шумит.</p><p><b>Почему мы:</b></p><ul><li>современное оборудование</li><li>чисто и быстро</li><li>опыт 5 лет</li><li>выезд в день обращения</li><li>работа по договору, гарантия на результат</li></ul><p>Работаем в Новошахтинске и по Ростовской области. Также делаем монтаж и замену батарей, ставим краны и фильтры.</p><p>Напишите в сообщения или позвоните — проконсультируем бесплатно.</p>]]></Description>
+<Description><![CDATA[<p>Промывка котлов • Теплообменники • Бойлеры 🔥<br>Промываем газовые и электрические котлы в Новошахтинске: в квартирах, частных домах и котельных.</p><p><strong>Что делаем:</strong><br>— Промывка первичного и вторичного теплообменника<br>— Очистка от накипи и шлама реагентом<br>— Промывка бойлеров косвенного нагрева<br>— Запуск и проверка котла после промывки — греет быстрее и тратит меньше газа</p><p><strong>Преимущества:</strong><br>✅ Современное оборудование<br>✅ Чисто, быстро, без демонтажа и с демонтажом<br>✅ Опыт от 5 лет<br>✅ Выезд в день обращения<br>✅ Гарантия на результат</p><p>📍 Работаем в Новошахтинске и по Ростовской области<br>🚚 Выезд — бесплатный при заказе от 10 радиаторов</p><p>📞 Звоните или пишите — проконсультируем бесплатно!<br>🔧 Также выполняем: монтаж, замена батарей, установка кранов и фильтров.</p>]]></Description>
 <Address>Ростовская обл., Новошахтинск</Address>
 <Latitude>47.7576</Latitude>
 <Longitude>39.9339</Longitude>
@@ -1222,12 +1164,10 @@
 <Guarantee>Есть</Guarantee>
 <WorkWithContract>Да</WorkWithContract>
 <MaterialPurchase>Возможна</MaterialPurchase>
-<WorkDays><Option>пн.</Option><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>сб.</Option><Option>вс.</Option></WorkDays>
-<WorkTimeFrom>08:00</WorkTimeFrom>
-<WorkTimeTo>21:00</WorkTimeTo>
-<ContactDays><Option>пн.</Option><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>сб.</Option><Option>вс.</Option></ContactDays>
-<ContactTimeFrom>08:00</ContactTimeFrom>
-<ContactTimeTo>22:00</ContactTimeTo>
+<WorkDays><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>вс.</Option></WorkDays>
+<ContactDays><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>вс.</Option></ContactDays>
+<ContactTimeFrom>08:30</ContactTimeFrom>
+<ContactTimeTo>23:59</ContactTimeTo>
 <Images><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/cover_kot_nsh.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/08_voda_emkosti_kotelnaya.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/07_voda_banki_na_polu.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/15_armatura_chugun_ruki.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/05_teploobmennik_verstak.jpg"/></Images>
 </Ad>
 <Ad>
@@ -1237,7 +1177,7 @@
 <ServiceSubtype>Сантехника</ServiceSubtype>
 <Specialty>Монтаж и ремонт систем водоснабжения, отопления, канализации</Specialty>
 <Title>Промывка водяного тёплого пола — Новошахтинск</Title>
-<Description><![CDATA[<p>Промываем водяные тёплые полы в Новошахтинске: каждый контур отдельно, через коллектор.</p><p><b>Что делаем:</b></p><ul><li>гидропневматическая промывка каждого контура</li><li>очистка коллектора и фильтров</li><li>удаление воздуха и шлама</li><li>балансировка контуров после промывки</li></ul><p>Пол снова прогревается по всей площади, без холодных зон.</p><p><b>Почему мы:</b></p><ul><li>современное оборудование</li><li>чисто и быстро</li><li>опыт 5 лет</li><li>выезд в день обращения</li><li>работа по договору, гарантия на результат</li></ul><p>Работаем в Новошахтинске и по Ростовской области. Также делаем монтаж и замену батарей, ставим краны и фильтры.</p><p>Напишите в сообщения или позвоните — проконсультируем бесплатно.</p>]]></Description>
+<Description><![CDATA[<p>Промывка тёплого пола • Контуры • Коллекторы 💧<br>Промываем водяные тёплые полы в Новошахтинске: в квартирах, домах, офисах и коммерческих помещениях.</p><p><strong>Что делаем:</strong><br>— Гидропневматическая промывка каждого контура отдельно<br>— Очистка коллектора, фильтров и расходомеров<br>— Удаление шлама и воздушных пробок<br>— Возвращаем равномерный прогрев пола без холодных зон</p><p><strong>Преимущества:</strong><br>✅ Современное оборудование<br>✅ Чисто, быстро, без демонтажа и с демонтажом<br>✅ Опыт от 5 лет<br>✅ Выезд в день обращения<br>✅ Гарантия на результат</p><p>📍 Работаем в Новошахтинске и по Ростовской области<br>🚚 Выезд — бесплатный при заказе от 10 радиаторов</p><p>📞 Звоните или пишите — проконсультируем бесплатно!<br>🔧 Также выполняем: монтаж, замена батарей, установка кранов и фильтров.</p>]]></Description>
 <Address>Ростовская обл., Новошахтинск</Address>
 <Latitude>47.7576</Latitude>
 <Longitude>39.9339</Longitude>
@@ -1253,12 +1193,10 @@
 <Guarantee>Есть</Guarantee>
 <WorkWithContract>Да</WorkWithContract>
 <MaterialPurchase>Возможна</MaterialPurchase>
-<WorkDays><Option>пн.</Option><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>сб.</Option><Option>вс.</Option></WorkDays>
-<WorkTimeFrom>08:00</WorkTimeFrom>
-<WorkTimeTo>21:00</WorkTimeTo>
-<ContactDays><Option>пн.</Option><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>сб.</Option><Option>вс.</Option></ContactDays>
-<ContactTimeFrom>08:00</ContactTimeFrom>
-<ContactTimeTo>22:00</ContactTimeTo>
+<WorkDays><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>вс.</Option></WorkDays>
+<ContactDays><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>вс.</Option></ContactDays>
+<ContactTimeFrom>08:30</ContactTimeFrom>
+<ContactTimeTo>23:59</ContactTimeTo>
 <Images><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/cover_pol_nsh.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/09_voda_konteinery_dnevnoi_svet.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/07_voda_banki_na_polu.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/08_voda_emkosti_kotelnaya.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/01_buster_kollektor_krasnyi.jpg"/></Images>
 </Ad>
 <Ad>
@@ -1268,7 +1206,7 @@
 <ServiceSubtype>Сантехника</ServiceSubtype>
 <Specialty>Монтаж и ремонт систем водоснабжения, отопления, канализации</Specialty>
 <Title>Замена и установка батарей — Новошахтинск</Title>
-<Description><![CDATA[<p>Меняем батареи и радиаторы отопления в Новошахтинске: снимем старые, поставим новые.</p><p><b>Что делаем:</b></p><ul><li>демонтаж старых чугунных батарей</li><li>установка биметаллических и алюминиевых радиаторов</li><li>краны, фильтры и терморегуляторы</li><li>опрессовка и запуск системы</li></ul><p>Новые радиаторы, аккуратный монтаж, без протечек.</p><p><b>Почему мы:</b></p><ul><li>современное оборудование</li><li>чисто и быстро</li><li>опыт 5 лет</li><li>выезд в день обращения</li><li>работа по договору, гарантия на результат</li></ul><p>Работаем в Новошахтинске и по Ростовской области. Также делаем монтаж и замену батарей, ставим краны и фильтры.</p><p>Напишите в сообщения или позвоните — проконсультируем бесплатно.</p>]]></Description>
+<Description><![CDATA[<p>Замена батарей • Радиаторы • Краны • Фильтры 🔧<br>Меняем батареи и радиаторы отопления в Новошахтинске: в квартирах, домах, офисах и нежилых помещениях.</p><p><strong>Что делаем:</strong><br>— Демонтаж старых чугунных батарей<br>— Установка биметаллических и алюминиевых радиаторов<br>— Установка кранов, фильтров и терморегуляторов<br>— Опрессовка и запуск — без протечек</p><p><strong>Преимущества:</strong><br>✅ Современное оборудование<br>✅ Чисто, быстро, без демонтажа и с демонтажом<br>✅ Опыт от 5 лет<br>✅ Выезд в день обращения<br>✅ Гарантия на результат</p><p>📍 Работаем в Новошахтинске и по Ростовской области<br>🚚 Выезд — бесплатный при заказе от 10 радиаторов</p><p>📞 Звоните или пишите — проконсультируем бесплатно!<br>🔧 Также выполняем: монтаж, замена батарей, установка кранов и фильтров.</p>]]></Description>
 <Address>Ростовская обл., Новошахтинск</Address>
 <Latitude>47.7576</Latitude>
 <Longitude>39.9339</Longitude>
@@ -1284,12 +1222,10 @@
 <Guarantee>Есть</Guarantee>
 <WorkWithContract>Да</WorkWithContract>
 <MaterialPurchase>Возможна</MaterialPurchase>
-<WorkDays><Option>пн.</Option><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>сб.</Option><Option>вс.</Option></WorkDays>
-<WorkTimeFrom>08:00</WorkTimeFrom>
-<WorkTimeTo>21:00</WorkTimeTo>
-<ContactDays><Option>пн.</Option><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>сб.</Option><Option>вс.</Option></ContactDays>
-<ContactTimeFrom>08:00</ContactTimeFrom>
-<ContactTimeTo>22:00</ContactTimeTo>
+<WorkDays><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>вс.</Option></WorkDays>
+<ContactDays><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>вс.</Option></ContactDays>
+<ContactTimeFrom>08:30</ContactTimeFrom>
+<ContactTimeTo>23:59</ContactTimeTo>
 <Images><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/cover_zam_nsh.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/03_gidropnevmo_bimetall.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/09_voda_konteinery_dnevnoi_svet.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/07_voda_banki_na_polu.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/12_montazh_radiatora_komnata.jpg"/></Images>
 </Ad>
 </Ads>
