@@ -327,7 +327,7 @@
 <ContactDays><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>вс.</Option></ContactDays>
 <ContactTimeFrom>08:30</ContactTimeFrom>
 <ContactTimeTo>23:59</ContactTimeTo>
-<Images><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/cover_rad_rnd.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/03_gidropnevmo_bimetall.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/07_voda_banki_na_polu.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/09_voda_konteinery_dnevnoi_svet.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/15_armatura_chugun_ruki.jpg"/></Images>
+<Images><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/cover_rad_rnd.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/03_gidropnevmo_bimetall.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/04_gidropnevmo_chugun.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/07_voda_banki_na_polu.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/10_chugun_rzhavyi_kollektor.jpg"/></Images>
 </Ad>
 <Ad>
 <Id>ot-kot-rnd</Id>
@@ -356,7 +356,7 @@
 <ContactDays><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>вс.</Option></ContactDays>
 <ContactTimeFrom>08:30</ContactTimeFrom>
 <ContactTimeTo>23:59</ContactTimeTo>
-<Images><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/cover_kot_rnd.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/05_teploobmennik_verstak.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/06_teploobmennik_na_polu.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/08_voda_emkosti_kotelnaya.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/07_voda_banki_na_polu.jpg"/></Images>
+<Images><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/cover_kot_rnd.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/05_teploobmennik_verstak.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/06_teploobmennik_na_polu.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/16_kotelnaya_podkliuchenie_krasnyi.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/18_kotelnaya_uzel_ruki.jpg"/></Images>
 </Ad>
 <Ad>
 <Id>ot-pol-rnd</Id>
@@ -385,7 +385,7 @@
 <ContactDays><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>вс.</Option></ContactDays>
 <ContactTimeFrom>08:30</ContactTimeFrom>
 <ContactTimeTo>23:59</ContactTimeTo>
-<Images><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/cover_pol_rnd.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/01_buster_kollektor_krasnyi.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/02_buster_kollektor_sinii.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/09_voda_konteinery_dnevnoi_svet.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/07_voda_banki_na_polu.jpg"/></Images>
+<Images><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/cover_pol_rnd.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/01_buster_kollektor_krasnyi.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/02_buster_kollektor_sinii.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/17_kotelnaya_podkliuchenie_sinii.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/09_voda_konteinery_dnevnoi_svet.jpg"/></Images>
 </Ad>
 <Ad>
 <Id>ot-zam-rnd</Id>
@@ -414,7 +414,7 @@
 <ContactDays><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>вс.</Option></ContactDays>
 <ContactTimeFrom>08:30</ContactTimeFrom>
 <ContactTimeTo>23:59</ContactTimeTo>
-<Images><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/cover_zam_rnd.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/12_montazh_radiatora_komnata.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/15_armatura_chugun_ruki.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/03_gidropnevmo_bimetall.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/09_voda_konteinery_dnevnoi_svet.jpg"/></Images>
+<Images><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/cover_zam_rnd.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/12_montazh_radiatora_komnata.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/13_montazh_radiatora_dom.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/11_chugun_sniatyi_na_podstavkah.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/14_zamena_krana_i_filtra.jpg"/></Images>
 </Ad>
 <Ad>
 <Id>ot-rad-aks</Id>
@@ -443,7 +443,7 @@
 <ContactDays><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>вс.</Option></ContactDays>
 <ContactTimeFrom>08:30</ContactTimeFrom>
 <ContactTimeTo>23:59</ContactTimeTo>
-<Images><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/cover_rad_aks.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/07_voda_banki_na_polu.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/09_voda_konteinery_dnevnoi_svet.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/15_armatura_chugun_ruki.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/08_voda_emkosti_kotelnaya.jpg"/></Images>
+<Images><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/cover_rad_aks.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/04_gidropnevmo_chugun.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/07_voda_banki_na_polu.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/10_chugun_rzhavyi_kollektor.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/14_zamena_krana_i_filtra.jpg"/></Images>
 </Ad>
 <Ad>
 <Id>ot-kot-aks</Id>
@@ -472,7 +472,7 @@
 <ContactDays><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>вс.</Option></ContactDays>
 <ContactTimeFrom>08:30</ContactTimeFrom>
 <ContactTimeTo>23:59</ContactTimeTo>
-<Images><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/cover_kot_aks.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/06_teploobmennik_na_polu.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/08_voda_emkosti_kotelnaya.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/07_voda_banki_na_polu.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/15_armatura_chugun_ruki.jpg"/></Images>
+<Images><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/cover_kot_aks.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/06_teploobmennik_na_polu.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/16_kotelnaya_podkliuchenie_krasnyi.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/18_kotelnaya_uzel_ruki.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/08_voda_emkosti_kotelnaya.jpg"/></Images>
 </Ad>
 <Ad>
 <Id>ot-pol-aks</Id>
@@ -501,7 +501,7 @@
 <ContactDays><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>вс.</Option></ContactDays>
 <ContactTimeFrom>08:30</ContactTimeFrom>
 <ContactTimeTo>23:59</ContactTimeTo>
-<Images><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/cover_pol_aks.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/02_buster_kollektor_sinii.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/09_voda_konteinery_dnevnoi_svet.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/07_voda_banki_na_polu.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/08_voda_emkosti_kotelnaya.jpg"/></Images>
+<Images><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/cover_pol_aks.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/02_buster_kollektor_sinii.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/17_kotelnaya_podkliuchenie_sinii.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/09_voda_konteinery_dnevnoi_svet.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/16_kotelnaya_podkliuchenie_krasnyi.jpg"/></Images>
 </Ad>
 <Ad>
 <Id>ot-zam-aks</Id>
@@ -530,7 +530,7 @@
 <ContactDays><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>вс.</Option></ContactDays>
 <ContactTimeFrom>08:30</ContactTimeFrom>
 <ContactTimeTo>23:59</ContactTimeTo>
-<Images><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/cover_zam_aks.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/15_armatura_chugun_ruki.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/03_gidropnevmo_bimetall.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/09_voda_konteinery_dnevnoi_svet.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/07_voda_banki_na_polu.jpg"/></Images>
+<Images><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/cover_zam_aks.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/13_montazh_radiatora_dom.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/11_chugun_sniatyi_na_podstavkah.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/14_zamena_krana_i_filtra.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/10_chugun_rzhavyi_kollektor.jpg"/></Images>
 </Ad>
 <Ad>
 <Id>ot-rad-nch</Id>
@@ -559,7 +559,7 @@
 <ContactDays><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>вс.</Option></ContactDays>
 <ContactTimeFrom>08:30</ContactTimeFrom>
 <ContactTimeTo>23:59</ContactTimeTo>
-<Images><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/cover_rad_nch.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/09_voda_konteinery_dnevnoi_svet.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/15_armatura_chugun_ruki.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/08_voda_emkosti_kotelnaya.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/03_gidropnevmo_bimetall.jpg"/></Images>
+<Images><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/cover_rad_nch.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/07_voda_banki_na_polu.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/10_chugun_rzhavyi_kollektor.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/14_zamena_krana_i_filtra.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/09_voda_konteinery_dnevnoi_svet.jpg"/></Images>
 </Ad>
 <Ad>
 <Id>ot-kot-nch</Id>
@@ -588,7 +588,7 @@
 <ContactDays><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>вс.</Option></ContactDays>
 <ContactTimeFrom>08:30</ContactTimeFrom>
 <ContactTimeTo>23:59</ContactTimeTo>
-<Images><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/cover_kot_nch.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/08_voda_emkosti_kotelnaya.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/07_voda_banki_na_polu.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/15_armatura_chugun_ruki.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/05_teploobmennik_verstak.jpg"/></Images>
+<Images><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/cover_kot_nch.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/16_kotelnaya_podkliuchenie_krasnyi.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/18_kotelnaya_uzel_ruki.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/08_voda_emkosti_kotelnaya.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/17_kotelnaya_podkliuchenie_sinii.jpg"/></Images>
 </Ad>
 <Ad>
 <Id>ot-pol-nch</Id>
@@ -617,7 +617,7 @@
 <ContactDays><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>вс.</Option></ContactDays>
 <ContactTimeFrom>08:30</ContactTimeFrom>
 <ContactTimeTo>23:59</ContactTimeTo>
-<Images><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/cover_pol_nch.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/09_voda_konteinery_dnevnoi_svet.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/07_voda_banki_na_polu.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/08_voda_emkosti_kotelnaya.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/01_buster_kollektor_krasnyi.jpg"/></Images>
+<Images><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/cover_pol_nch.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/17_kotelnaya_podkliuchenie_sinii.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/09_voda_konteinery_dnevnoi_svet.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/16_kotelnaya_podkliuchenie_krasnyi.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/08_voda_emkosti_kotelnaya.jpg"/></Images>
 </Ad>
 <Ad>
 <Id>ot-zam-nch</Id>
@@ -646,7 +646,7 @@
 <ContactDays><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>вс.</Option></ContactDays>
 <ContactTimeFrom>08:30</ContactTimeFrom>
 <ContactTimeTo>23:59</ContactTimeTo>
-<Images><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/cover_zam_nch.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/03_gidropnevmo_bimetall.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/09_voda_konteinery_dnevnoi_svet.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/07_voda_banki_na_polu.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/12_montazh_radiatora_komnata.jpg"/></Images>
+<Images><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/cover_zam_nch.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/11_chugun_sniatyi_na_podstavkah.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/14_zamena_krana_i_filtra.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/10_chugun_rzhavyi_kollektor.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/04_gidropnevmo_chugun.jpg"/></Images>
 </Ad>
 <Ad>
 <Id>ot-rad-bat</Id>
@@ -675,7 +675,7 @@
 <ContactDays><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>вс.</Option></ContactDays>
 <ContactTimeFrom>08:30</ContactTimeFrom>
 <ContactTimeTo>23:59</ContactTimeTo>
-<Images><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/cover_rad_bat.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/15_armatura_chugun_ruki.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/08_voda_emkosti_kotelnaya.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/03_gidropnevmo_bimetall.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/07_voda_banki_na_polu.jpg"/></Images>
+<Images><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/cover_rad_bat.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/10_chugun_rzhavyi_kollektor.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/14_zamena_krana_i_filtra.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/09_voda_konteinery_dnevnoi_svet.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/11_chugun_sniatyi_na_podstavkah.jpg"/></Images>
 </Ad>
 <Ad>
 <Id>ot-kot-bat</Id>
@@ -704,7 +704,7 @@
 <ContactDays><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>вс.</Option></ContactDays>
 <ContactTimeFrom>08:30</ContactTimeFrom>
 <ContactTimeTo>23:59</ContactTimeTo>
-<Images><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/cover_kot_bat.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/07_voda_banki_na_polu.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/15_armatura_chugun_ruki.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/05_teploobmennik_verstak.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/06_teploobmennik_na_polu.jpg"/></Images>
+<Images><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/cover_kot_bat.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/18_kotelnaya_uzel_ruki.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/08_voda_emkosti_kotelnaya.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/17_kotelnaya_podkliuchenie_sinii.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/07_voda_banki_na_polu.jpg"/></Images>
 </Ad>
 <Ad>
 <Id>ot-pol-bat</Id>
@@ -733,7 +733,7 @@
 <ContactDays><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>вс.</Option></ContactDays>
 <ContactTimeFrom>08:30</ContactTimeFrom>
 <ContactTimeTo>23:59</ContactTimeTo>
-<Images><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/cover_pol_bat.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/07_voda_banki_na_polu.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/08_voda_emkosti_kotelnaya.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/01_buster_kollektor_krasnyi.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/02_buster_kollektor_sinii.jpg"/></Images>
+<Images><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/cover_pol_bat.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/09_voda_konteinery_dnevnoi_svet.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/16_kotelnaya_podkliuchenie_krasnyi.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/08_voda_emkosti_kotelnaya.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/18_kotelnaya_uzel_ruki.jpg"/></Images>
 </Ad>
 <Ad>
 <Id>ot-zam-bat</Id>
@@ -762,7 +762,7 @@
 <ContactDays><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>вс.</Option></ContactDays>
 <ContactTimeFrom>08:30</ContactTimeFrom>
 <ContactTimeTo>23:59</ContactTimeTo>
-<Images><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/cover_zam_bat.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/09_voda_konteinery_dnevnoi_svet.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/07_voda_banki_na_polu.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/12_montazh_radiatora_komnata.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/15_armatura_chugun_ruki.jpg"/></Images>
+<Images><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/cover_zam_bat.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/14_zamena_krana_i_filtra.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/10_chugun_rzhavyi_kollektor.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/04_gidropnevmo_chugun.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/15_armatura_chugun_ruki.jpg"/></Images>
 </Ad>
 <Ad>
 <Id>ot-rad-azv</Id>
@@ -791,7 +791,7 @@
 <ContactDays><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>вс.</Option></ContactDays>
 <ContactTimeFrom>08:30</ContactTimeFrom>
 <ContactTimeTo>23:59</ContactTimeTo>
-<Images><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/cover_rad_azv.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/08_voda_emkosti_kotelnaya.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/03_gidropnevmo_bimetall.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/07_voda_banki_na_polu.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/09_voda_konteinery_dnevnoi_svet.jpg"/></Images>
+<Images><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/cover_rad_azv.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/14_zamena_krana_i_filtra.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/09_voda_konteinery_dnevnoi_svet.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/11_chugun_sniatyi_na_podstavkah.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/15_armatura_chugun_ruki.jpg"/></Images>
 </Ad>
 <Ad>
 <Id>ot-kot-azv</Id>
@@ -820,7 +820,7 @@
 <ContactDays><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>вс.</Option></ContactDays>
 <ContactTimeFrom>08:30</ContactTimeFrom>
 <ContactTimeTo>23:59</ContactTimeTo>
-<Images><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/cover_kot_azv.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/15_armatura_chugun_ruki.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/05_teploobmennik_verstak.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/06_teploobmennik_na_polu.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/08_voda_emkosti_kotelnaya.jpg"/></Images>
+<Images><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/cover_kot_azv.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/08_voda_emkosti_kotelnaya.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/17_kotelnaya_podkliuchenie_sinii.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/07_voda_banki_na_polu.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/15_armatura_chugun_ruki.jpg"/></Images>
 </Ad>
 <Ad>
 <Id>ot-pol-azv</Id>
@@ -849,7 +849,7 @@
 <ContactDays><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>вс.</Option></ContactDays>
 <ContactTimeFrom>08:30</ContactTimeFrom>
 <ContactTimeTo>23:59</ContactTimeTo>
-<Images><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/cover_pol_azv.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/08_voda_emkosti_kotelnaya.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/01_buster_kollektor_krasnyi.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/02_buster_kollektor_sinii.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/09_voda_konteinery_dnevnoi_svet.jpg"/></Images>
+<Images><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/cover_pol_azv.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/16_kotelnaya_podkliuchenie_krasnyi.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/08_voda_emkosti_kotelnaya.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/18_kotelnaya_uzel_ruki.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/07_voda_banki_na_polu.jpg"/></Images>
 </Ad>
 <Ad>
 <Id>ot-zam-azv</Id>
@@ -878,7 +878,7 @@
 <ContactDays><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>вс.</Option></ContactDays>
 <ContactTimeFrom>08:30</ContactTimeFrom>
 <ContactTimeTo>23:59</ContactTimeTo>
-<Images><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/cover_zam_azv.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/07_voda_banki_na_polu.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/12_montazh_radiatora_komnata.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/15_armatura_chugun_ruki.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/03_gidropnevmo_bimetall.jpg"/></Images>
+<Images><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/cover_zam_azv.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/10_chugun_rzhavyi_kollektor.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/04_gidropnevmo_chugun.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/15_armatura_chugun_ruki.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/03_gidropnevmo_bimetall.jpg"/></Images>
 </Ad>
 <Ad>
 <Id>ot-rad-tag</Id>
@@ -907,7 +907,7 @@
 <ContactDays><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>вс.</Option></ContactDays>
 <ContactTimeFrom>08:30</ContactTimeFrom>
 <ContactTimeTo>23:59</ContactTimeTo>
-<Images><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/cover_rad_tag.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/03_gidropnevmo_bimetall.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/07_voda_banki_na_polu.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/09_voda_konteinery_dnevnoi_svet.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/15_armatura_chugun_ruki.jpg"/></Images>
+<Images><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/cover_rad_tag.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/09_voda_konteinery_dnevnoi_svet.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/11_chugun_sniatyi_na_podstavkah.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/15_armatura_chugun_ruki.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/03_gidropnevmo_bimetall.jpg"/></Images>
 </Ad>
 <Ad>
 <Id>ot-kot-tag</Id>
@@ -936,7 +936,7 @@
 <ContactDays><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>вс.</Option></ContactDays>
 <ContactTimeFrom>08:30</ContactTimeFrom>
 <ContactTimeTo>23:59</ContactTimeTo>
-<Images><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/cover_kot_tag.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/05_teploobmennik_verstak.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/06_teploobmennik_na_polu.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/08_voda_emkosti_kotelnaya.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/07_voda_banki_na_polu.jpg"/></Images>
+<Images><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/cover_kot_tag.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/17_kotelnaya_podkliuchenie_sinii.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/07_voda_banki_na_polu.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/15_armatura_chugun_ruki.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/05_teploobmennik_verstak.jpg"/></Images>
 </Ad>
 <Ad>
 <Id>ot-pol-tag</Id>
@@ -965,7 +965,7 @@
 <ContactDays><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>вс.</Option></ContactDays>
 <ContactTimeFrom>08:30</ContactTimeFrom>
 <ContactTimeTo>23:59</ContactTimeTo>
-<Images><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/cover_pol_tag.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/01_buster_kollektor_krasnyi.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/02_buster_kollektor_sinii.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/09_voda_konteinery_dnevnoi_svet.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/07_voda_banki_na_polu.jpg"/></Images>
+<Images><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/cover_pol_tag.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/08_voda_emkosti_kotelnaya.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/18_kotelnaya_uzel_ruki.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/07_voda_banki_na_polu.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/01_buster_kollektor_krasnyi.jpg"/></Images>
 </Ad>
 <Ad>
 <Id>ot-zam-tag</Id>
@@ -994,7 +994,7 @@
 <ContactDays><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>вс.</Option></ContactDays>
 <ContactTimeFrom>08:30</ContactTimeFrom>
 <ContactTimeTo>23:59</ContactTimeTo>
-<Images><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/cover_zam_tag.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/12_montazh_radiatora_komnata.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/15_armatura_chugun_ruki.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/03_gidropnevmo_bimetall.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/09_voda_konteinery_dnevnoi_svet.jpg"/></Images>
+<Images><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/cover_zam_tag.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/04_gidropnevmo_chugun.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/15_armatura_chugun_ruki.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/03_gidropnevmo_bimetall.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/12_montazh_radiatora_komnata.jpg"/></Images>
 </Ad>
 <Ad>
 <Id>ot-rad-sht</Id>
@@ -1023,7 +1023,7 @@
 <ContactDays><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>вс.</Option></ContactDays>
 <ContactTimeFrom>08:30</ContactTimeFrom>
 <ContactTimeTo>23:59</ContactTimeTo>
-<Images><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/cover_rad_sht.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/07_voda_banki_na_polu.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/09_voda_konteinery_dnevnoi_svet.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/15_armatura_chugun_ruki.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/08_voda_emkosti_kotelnaya.jpg"/></Images>
+<Images><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/cover_rad_sht.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/11_chugun_sniatyi_na_podstavkah.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/15_armatura_chugun_ruki.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/03_gidropnevmo_bimetall.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/04_gidropnevmo_chugun.jpg"/></Images>
 </Ad>
 <Ad>
 <Id>ot-kot-sht</Id>
@@ -1052,7 +1052,7 @@
 <ContactDays><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>вс.</Option></ContactDays>
 <ContactTimeFrom>08:30</ContactTimeFrom>
 <ContactTimeTo>23:59</ContactTimeTo>
-<Images><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/cover_kot_sht.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/06_teploobmennik_na_polu.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/08_voda_emkosti_kotelnaya.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/07_voda_banki_na_polu.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/15_armatura_chugun_ruki.jpg"/></Images>
+<Images><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/cover_kot_sht.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/07_voda_banki_na_polu.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/15_armatura_chugun_ruki.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/05_teploobmennik_verstak.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/06_teploobmennik_na_polu.jpg"/></Images>
 </Ad>
 <Ad>
 <Id>ot-pol-sht</Id>
@@ -1081,7 +1081,7 @@
 <ContactDays><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>вс.</Option></ContactDays>
 <ContactTimeFrom>08:30</ContactTimeFrom>
 <ContactTimeTo>23:59</ContactTimeTo>
-<Images><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/cover_pol_sht.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/02_buster_kollektor_sinii.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/09_voda_konteinery_dnevnoi_svet.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/07_voda_banki_na_polu.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/08_voda_emkosti_kotelnaya.jpg"/></Images>
+<Images><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/cover_pol_sht.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/18_kotelnaya_uzel_ruki.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/07_voda_banki_na_polu.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/01_buster_kollektor_krasnyi.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/02_buster_kollektor_sinii.jpg"/></Images>
 </Ad>
 <Ad>
 <Id>ot-zam-sht</Id>
@@ -1110,7 +1110,7 @@
 <ContactDays><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>вс.</Option></ContactDays>
 <ContactTimeFrom>08:30</ContactTimeFrom>
 <ContactTimeTo>23:59</ContactTimeTo>
-<Images><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/cover_zam_sht.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/15_armatura_chugun_ruki.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/03_gidropnevmo_bimetall.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/09_voda_konteinery_dnevnoi_svet.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/07_voda_banki_na_polu.jpg"/></Images>
+<Images><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/cover_zam_sht.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/15_armatura_chugun_ruki.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/03_gidropnevmo_bimetall.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/12_montazh_radiatora_komnata.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/13_montazh_radiatora_dom.jpg"/></Images>
 </Ad>
 <Ad>
 <Id>ot-rad-nsh</Id>
@@ -1139,7 +1139,7 @@
 <ContactDays><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>вс.</Option></ContactDays>
 <ContactTimeFrom>08:30</ContactTimeFrom>
 <ContactTimeTo>23:59</ContactTimeTo>
-<Images><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/cover_rad_nsh.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/09_voda_konteinery_dnevnoi_svet.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/15_armatura_chugun_ruki.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/08_voda_emkosti_kotelnaya.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/03_gidropnevmo_bimetall.jpg"/></Images>
+<Images><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/cover_rad_nsh.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/15_armatura_chugun_ruki.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/03_gidropnevmo_bimetall.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/04_gidropnevmo_chugun.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/07_voda_banki_na_polu.jpg"/></Images>
 </Ad>
 <Ad>
 <Id>ot-kot-nsh</Id>
@@ -1168,7 +1168,7 @@
 <ContactDays><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>вс.</Option></ContactDays>
 <ContactTimeFrom>08:30</ContactTimeFrom>
 <ContactTimeTo>23:59</ContactTimeTo>
-<Images><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/cover_kot_nsh.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/08_voda_emkosti_kotelnaya.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/07_voda_banki_na_polu.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/15_armatura_chugun_ruki.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/05_teploobmennik_verstak.jpg"/></Images>
+<Images><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/cover_kot_nsh.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/15_armatura_chugun_ruki.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/05_teploobmennik_verstak.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/06_teploobmennik_na_polu.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/16_kotelnaya_podkliuchenie_krasnyi.jpg"/></Images>
 </Ad>
 <Ad>
 <Id>ot-pol-nsh</Id>
@@ -1197,7 +1197,7 @@
 <ContactDays><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>вс.</Option></ContactDays>
 <ContactTimeFrom>08:30</ContactTimeFrom>
 <ContactTimeTo>23:59</ContactTimeTo>
-<Images><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/cover_pol_nsh.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/09_voda_konteinery_dnevnoi_svet.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/07_voda_banki_na_polu.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/08_voda_emkosti_kotelnaya.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/01_buster_kollektor_krasnyi.jpg"/></Images>
+<Images><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/cover_pol_nsh.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/07_voda_banki_na_polu.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/01_buster_kollektor_krasnyi.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/02_buster_kollektor_sinii.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/17_kotelnaya_podkliuchenie_sinii.jpg"/></Images>
 </Ad>
 <Ad>
 <Id>ot-zam-nsh</Id>
@@ -1226,6 +1226,6 @@
 <ContactDays><Option>вт.</Option><Option>ср.</Option><Option>чт.</Option><Option>пт.</Option><Option>вс.</Option></ContactDays>
 <ContactTimeFrom>08:30</ContactTimeFrom>
 <ContactTimeTo>23:59</ContactTimeTo>
-<Images><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/cover_zam_nsh.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/03_gidropnevmo_bimetall.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/09_voda_konteinery_dnevnoi_svet.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/07_voda_banki_na_polu.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/12_montazh_radiatora_komnata.jpg"/></Images>
+<Images><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/cover_zam_nsh.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/03_gidropnevmo_bimetall.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/12_montazh_radiatora_komnata.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/13_montazh_radiatora_dom.jpg"/><Image url="https://raw.githubusercontent.com/hollylend/azs-avito-media/main/oto/11_chugun_sniatyi_na_podstavkah.jpg"/></Images>
 </Ad>
 </Ads>
